@@ -4,13 +4,13 @@ Patch em português da visual novel Dies Irae ~ Interview with Kaziklu Bey ~.
 Compatível somente com a versão Steam.
 
 Este patch:
-- Restaura **créditos originais**(Abertura e encerramento com nomes japoneses e música traduzida)
+- Restaura **créditos originais** (Abertura e encerramento com nomes japoneses e música traduzida)
 - Restaura **nomes oficiais** (Em conformidade ao artbook "Ω Ewigkeit")
 - Conserta **linhas quebradas** (`[s]"[z]`)
 - Erradica **"fucks&Hells&shits&bitchs" analfabetos** 
 - Restaura **fonte original** (Anticezanic)
 
-Para informações detalhadas sobre este projeto e como traduzir jogos que utilizem a engine MalieSystem, clique **[aqui](https://github.com/Monaco-a-Knox/amantesamentes/blob/main/outros/README.md)**.
+Para informações detalhadas sobre como traduzir jogos que utilizem a engine MalieSystem, clique **[aqui](https://github.com/Monaco-a-Knox/amantesamentes/blob/main/outros/README.md)**.
 
 # Progresso
 
