@@ -41,6 +41,6 @@ Ao todo, são 6154 linhas de texto em si totalizando 740MB
 # Nota
 
 Este projeto começou e foi interrompido em novembro/2024. 
-Retomado em novembro/2025, entretanto não me comprometo a terminá-lo pois odeio Wilhelm Ehrenburg e a forma como este 
+Retomado em novembro/2025, entretanto não me comprometo a terminá-lo pois odeio Wilhelm Ehrenburg e a forma como este jogo é narrado.
 
 
