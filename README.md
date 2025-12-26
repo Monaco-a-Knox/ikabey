@@ -14,22 +14,7 @@ Para informações detalhadas sobre este projeto e como traduzir jogos que utili
 
 # Progresso
 
-- 0~300 = 300 - Traduzido | Editado
-- 301~677 = 336 Traduzido | Editado
-- 678~1338 = 660 Traduzido | Editado
-- 1339~3955  = 2616 Traduzido |
-- 3956~4828 = 872 Em tradução |
-- 4829~5045 = 216 Em tradução |
-- 5046~5220 = 154 Em tradução |
-- 5221~5545 = 324 Traduzido |
-- 5546~6070 = 524 ????
-- 6071~6355 = 284 ????
-- 6356~6722 = 366 ????
-- 6723~6895 = 172 Traduzido |
-- 6895~9664 = 2769 ????
-- 9665~9867 = 202 Traduzido | Editado
-- 9868~9980 = 112 Traduzido | Editado
-- 9981~10000 = 19 - Traduzido | Editado
+Cerca de 50%
 
 Ao todo, são 6154 linhas de texto em si totalizando 740MB
 
@@ -55,5 +40,7 @@ Ao todo, são 6154 linhas de texto em si totalizando 740MB
 
 # Nota
 
-Eu odeio o Bey e fiz isso por “obrigação”, portanto não considero que esteja “ótimo”. Fique à vontade para aperfeiçoar.
+Este projeto começou e foi interrompido em novembro/2024. 
+Retomado em novembro/2025, entretanto não me comprometo a terminá-lo pois odeio Wilhelm Ehrenburg e a forma como este 
+
 
