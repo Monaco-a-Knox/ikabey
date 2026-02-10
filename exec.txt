@@ -1982,7 +1982,7 @@ v_riz0003
 "Não entendi muito bem o que está acontecendo aqui, mas, basicamente, o Bey tá com ciúmes?"
 v_vir0330
 "Quem tá com 
-ciumes
+ciúmes
 ? Tu é retardada também?!"
 Aquilo me tirou do sério, mas logo percebi que minha lógica não era párea para três mulheres. A Claudia ainda inventou mais um monte de merda, mas percebi que ia amanhecer se ficasse listando cada coisa, então optei por encerrar o assunto ali.
 v_vir0331
@@ -3711,91 +3711,91 @@ v_vir1044
 "Fuck..."
 I had Beatrice let me go. Once freed, I just looked at them, clicked my tongue, turned around, and fucked off.
 v_bat0284
-"You fool... You went too far just now."
+"Imbecil... Passou dos limites dessa vez."
 v_riz0196
-"Bey, like I said before, return to where we first gathered."
+"Bey, eu acabei de dizer para voltar onde nos reunimos primeiro."
 v_vir1045
-"Yeah, yeah, I get it."
-I didn’t regret killing those shits in front of Claudia, and I definitely didn’t think it was an actual mistake.
-However, I definitely found it pointless.
-After all, scaring her didn’t bring me any closer to my goal. By that point, I figured that it wouldn’t have had any effect.
-You’ll know the reason for that soon enough. I’ll tell you all about it, I swear.
-You’ll understand why I found her so incomprehensible and disgusting.
-And so...
+"É, eu sei."
+Eu não senti qualquer remorso por ter matado eles na frente da Claudia, nem sequer pensei que aquilo foi um erro.
+Mas eu me dei conta de que não tinha sentido.
+Isso porque assustar ela não ajudaria em nada a alcançar meu objetivo. Foi quando percebi que aquilo não surtiria efeito algum.
+Logo vai entender o motivo disso. Fica tranquila que vou contar.
+Vai entender o porque de eu a considerar uma existência repugnante e incompreensível.
+E então...
 v_vir0465
-"There’s no one here, damn it."
-I’d walked around the forest until I returned to the side of the pond. This was the place we first gathered at, yet I was the only one who came. I didn’t think they left me, but at the same time, I could totally imagine Beatrice pulling something like that.
-Not like I cared if she did, but still, the situation pissed me off. It actually revived the anger I’d just suppressed.
+"Merda, não tem ninguém aqui."
+Eu dei a volta na floresta até retornar à margem do lago de onde partimos. Considerando tudo o que acontece, eu não cogitei ter sido deixado para trás, mas... a Babylon não faria isso, mas a Beatrice certamente sim.
+O que ela fazia não era da minha conta, mas aquela situação me tirou do sério. Minha raiva voltou logo quando eu finalmente tinha conseguido contê-la.
 v_vir0466
-"Man, fuck this shit..."
-This whole situation was absurd. I normally knew what made me irritated, but what I was feeling was still a bit too much for me.
-Why? Fuck if I know. At the very least, I didn’t think this was just jealousy or disgrace or whatever the fuck.
-After all, those feelings faded as fast as they came. They were just a matter of damaged pride and anger at being looked down upon.
-I had a concrete image of what I was and didn’t like being underestimated. Whenever that happened, I’d just go and prove them wrong. Hell, I’d even have fun imagining myself doing it.
-That was why my current rage was different. It didn’t transform into any kind of pleasure as time passed. Instead, it simply gnawed deeper and deeper into me.
+"Foda-se essa gente..."
+Tudo aquilo era simplesmente ridículo. Eu normalmente tenho ciência do meu temperamento exaltado, mas o que eu senti naquela era um pouco demais até pra mim.
+Por quê? Sei lá, porra. Ao menos sei que não era um simples ciúmes, humilhação ou coisa parecida.
+Isso porque esse sentimento momentâneo desapareceu tão rápido quanto surgiu. They were just a matter of damaged pride and anger at being looked down upon.
+Eu tinha uma imagem concreta de quem eu era e odiava ser subestimado. Eu simplesmente ia lá e provava que estavam errados sobre mim; pelo contrário, eu até me divertia me imaginando fazendo isso.
+É por isso que aquela raiva era diferente. Ela não foi se transformando em prazer conforme o tempo passava. Pelo contrário, ela estava me consumindo cada vez mais.
 v_kru0197
-"Ta-da! The wait is over! Little Claudia is here!"
-My irritation was much like the fear you’d direct at something you couldn’t understand.
-It was the most bothersome emotion in my eyes.
+"Ta-da! Não precisa mais esperar! A Claudinha chegou!"
+Minha irritação estava muito mais para um temor pelo incompreensível.
+Essa era a emoção que mais me incomodava.
 v_kru0198
-"E-Eh? Why the face? Did I say it wrong? Did I mess up?"
+"U-Ué? ? Why the face? Did I say it wrong? Por acaso errei na piada?"
 v_kru0199
-"Just so you’re aware, it took quite a lot to say something that embarrassing."
-She’d walked out from behind a tree and began speaking nonsense that made me heave a long sigh.
-Anyone with a normal mentality would never approach me after seeing what I’d done back there, yet she did exactly that. I honestly had no idea what went on in her head.
+"Eu precisei de bastante coragem para conseguir dizer algo tão embaraçoso, sabia?"
+Ela saiu da sombra de uma árvore, falando coisas que só me fizeram suspirar profundamente.
+Qualquer pessoa sã não se aproximaria de mim depois daquilo; mas foi exatamente o que ela fez. Eu não fazia a menor ideia do que se passava na cabeça dela.
 v_vir0467
-"I’m used to you messing up."
+"Você erra todo dia."
 v_vir0468
-"If you have time to waste on such stupid shit, then..."
+"Se tem tempo para ficar pensando nisso, então..."
 v_kru0200
-"Yes?"
-Her puzzled expression always made me sigh again. This one, though, was of resignation.
+"O que gostaria?"
+Eu suspirei ainda mais fundo diante daquela cara   puzzled expression always made me sigh again. Dessa vez, estava mais para um suspiro de resignação.
 v_vir0469
-"Nothing. Where’re the others?"
+"Não é nada. Cadê elas?"
 v_kru0201
-"Oh. Well... Riza went to prepare a means of transport for us, and the others joined her."
+"Ah, sobre isso... A senhorita Riza foi providências um meio de transporte para retornarmos, e os doi foram com ela."
 v_vir0470
-"And you stayed behind? Surprised Beatrice allowed it."
+"E te deixaram pra trás? Como a Beatrice permitiu isso?"
 v_kru0202
-"She did speak out against it, but I wanted some time alone with you."
-I gave her a questioning look. Claudia smiled and softened her tone.
+"Bom, ela se manifestou contra, mas eu queria ficar um tempo a sós com você."
+“Por quê?” ― ela respondeu meu olhar desconfiado com um tom suave enquanto sorria.
 v_kru0203
-"Because you seemed lonely."
+"Porque você parecia solitário."
 v_kru0204
-"You’re quite upset, aren’t you? I feel that it might be my fault."
+"Está incomodado, não? E fiquei pensando que isso poderia ser por minha causa."
 v_vir0471
-"Huh. And why?"
+"Hã? Por que tá achando isso?"
 v_kru0205
-"Hmm... That question is somewhat hard because I have far too many answers."
-She began naming them while counting them on her fingers.
+"Hmm... Na verdade, sobre isso, é difícil responder porque tenho muitas respostas para essa pergunta."
+Ela começou a contar nos dedos cada uma delas enquanto falava.
 v_kru0206
-"Because you see me as useless?"
+"Porque está sempre pensando que não sirvo pra nada?"
 v_vir0472
-"Cause you are."
+"Então reconhece?"
 v_kru0207
-"Because I do nothing but make life more bothersome for you?"
+"Talvez porque só acabo causando problemas?"
 v_vir0473
-"Ain’t that obvious?"
+"Só percebeu agora?"
 v_kru0208
-"Because you don’t like people of faith?"
-Affirming that would’ve been a waste of my breath.
+"Seria porque não gosta de religiosos?"
+Essa nem precisava responder porque era óbvio.
 v_kru0209
-"Is that why you don’t like Louie?"
-I felt my eyebrows twitch. She noticed and made a strange expression.
+"Então é porque não gosta do Louie?"
+Eu senti minhas sobrancelhas twitch. Ela percebeu e, na mesma hora, fez uma careta.
 It looked flustered, troubled, and frightened at the same time.
-And yet, there was also a hint of elation.
+Apesar disso, não tinha qualquer sinal de  yet, there was also a hint of elation.
 v_kru0210
-"O-Oh my... I see. I see how it is now."
+"H-Hoh... Entendi. Entendi, então é isso?"
 v_kru0211
-"I didn’t believe it when Beatrice told me, but if it’s true... What a predicament."
+"Eu não acreditei numa bobagem dessas quando a Beatrice me contou... Mas vejam só."
 v_vir0474
-"What is?"
+"Que foi?"
 v_kru0212
-"I mean, seeing us get along made you feel this and that... You know..."
+"Então, ver nós dois nos dando bem deixa você todo irritadinho..."
 v_kru0213
-"B-Basically, 
-that’s
- how you see me, no? No, that can’t be. That could never happen. What nonsense! It’s forbidden!"
+"E-Então... é 
+assim
+ que você me vê? Não pode ser, não tem como ser verdade. O que está dizendo? Não podemos! Não há a mínima possibilidade!"
 v_kru0214
 "Ah... que homem mais pecador é você!"
 v_vir0475
@@ -3971,49 +3971,49 @@ Spread out on the sofa, he laughed at his past self. But even if he’d been mor
 After all, Wilhelm didn’t care if there was something he could do to help her ― he wouldn’t have done it regardless.
 Dinah already knew him well enough to understand that. With that in mind, she continued the interview.
 v_din0035
-"Cancer, Hã? Didn’t you people have any sort of secret art that could’ve helped her?
+"Câncer, não é? Mas vocês tinha alguma arte secreta que fosse capaz de retirá-lo?
 v_din0036
- Isn’t magic capable of dealing with incurable diseases?"
+ Com poderes mágicos até doenças incuráveis não deveriam ser problema? Não é assim que funciona?"
 v_vir0498
-"It is. But look at it this way... Consider your recorder. Can you build it from scratch? All on your own, I mean."
+"Sim, mas pensa que, por exemplo, esse gravador... Consegue construir ele sozinha do zero?"
 v_vir0499
-"Using any sort of technology and granting it are completely different things. The only member of the Obsidian Table who actually had power was Mercurius. Without him, we wouldn’t have the slightest bit of magic.
+"Usar tecnologia e produzir tecnologia são coisas diferentes. O único que compreendia os mistérios da Távola Redonda Obsidiana era o Mercurius. Não teríamos magia nenhuma sem o auxílio dele.
 v_vir0500
-And then there’s the fact we didn’t have a single member that could heal others. Soothing pain and all that shit was just impossible for us."
+Além do mais, não tinha ninguém entre nós com o poder de ajudar os outros. Curar alguém? Tá querendo demais."
 v_din0037
-"Because you didn’t have such a craving?"
+"Porque não havia ninguém com essa ânsia?"
 v_vir0501
-"Yeah. None of us were right for the job."
-The Obsidian Table was a group of wartime soldiers and madmen who sought power. It was only natural for their souls to lean strongly toward destruction.
+"É... Ninguém tinha disposição pra isso."
+A Távola Redonda Obsidiana era uma aglomerado de soldados e fracassados em busca de poder durante os tempos de guerra. Era óbvio que nossas almas seguissem pelo caminho da destruição.
 v_din0038
-"But didn’t Rusalka Schwägerin learn magic on her own? Wasn’t she capable of saving Claudia?
+"Mas a Rusalka Schwägerin não havia dominado a magia por contra própria? Então ela não poderia ter salvado a Claudia?
 v_din0039
-Or did the witch not possess anything capable of subduing terminal cancer?"
+Ou bruxas não possuem nenhuma arte capaz de reverter um câncer em estado terminal?"
 v_vir0502
-"Hah. Try asking that to her face. I’d love to see her screech about it.
+"Hã? Vou saber? Pergunta isso pra ela. I’d love to see her screech about it.
 v_vir0503
-See, she can be a seriously low caliber person sometimes. Even if she agreed to do it, it sure as shit wouldn’t have been for free."
+Ela é do tipo, she can be a seriously low caliber person sometimes. Supondo que pudesse, ela não faria de graça."
 v_din0040
 "I assume she would have demanded the rights to Claudia?"
 v_vir0504
-"Yeah. And then she’d have been her new toy."
+"Pode apostar. Iria fazer dela seu novo brinquedo."
 v_din0041
-"So you didn’t want to rely on her, nor bow before Mercurius..."
+"Por isso não queria depender dela, nem se curvar perante o Carl Kraft..."
 v_vir0505
-"And I just didn’t give a shit about saving her, really."
-That was the jist of it.
-The vampire wanted to make her crave life and kill her the moment she screamed she didn’t want to die.
+"Pra começar, eu não estava nem aí pra Claudia."
+No fim, era assim mesmo.
+O vampiro desejava fazê-la se apegar à vida e matá-la no momento em que implorasse que deseja viver.
 v_din0042
-"The time limit was a double-edged blade for you, then. It had a powerful effect on Claudia, but also limited your chances and left you with no room to make mistakes.
+"O tempo que restava era uma espada de dois-gumes, não era? Exercia grande influência sobre o coração da Claudia, mas também limitava suas chances e não o permitir errar.
 v_din0043
-Calling it a ’gamble’ might be a bit much, but assuming we did... Did you believe you had a chance?"
+Seria inapropriado considerar isso como uma “aposta”, mas nesse caso... Qual a probabilidade?"
 v_vir0506
-"A chance? Heh, well now..."
+"Probabilidade? Não tem isso, não..."
 v_din0044
-"I can already tell you aren’t the type to think things through, but still..."
+"Já entendi que não é do tipo I can already tell you aren’t the type to think things through, but still..."
 From what he’d told her, Dinah assumed that bringing Claudia to fights and exposing her to violence wasn’t nearly enough to instill a fear of death in her, and so she figured Wilhelm had reconsidered his course of action.
-Claudia had been dancing with death since the earliest of her days.
-As such, no normal means had a chance of fazing her.
+Isso porque ela esteve enfrentando a morte desde muito jovem.
+Um ataque frontal não iria a abalar.
 v_din0045
 "Se me permite analisar o caso da Claudia. Tenho certeza que era garota de espírito livre e sedenta pela felicidade.
 v_din0046
@@ -4118,13 +4118,13 @@ v_vir0522
 v_din0069
 "Dreams? What do you mean...?"
 v_vir0523
-"Look, let me just keep talking. Before that, though... Sure you don’t want some more to drink?"
+"Escuta, de qualquer forma, vou continuar. Mas antes disso... Não tá precisando de mais uma dose, Dinah?"
 v_din0070
-"Now that you mention it, I’m up for one more, thank you... Actually, let 
-me
- make it this time."
+"Agora que mencionou that you mention it, I’m up for one more, thank you... Deixe que 
+eu
+ preparo dessa vez."
 v_vir0524
-"Oh? Well that’s nice. Sure, go ahead."
+"Eh? Well that’s nice. Sure, go ahead."
 As Dinah stood up and headed for the counter, Wilhelm whistled a cheery tune.
 In a moment shorter than the blink of an eye, in a slumber deeper than the oceans, I saw a dream.
 There was neither peace nor bliss. Even the feeling of discomfort it could potentially have given me had died and decayed aeons ago.
@@ -4622,158 +4622,158 @@ v_mrk0064
 The man didn’t hesitate to reply.
 Lorde Heydrich, however, merely looked down on the two freaks with a golden smile on His visage.
 v_rsr0016
-"Hoooo, that was one stressful meeting. Don’t just bring weirdos like that around, I swear."
+"Esse foi um encontro bem estressante. Não fique trazendo estranhos pra cá."
 v_syp0019
-"I concur. My nerves are already quite frail, so I would appreciate it if you didn’t do anything to wear them down any further, Lieutenant."
+"Concordo. My nerves are already quite frail, so I would appreciate it if you didn’t do anything to wear them down any further, Lieutenant."
 v_vir0557
-"Shut the fuck up. Don’t whine to me. I’m bothered by this whole thing, too."
-On our way back, we walked through the long hallway leading to the castle’s gate.
-There was no meaning or reason behind the group we had. I wanted to be alone as soon as possible, but those idiots somehow felt the need to tag along with me.
-Though that being said, it wasn’t like I didn’t understand the point of what they were saying.
+"Calem a boca. Não venham reclamar comigo. Isso tudo também me incomoda."
+Depois disso, nós percorremos um longo caminho em direção aos portões do castelo.
+There was no meaning or reason behind the group we had. Eu queria ficar sozinho o quanto antes, mas aqueles dois resolveram ficarthose idiots somehow felt the need to tag along with me.
+Embora eu precise reconhecer que entendia o que os levou a me seguir.
 v_syp0020
-"In all honesty, I am afraid of what will come. This is giving me a really bad feeling."
+"Honestamente, tenho medo do que está por vir. Estou com um péssimo pressentimento."
 v_syp0021
-"I never imagined that there was someone who could talk back to Lorde Heydrich like that... Lady Samiel might be able to restrain herself, but I cannot be sure about Lorde Schreiber."
+"E pensar que há alguém capaz de responder o Lorde Heydrich daquela forma... A Lorde Samiel é uma coisa, mas não sei dizer o que o Lorde Schreiber faria."
 v_rsr0017
-"And you, too, Bey. You never hold back, and I don’t want to be caught up in some nonsensical mess."
+"E você também, Bey. Nunca se contém, e não estou a fim de acabar sendo envolvido  and I don’t want to be caught up in some nonsensical mess."
 v_syp0022
-"Indeed, I couldn’t agree more. If possible, I would like Lorde Heydrich himself to quickly end him, or for him to leave as soon as possible."
+"Sim, a Malleus tem toda razão. Eu preferia que o Lorde Heydrich desse cabo dele o quanto antes, o que ele fosse embora o mais rápido possível."
 v_syp0023
-"I see no reason for him to remain on this bed of nails."
+"Não compreendo o que ele está pensando pare permanecer nessa saia justa."
 v_syp0024
-"Is he, perhaps, just exceptionally courageous...?"
-If anything, I’d call him "insane." Just remembering him irritated me.
+"Talvez ele apenas seja excepcionalmente corajoso...?"
+Pelo contrário, estava mais para “insano”. Eu fico irritado só de lembrar.
 v_vir0558
-"Were you the one who looked into him?"
+"Foi você quem o investigou, Spinne?"
 v_syp0025
-"Yes. Is there anything you want to know? I have all the details regarding his background, including date of birth, the state of his family, academic records, and even the shady jobs he’s done for the Vatican."
+"Fui eu, sim. Quer saber algo sobre ele? Tenho todas as informações sobre ele, desde seu nascimento, informações de família e até registros acadêmicos, bem como os trabalhos por fora que ele prestou ao Vaticano."
 v_syp0026
-"If you wish, I can reveal it all to you."
+"Se é o que deseja, posso exporto tudo aqui mesmo."
 v_vir0559
-"No, I don’t give a rat’s ass about the details. Just tell me your impression of him."
+"Não, não ligo pra essas coisas fúteis. Só quero saber o que achou dele."
 v_syp0027
-"Hmm... Then I’ll be as brief as possible."
-Spinne scratched his chin.
+"Hmm... Sendo assim, serei o mais conciso possível."
+Assim que disse isso, ele coçou o queixo e começou a falar.
 v_syp0028
-"He is basically a hallmark of excellence. If he’d taken the normal path at the Vatican, he might have even become a cardinal, but the current day and age didn’t allow him to."
+"He is basically a hallmark of excellence. Se seguisse pelo caminho normal do Vaticano, poderia até mesmo se tornar um cardeal, mas a era em que vivemos não permite."
 v_syp0029
-"This is a time when the strong must pick the path of arms."
+"Aqueles reconhecidos por sua força devem trilhar o caminho das armas."
 v_rsr0018
-"Oh? So, what, the thing at Katyn was his first setback?"
+"Heh... Então teria sido esse o primeiro revés dele?"
 v_syp0030
-"We can’t be certain. The church has saints that were much like heroes of the battlefield. The faith is about more than just donning the cloth and spreading doctrine."
+"Não há como afirmar. A igreja possuí santos que muito mais assemelham-se a heróis de guerra. A fé vai muito além de meramente vestir a batina e pregar."
 v_syp0031
-"The Roman Catholic Church is a religion of war, after all. It appears that he considered it to be the truer way of practicing the faith than relying on the whitewashing it presents."
+"A Igreja Católica de Roma sempre foi uma religião de guerra. Tal qual, ele parece acreditar que esse é o verdadeiro caminho   appears that he considered it to be the truer way of practicing the faith than relying on the whitewashing it presents."
 v_syp0032
-"That’s what his records suggest, anyway. He was doing his jobs so well that it’s hard to believe he was forced into it. In fact, I feel passion in it."
+"Ao menos é o que seus registros sugerem. Ele tem conduzido tão bem seu trabalho que é difícil acreditar que está sendo forçado a executá-lo. Pelo contrário, é possível sentir que o faz por paixão."
 v_syp0033
-"And that’s why I think it doesn’t add up. The man I saw in the throne room definitely doesn’t seem like a zealot burning with faith."
+"Justamente por isso acredito não bate. Aquele que vimos há pouco não era um crente ferrenho."
 v_syp0034
-"His derisive attitude and pessimism made him seem somewhat empty, almost."
-Spinne was definitely right about that. Not to mention that someone who’d sworn an oath to the church would want to return as quickly as possible.
+"Deu para sentir um certo niilismo naquele escárnio e pessimismo com o mundo."
+Sim, ele estava certo sobre isso. Sem contar que qualquer um que tenha feito um juramento à igreja iria querer retornar o quanto antes.
 v_syp0035
-"However, the hearts of men are difficult to read. Just as Malleus said, the incident at Katyn might be his first failure."
+"Contudo, o coração das pessoas é complexo. Assim como a Malleus mencionou, o incidente em Katyn deve ter sido seu primeiro revés."
 v_syp0036
-"He’d lost all his comrades, after all. The man might be hurt and desperate."
+"Afinal, ele perdeu todos os seus companheiros. Ferido,"
 v_syp0037
-"If that was the case, it made sense why he wasn’t afraid of Lorde Heydrich. He is basically a corpse, after all."
+"Pensando por essa ótica, faz sentido ele não ter ficado com medo diante do Lorde Heydrich. É basicamente um cadáver."
 v_rsr0019
-"So he just stopped caring about everything? Well, I can’t say he looked like that."
+"Tipo como se não ligasse mais pra nada? Bom, não me pareceu ser esse o caso."
 v_vir0560
-"And that’s your take on him, Hã?"
+"De qualquer forma, é isso o que pensa?"
 I could agree with some of his points, but not overall. His character just seemed more vague than before, honestly.
 In that case, I figured it was better to make it simpler, and changed my approach.
 v_vir0561
-"Malleus, what does he look like to you?"
+"Como você o vê, Malleus?"
 v_vir0562
-"I mean, to you as a magician."
-Was he strong, weak, and could he stand against us? I’d been curious about that for a while.
-He definitely wasn’t normal. He’d even caught me off guard in Katyn. However, for whatever reason, I couldn’t quite gauge his power.
-That could probably be solved by just attacking him, and that was what I would have usually done, but with him, I was just stuck searching for the right timing.
-My frustration probably showed on my face, since Malleus replied with a line clearly meant to calm me down.
+"Tô falando pelos olhos de uma bruxa."
+Forte? Fraco? Mais importante: fazia frente a nós? Isso era o que mais estava me incomodando.
+Ele não era qualquer um; consegui até me pegar desprevenido em Katyn. Mas, por alguma razão, eu não consegui aferir direito o poder dele.
+Seria mais rápido descobrir comprando briga, e isso era o que eu normalmente faria, mas eu estava tendo dificuldade para encontrar o momento exato pra isso.
+Considerando que a Malleus respondeu como se estivesse tentando me acalmar, é possível que essa minha frustração estivesse estampada na minha cara.
 v_rsr0020
-"You’re stronger than him. I mean, it’s pretty hard to tell what his color is."
+"Você é mais forte que ele. Tipo, eu não sei dizer exatamente qual a cor dele."
 v_syp0038
 "O que quer dizer?"
 v_rsr0021
-"Hmm, well, it has something to do with life force, basically. Animals have it, obviously, and you can find it in towns and nature."
+"Hmm, então... é basicamente uma questão de força vital. Animais têm, obviamente, e também está presente em cidades e na natureza."
 v_rsr0022
-"It’s often been called ’aura’ recently. I’m sure you two can feel it, too, however faint it may be. It’s the feeling you get when you just 
-know
- that someone’s in trouble, that a place is bad or good for you, etcetera."
+"Acho que hoje em dia chamam de “aura”. Vocês dois também deve conseguir sentir, não conseguem? É quando 
+sabe 
+ que alguém é perigoso, quando tem algo de errado ao redor e por aí vai."
 v_rsr0023
-"Everyone has their own way of sensing it, and for me, it’s color. Just by looking, I can see the shade, depth, intensity, all that. And that’s what I use to make my judgments."
+"Cada pessoa sente isso de um jeito; no meu caso, é pela cor. Só de olhar eu consigo enxergar tonalidades, intensidades e assim fazer meu julgamento."
 v_vir0563
-"News to me."
-I did see what she meant, though. However, while she used color, for me, it was smell and taste. I tended to judge people and just about everything else by whether they seemed appetizing.
+"Nunca ouvi falar."
+Mas entendi onde ela chegar chegar. Enquanto a Malleus distinguia pela cor, no meu caso era olfato e paladar. Eu costumo julgar as pessoas com base no quão apetitosas ou não elas parecem ser.
 v_syp0039
-"Most intriguing. What is my color, if I may ask?"
+"Deveras intrigante, não é mesmo? A propósito, qual a minha cor?"
 v_rsr0024
-"You’re not very consistent. The gradient seems purple, but it changes depending on your mood or physical condition. Overall, though, you’re pretty typical."
+"Você não é muito consistente. Tem um degradê meio púrpura, mas varia a depender do seu humor e condicionamento físico. Mas isso é meio que o normal."
 v_rsr0025
-"Then again, most normal people are warmer colors, like orange or yellow."
+"Só que as pessoas comuns tendem a ter cores quentes, como laranja e amarelo."
 v_rsr0026
-"Basically, you’re normal, but unpleasant."
-She pointed her finger at him, looking all self-important.
+"Resumindo: você é basicamente uma pessoa normal, só que desagradável."
+Ela apontou o dedo pra ele e falou toda arrogante.
 v_syp0040
-"Haaah. Well, I suppose I can’t deny that. But the way you put it makes it sound like those who have few changes in their color are abnormal."
+"Ah, bom... não posso negar. Contudo, da maneira como coloca, fica parecendo que aqueles com leves mudanças de cor são anormais."
 v_rsr0027
-"That’s more or less how it works, but don’t you go around spreading this. It’d be a bother if someone felt I was talking behind their back."
+"Eu diria que é mais ou menos assim, mas não vá sair por aí espalhando pra todo mundo. Vai me complicar se alguém descobrir que eu estava falando mal pelas costas"
 v_vir0564
-"All right, all right. And?"
+"Sei, sei. E aí?"
 v_rsr0028
-"The closest single-colors we have are Machina, Samiel, and Schreiber. I don’t think I need to tell you that they’re pure black, pure red, and pure white."
+"Os mais próximos de uma única cor são o Machina, a Samiel e o Schreiber. Nem preciso dizer que são puro preto, vermelho e branco, né?"
 v_rsr0029
-"And those colors are the type that would rumble and howl if you could somehow hear them. They’re not right upstairs."
-For someone concerned about talking behind people’s backs, she sure wasn’t keeping her mouth under control.
+"E essas cores são do tipo que  those colors are the type that would rumble and howl if you could somehow hear them. Não são dos mais espertos."
+Para alguém que estava preocupada, ela continuou falando pelas costas deles sem papas na língua.
 v_rsr0030
-"Valkyria is greenish, while Babylon is navy blue or ultramarine. And Bey, you’re red, too."
+"A Valquíria é esverdeada, enquanto a Babylon é azul-marinho ou ultramarino. E você é meio avermelhado, Bey."
 v_rsr0031
-"But unlike Samiel’s, your red’s mixed with black. If hers is like fire, yours is like blood."
+"Mas o seu vermelho, diferentemente da Samiel, tem uma mistura de preto. Se o dele é fogo, o seu é cor-de-sangue."
 v_vir0565
-"And what about you?"
+"E você?"
 v_rsr0032
-"Hm? Pink, of course."
-That was definitely bullshit. Both Spinne and I knew it, but didn’t care enough to push it.
+"Hm? Rosa, é claro."
+Mentirosa. Tanto eu quanto o Spinne pensamos o mesmo, mas não estávamos a fim de arrumar confusão.
 v_rsr0033
-"So yeah, that’s how I see us all. And as for our guest, Ludwig..."
+"E é assim que eu vejo cada um de nós. Já aquele tal de Ludwig..."
 That
- was what I actually cared about. She’d said that it was pretty hard to tell his color, but now she’d drop the details.
+ was what I actually cared about. E’d said that it was pretty hard to tell his color, but now she’d drop the details.
 v_rsr0034
-"I’d say he’s gray. A bit like mist, I guess? Or maybe darkness?"
+"Cinza, eu diria. Meio que nebuloso, ou talvez trevoso?"
 v_vir0566
-"But darkness is black."
+"Mas trevas é preto."
 v_rsr0035
-"Not always. The only thing true about darkness is that you can’t see it."
+"Nem sempre é bem assim. A única coisa verdadeira sobre a escuridão é que você não consegue vê-a."
 v_rsr0036
-"For an extreme example, imagine looking at something so bright that your vision doesn’t work. Wouldn’t that be a darkness made of light?"
+"Um exemplo extremo: olhar diretamente para algo tão reluzente ao ponto de não conseguir enxergar não seria o mesmo que uma escuridão de luz?"
 v_syp0041
-"Hmm, that sounds reasonable."
-That seemed like sophism to me, but I could understand Malleus’ take on Ludwig. To her, he was a man like the darkness.
+"Hmm, falando assim, até que faz sentido."
+Isso tudo era conversa fiada pra mim, mas o que a Malleus estava dizendo era que o Ludwig era um homem que se assemelhava à escuridão. Essa parte eu entendi.
 v_rsr0037
-"So yeah, I don’t know what to make of him overall. There could be a deeper color hiding behind the mist, but I don’t see any strength in him. He doesn’t seem all that dangerous."
+"Dito isso, não sei como definir. Pode ser que tenha uma cor mais profunda por trás dessa névoa, mas não sinto nada de poderoso nele. Não passa a impressão de ser perigoso."
 v_rsr0038
-"Spinne might be right about him losing all motivation. And when you think about it, gray suits him pretty well."
+"Por isso, pode ser que ele tenha perdido a motivação, assim como o Spinne mencionou. E quando olha por esse lado, cinza até que combina com ele, não acha?"
 v_rsr0039
-"It’s a weak, apathetic color."
+"É uma cor fraca, até que apática."
 v_syp0042
-"Or it could be just a smokescreen."
-I considered why he’d do that, and a certain proverb came to mind.
+"Também poderíamos dizer que ele está envolto por fumaça."
+Ou seja: uma cortina de fumaça. E quando comecei a pensar em um motivo para isso, um provérbio clássico me veio à mente.
 v_syp0043
-"Lieutenant Bey, you seem to be curious about his combat ability, but I think there’s no need for you to worry."
+"Parece que o Primeiro-tenente Bey está intrigado com as habilidades de combate dele, mas acredito que não há com o que se preocupar."
 v_syp0044
-"Some say that ’a skilled hawk hides its talons”, but I find that to be nothing but lowly nonsense."
+"Tem aquele ditado do falcão habilidoso... mas considero uma grande bobagem de baixo nível."
 v_rsr0040
-"Ah, I’m with you there. After all, if the hawk has to hide the talons to be able to catch anything, it’s sort of losing the struggle to begin with."
+"Ah, nisso eu concordo. Afinal, se o falcão precisa esconder as presas para capturar sua presa, ele já perdeu metade da batalha."
 v_rsr0041
-"Those who are truly skilled actually show off what they’re capable of and use their might to make everyone else bow down to them. When they do that, the prey just line up for the slaughter."
+"Aqueles verdadeiramente habilidosos expõem suas capacidades logo de cara e as usam para fazer com que os outros se curvem perante eles. As presas se entregam por conta própria."
 v_rsr0042
-"That’s more or less how it is between countries, isn’t it? If they acted weak, they’d just be crushed from every direction. That’s why they flaunt their power and open up new negotiation opportunities."
+"Não é basicamente assim que funciona entre países? Se demonstrarem fraqueza, serão esmagado por todos os lados. É por isso que não escondem seus poderes e assim abrem margem para negociações."
 v_syp0045
-"Indeed. That is exactly how our Lorde Heydrich behaves, as well."
+"Precisamente. É exatamente assim que o Lorde Heydrich atua."
 v_syp0046
-"Hiding your talons and going for a fatal blow once there’s an opening only works the first time. Those who present this idea as one to live by are fools."
-Basically, concealing your abilities was highly limiting and momentary. Since it would stop being useful after the first time, it was meaningless in the long term.
+"Esconder suas garras e deferir um golpe falta quando vislumbrar uma abertura... só funciona na primeira vez. Aqueles que propagam isso como se fosse uma lição de vida não passam de tolos."
+Resumindo: o ato de esconder suas garras é extremamente efêmero. É uma estratégia que perde completamente o sentido depois da primeira vez e não tem efeito no longo prazo.
 v_rsr0043
 "However, if you stand out too much, you might get some people holding you back or just pushing all the troublesome shit onto you. Still, if you don’t want that, you’d probably have to shut yourself away from everyone."
 v_rsr0044
@@ -4818,9 +4818,9 @@ v_rsr0051
 "Yeah. So if I made those two an exception..."
 Malleus suddenly looked up at my face. It felt like she was trying to look through my thoughts and see what was beyond.
 v_rsr0052
-"Claudia is pretty amazing, too. She’s pure blue."
+"A Claudia também não é de se menosprezar. Aquela garota é azul puro."
 v_rsr0053
-"It’s the color of a clear, ever-expanding sky. It makes me feel like an angel is about to descend, and honestly, it kinda scares me."
+"A cor de um céu claro que se expande a perder de vista. Até agora eu sinto como se um anjo fosse descender e, honestamente, isso me assusta."
 v_vir0571
 "Um anjo? Não fala merda."
 Her shitty comparison pissed me off, so when I got back to my haunt, I instantly kicked away one of the chairs.
@@ -5037,7 +5037,7 @@ Upon hearing those words, I felt a revelation strike me like a bolt of lightning
 v_rut0076
 "As Trevas?"
 v_mrk0065
-"Indeed. You are the dark, Matusalém. And that is no mere comparison.
+"De fato, é própria escuridão, Matusalém. E, claro, não é mera comparação, mas a verdade dos fatos.
 v_mrk0066
 When faced with those of a gloomy or inhumane nature, many enjoy proclaiming them to be dark or assuming that they possess a dark heart, but that does not apply to you. In fact, treating darkness and vice as synonyms is naught but a mistake."
 v_mrk0067
@@ -5284,8 +5284,8 @@ v_bat0255
 "T-Tá brincando? Que situação inacreditavelmente repugnante é essa?"
 v_riz0165
 "Hmm... É assustadoramente incompatível com ele ao ponto de parecer criminoso."
-Getting surrounded by three women while I held bags of potatoes in both my hands made me want to throw them and run, but that clearly wasn’t an option.
-However, it definitely wasn’t a situation where I could just try and look cool. Acting big would’ve just made me look like a joke, so all I did was click my tongue.
+Ser cercado por três mulheres enquanto e carregava sacos de batatas em ambas as mãos me fez querer largar tudo e sair correndo, mas, claro, essa não era uma opção.
+Dito isso, eu também não estava em condições de ameaçar ninguém ali. Mesmo que tentasse demonstrar alguma atitude, acabaria virando motivo de piada, então só me restou estalar a língua.
 v_vir1012
 "Calem a boca. Me esqueçam! Até eu saio para fazer compras, não sabiam?"
 v_vir1013
@@ -6037,7 +6037,7 @@ v_kru0359
 "Onde pensa que vai? Ei, Wilhelm!"
 v_vir0666
 "Foda-se. Faça o que quer até morrer."
-They killed my vibe, and I couldn’t understand them at all. Were they fucking insane or what?
+They killed my vibe, and I couldn’t understand them at all. Ainda acho que são todos os malucos.
 Well, yeah, looking back on it, I was immature back then, but I actually was young, so it was only natural.
 Five years had passed since I’d met Lorde Heydrich, became a knight of the Obsidian Table, and gained inhuman abilities. That’d been my entire history at that point, and I was only in my twenties.
 I have no intention of making excuses for myself, but yeah, I just wasn’t mature enough. The excessive power, mixed with my youth and emotions, was way too much for me to handle.
@@ -6048,7 +6048,7 @@ I want to allow my instincts to always explode at the exact right time, aimed at
 And for that, I have to train my scent. I feel like I have to learn to conduct myself in a way that allows me a clear head no matter the situation. I want to become a man who’s able to sniff out the right way to do that ― not by reason, but through intuition.
 I never want to misfire like that again. Imperfect releases like that can fuck off.
 Honestly, I’m still learning to do that, but that was exactly when I became aware of the philosophy.
-My life as Matusalém would continue forever, and I wanted to have fun doing it.
+Minha vida como Matusalém deve continuar para sempre, e penso que seja necessário para que se torne proveitosa.
 E isso porque...
 Sim, justamente porque...
 v_syr0001
