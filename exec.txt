@@ -917,7 +917,7 @@ v_bat0022
 "De novo isso...?"
 v_kru0049
 "Sim. No fim, tudo leva a isso."
-Até a Beatrice a olhou com uma expressão amarga. Ela já estava mais do que ciente de que que a Claudia não iria abrir mão disso.
+Até a Beatrice a olhou com uma expressão amarga. Ela já estava mais do que ciente de que a Claudia não iria abrir mão disso.
 v_bat0023
 "Isso não passa de um delírio. Você não é incompleta."
 v_kru0050
@@ -1382,7 +1382,7 @@ tivesse dado no pé
 , mas o fato de que ele 
 escapou 
 do Lorde Heydrich me deixou sem palavras. Foi como se o mundo tivesse virado de cabeça pra baixo.
-E mais do que isso, o próprio Ouro, em seu trono, esboçou um sorriso autodepreciativo, com se reconhecesse que haviam passado a perna nele. Uma onda de apreenção se espalhou entre nós, tentando entender que tipo de pesadelo era aquele.
+E mais do que isso, o próprio Ouro, em seu trono, esboçou um sorriso autodepreciativo, com se reconhecesse que haviam passado a perna nele. Uma onda de apreensão se espalhou entre nós, tentando entender que tipo de pesadelo era aquele.
 v_rin0003
 "O que vós pensam de mim? Estou longe de ser onipotente ou onipresente."
 v_rin0004
@@ -1407,7 +1407,7 @@ Na época em que o Lorde Heydrich forjou o próprio assassinato, o Cristof já t
 Não era um cheiro no qual que conseguisse farejar, mas se o próprio Lorde Heydrich estava dizendo, eu só podia aceitar que era assim que funcionava.
 E faz sentido. Caçadores costumam se cobrir com o odor de seus presas para que elas não percebam sua presença.
 O Cristof só conseguiu escapar do Lorde Heydrich porque fez algo parecido, e precisaria elogiar as habilidades daquele padre para conseguir isso. Mas se ele não estivesse ciente, geraria o efeito contrário.
-Ele nem sabia que estava correndo por aí espalhando o cheiro do Lorde Heydrich por onde passava. Talvez fosse o oposto: ele podia estar sinalizando que que o encontrássemos.
+Ele nem sabia que estava correndo por aí espalhando o cheiro do Lorde Heydrich por onde passava. Talvez fosse o oposto: ele podia estar sinalizando que o encontrássemos.
 Imaginando ser o caso, eu esperava que o problema fosse resolvido como se nunca tivesse existido.
 v_rin0009
 "Dito isso, não iremos atrás dele. Permitirei que passe um tempo fazendo o que bem entender, e peço que vós façam o mesmo."
@@ -3056,7 +3056,7 @@ O ano era 1942 ― ou seja, dois anos antes. Mais especificamente, no dia em que
 Obviamente, era tudo notícia falsa e eu nunca acreditei, mas estaria mentindo se dissesse que não chegou a me abalar.
 Nesse ponto, o mesmo podia ser dito das duas...
 v_bat0165
-"Ainda me pergunto seu eu realmente esbocei um sorriso naquela hora. E até agora não sei dizer."
+"Ainda me pergunto se eu realmente esbocei um sorriso naquela hora. E até agora não sei dizer."
 v_bat0166
 "Assim que recebeu a informação sobre a morte do Lorde Heydrich, a major cometeu um erro incomum por parte dela no campo de batalha, que acabou a incapacitando. Embora sua vida tenha saído com vida, seu futuro como militar foi completamente interrompido. Não ― foi muito além disso."
 v_bat0167
@@ -3077,7 +3077,7 @@ v_bat0171
 "A guerra estava piorando, e nossa pátria podia acabar perecendo. Mesmo com nossas famílias, amigos e nós mesmas correndo o risco de nos ferirmos ou morrermos, eu me senti aliviada por ter sido salva."
 v_bat0172
 "Isso porque foi o nosso fim como seres humanos. Não importava com quanto infortúnio nos deparássemos, nada estaria além do mundo que eu era capaz de compreender."
-Ouvir sobre a morte do Ouro fez como que ela sentisse o exato o oposto da Samiel, que foi tomada pelo desespero.
+Ouvir sobre a morte do Ouro fez como que ela sentisse o exato oposto da Samiel, que foi tomada pelo desespero.
 O arrependimento que ela sentiu por causa disso foi o que moldou quem ela é hoje.
 v_bat0173
 "Então... o Lorde Heydrich morreu."
@@ -3090,41 +3090,41 @@ v_bat0174
 v_ero0032
 "Sai da minha frente! Agora! Vou te matar! Nunca mais apareça na minha frente!"
 Samiel desabou após gritar violentamente, gemendo como uma fera ofegante.
-Observando sua sua superiora rasgando os lençóis com tanta força que suas unhas parcialmente derretidas chegavam a desprender, Beatrice levantou-se.
+Observando sua superiora rasgando os lençóis com tanta força que suas unhas parcialmente derretidas chegavam a desprender, Beatrice levantou-se.
 v_bat0175
 "Trarei um vaso novo."
 Ela pretendia levar flores à Samiel e permanecer ao seu lado independentemente de quantas vezes apanhasse. Era tudo o que ela poderia fazer ali e também algo que ela 
 precisava
  fazer.
-Esse era o único sentimento residente em seu coração naquela momento, tudo mais havia se dispersado.
-Ao mesmo em relação a visão de mundo na qual ela acreditava.
+Esse era o único sentimento residente em seu coração naquele momento, tudo mais havia se dispersado.
+Ao mesmo tempo, em relação à visão de mundo na qual ela acreditava.
 v_bat0176
-"A guerra ainda está longe de terminar. As pessoas não vão parar de morrer. Essa séria de tragédias deve continuar até que nossa pátria seja derrotada, não, tenho certeza de que ainda vai continuar além."
+"A guerra ainda está longe de terminar. As pessoas não vão parar de morrer. Essa série de tragédias deve continuar até que nossa pátria seja derrotada, não, tenho certeza de que ainda vai continuar além."
 v_bat0177
-"Mas para mim e a major, a guerra terminou."
+"Mas para mim e à major, a guerra terminou."
 v_bat0178
 "O medo de sermos consumidas pela luz dourada e deixarmos de sermos pessoas... Nós conseguimos o evitar o futuro que mais me deixava apreensiva, agora tudo que precisamos é seguir na carreira militar e aceitar esse destino."
 v_bat0179
 "Nada muito complexo; é bem simples."
 v_bat0180
-"Ter acreditado tolamente nisso..."
+"Ter acreditado tola e ingenuamente nisso..."
 v_bat0181
 "Ao menos para mim... o meu maior arrependimento."
 Ela tinha razão sobre se arrepender. Essa era a parte estúpida dela.
-Assim que Beatrice deixo o leito de sua superiora, que surgiu em seu lugar foi ninguém mais ninguém menos que o Ouro em pessoa.
+Assim que Beatrice deixo o leito de sua superiora, quem surgiu em seu lugar foi ninguém mais ninguém menos que o Ouro em pessoa.
 Samiel entrou em choque logo de cara, em seguida começou a chorar de alegria. O Lorde Heydrich a pegou nos braços e falou em seguida.
 v_rin0020
-"Não se esconda. Não há nada de vergonhoso. Vós estais mais bela do que nunca."
+"Não se esconda. Não há nada de vergonhoso. Vós estais mais belas do que nunca."
 v_rin0021
 "Venha comigo, major. Afinal, ambos partilhamos da morte de nossos corpos."
 v_ero0033
 "Sim... Sim... Aonde quer que for eu estarei!"
-Por isso, no fim das contas, a única idiota nessa história foi a Beatrice. Ela não suportou a realidade e fugiu para se esconder dentro de uma iluso que atendia suas conveniências.
+Por isso, no fim das contas, a única idiota nessa história foi a Beatrice. Ela não suportou a realidade e fugiu para se esconder dentro de uma ilusão que atendia suas conveniências.
 Sério, como ela pode ser tão imbecil a ponto de acreditar que o Lorde Heydrich teria morrido?.
-Ignorar a realidade para proteger o seu próprio mundinho sem graça foi o que fez dela um fracasso como militar ― that weighed heavy on her.
-Se quer saber, tenho certeza de que a Beatrice tivesse ficado o tempo todo ao lado da Samiel, o final ainda seria o mesmo.
+Ignorar a realidade para proteger o seu próprio mundinho sem graça foi o que fez dela um fracasso como militar e pesou sobre suas costas.
+Se quer saber, tenho certeza de que, se a Beatrice tivesse ficado o tempo todo ao lado da Samiel, o final ainda seria o mesmo.
 v_bat0182
-"É inegável que cometei uma erro."
+"É inegável que cometi uma erro."
 v_bat0183
 "É inegável que fui tola."
 v_bat0184
@@ -3136,7 +3136,7 @@ bênção
 maldita
  do feiticeiro.
 v_mrk0034
-"Persegue uma alma alma que rutila e deixa para trás nada além da morte. É a ceifadora que convoca os campeões ao Valhalla ― a mais apropriada para se tornar a vanguarda de Gladsheim."
+"Persegue uma alma que rutila e deixa para trás nada além da morte. É a ceifadora que convoca os campeões ao Valhalla ― a mais apropriada para se tornar a vanguarda de Gladsheim."
 v_mrk0035
 "A fim de celebrar esse carma, permita-me conceder-te o título de “Valquíria” ― a donzela da guerra que corre pelos campos da guerra como um raio de luz."
 A Beatrice cerrou os dentes e começou a negar veementemente aquele rótulo.
@@ -3147,11 +3147,11 @@ v_vir0420
 "...Entendi."
 O filme desapareceu e tudo que restou a minha frente foi a escuridão. A única coisa que eu sabia era que a situação continua exatamente a mesma.
 Aquele lugar consistia puramente de “escuridão”. Ela materializava esse conceito exibindo o lado negro dos corações e almas humanas.
-Pensando nisso, até que é um mecanismo de defesa inteligente. É provável que invasores não conseguiriam deixar o lugar até que encarassem e derrotassem a escuridão dentro dos seus corações.
+Pensando nisso, até que é um mecanismo de defesa inteligente. É provável que invasores não conseguissem deixar o lugar até que encarassem e derrotassem a escuridão dentro dos seus corações.
 Muito indireto pro meu gosto, mas não dá pra negar que atrapalha. Isso porque todo mundo tem um lado negro.
 Sem contar que, supondo que eu estivesse certo sobre enfrentar sua escuridão ― não tinha como saber exatamente o que precisava ser feito. Mesmo que consiga derrotar seu lado negro, ainda fica a dúvida se isso me afetaria de alguma maneira.
 De toda forma, as memórias que vi eram partes importantes da Babylon e da Beatrice como pessoas. Arrancá-las seria como perder a espinha dorsal ― sequer conseguiria permanecer de pé.
-Mas, então, coo me livrar daquela escuridão?
+Mas, então, como me livrar daquela escuridão?
 v_vir0421
 "Mas que porre. É muito filosófico pra mim."
 Era uma provação típica de um feiticeiro. Se tivéssemos levado a Malleus, ela provavelmente teria alguma utilidade, mas ali a gente teve que resolver com nossas próprias forças.
@@ -3162,7 +3162,7 @@ Não tinha como fazer nada até que mostrasse qual era a minha escuridão.
 v_hrg0015
 "Minha nossa. É tão simples."
 E o que apareceu foi uma mulher em meio a um jardim de rosas vermelhas.
-Eu soube que ela era louca no momento que olhou pra mim com aquele sorriso depravado enquanto se banhava em uma fonte de sangue.
+Eu soube que ela era louca no momento em que olhou pra mim com aquele sorriso depravado enquanto se banhava em uma fonte de sangue.
 E estralei a língua diante daquela incessante e nada natural paixão reluzindo em seu olhar carmesim.
 v_vir0423
 "Tch..."
@@ -3177,14 +3177,14 @@ v_hrg0018
 "Tem comido bem todos os dias? Não ficou resfriado, ficou? Se sentiu sozinho sem mim? Ei, ei, ei! Me abrace igual fez aquele dia."
 v_vir0425
 "Que porre! Cala a boca!"
-Eu não estava a fim de perder tempo falando com ilusão daquela mulher desvairada, então mostrei o dedo e fui curto e grosso.
+Eu não estava a fim de perder tempo falando com a ilusão daquela mulher desvairada, então mostrei o dedo e fui curto e grosso.
 v_vir0426
-"Vamos resolver isso logo. Eu pergunto e você respondeu igual retardada."
+"Vamos resolver isso logo. Eu pergunto e você responde igual retardada."
 v_vir0427
 "Se começar a tagarelar coisa que eu não perguntei..."
 v_hrg0019
 "Vai me matar? Então acho que já pode.Afinal, eu――"
-Eu a interrompi prontamente dando um soco na cara de Helga. Sua silhueta dispersou em todas as direções, juntamente de um som similar a um balão d'água estourando.
+Eu a interrompi prontamente, dando um soco na cara de Helga. Sua silhueta dispersou-se em todas as direções, juntamente de um som similar a um balão d'água estourando.
 v_hrg0020
 "Ufu, ufufufu... Sim, assim mesmo! Eu amo esse seu jeito!"
 v_hrg0021
@@ -3203,7 +3203,7 @@ v_hrg0023
 "Para você, a memória mais difícil de se livrar sou eu, não sou?"
 v_hrg0024
 "Sou seu laço sanguíneo mais próximo e profundo."
-Ela se contorceu como uma ameba enquanto seus olhos tingidos de sangue formava uma lua crescente. Dava para notar um canino vermelho saltando para fora da boca dela.
+Ela se contorceu como uma ameba enquanto seus olhos tingidos de sangue formavam uma lua crescente. Dava para notar um canino vermelho saltando para fora da boca dela.
 v_vir0430
 "Tá falando muito pra alguém que já morreu."
 v_vir0431
@@ -3211,7 +3211,7 @@ v_vir0431
 v_hrg0025
 "É mesmo? Se é assim, por que será que ainda estou dentro de você?"
 v_hrg0026
-"Meu amado Wil. Meu Wil que tanto quer se tornar uma vampiro. Não consegue mesmo aceitar o fato de que nasceu de mim, né?"
+"Meu amado Wil. Meu Wil que tanto quer se tornar um vampiro. Não consegue mesmo aceitar o fato de que nasceu de mim, né?"
 v_hrg0027
 "Por isso me destruiu."
 v_hrg0028
@@ -3219,9 +3219,9 @@ v_hrg0028
 Isso mesmo. Eu cortei a maldição da minha origem. Eu acreditava fielmente nisso.
 Quem aceitaria que um corvo imundo deu à luz a uma fênix? Um erro que precisava ser corrigido, e ao destruí-lo eu deveria renascer.
 v_hrg0029
-"E mesmo assim... Fufu, ufufufufu.... Nós inda estamos conectados."
+"E mesmo assim... Fufu, ufufufufu.... Nós ainda estamos conectados."
 v_hrg0030
-"Não é um laço que consiga cortar. Somos uma família, afinal. E ainda lembra com carinho do dia que me amou."
+"Não é um laço que consiga cortar. Somos uma família, afinal. E ainda lembra com carinho do dia em que me amou."
 v_hrg0031
 "Porque jamais quer esquecer. É por isso que eu também não esquecerei. Não irei desaparecer enquanto lembrar de mim."
 v_hrg0032
@@ -3249,14 +3249,14 @@ v_kru0177
 "Wilhelm...?"
 v_hrg0038
 "――――――"
-Um som repentino, como uma tsunami, fez com que a escuridão dispersasse.
+Um som repentino, como um tsunami, fez com que a escuridão dispersasse.
 v_vir0435
 "Hã...?"
 Ou melhor, o certo seria dizer que ela 
 fugiu.
 v_vir0436
 "Ratos...? Ou são morcegos?"
-Tinha tanto bicho de pequeno porte que “milhares” ainda era pouco. As criaturas notívagas retraírem como uma avalanche.
+Tinha tanto bicho de pequeno porte que “milhares” ainda era pouco. As criaturas notívagas retraíram como uma avalanche.
 Ou seja... elas deviam ser a escuridão que havia se formado ao meu redor. Eu senti uma certa repulsa fisiológica daquele bando de criaturas inferiores agitadas, mas considerando as circunstâncias, esse foi o menor dos problemas.
 v_vir0437
 "Por quê...?"
@@ -3271,19 +3271,19 @@ v_vir0439
 v_vir0440
 "E essa é a prova de que ainda estamos ligados?"
 Se tá na dúvida se já a esqueci, é claro que não! Ainda lembro muito bem, mas naquela época tinha se passado uns 15 ou 16 anos desde que a matei, e minha memória não era conveniente o bastante para conseguir apagar as coisas assim.
-É absurdo falar que eu a amo só porque ainda lembro dela. Todo mundo lembra de com que ficou no passado. Pode perder qualquer vínculo com a pessoa, mas vai continuar lembrando dela.
+É absurdo falar que eu a amo só porque ainda lembro dela. Todo mundo lembra de com quem ficou no passado. Pode perder qualquer vínculo com a pessoa, mas vai continuar lembrando dela.
 v_vir0441
-"Então qual é? Por que a vejo como alguém especial?"
+"Então, qual é? Por que a vejo como alguém especial?"
 v_vir0442
 "Que piada! Não posso negar, mas é num sentido completamente diferente."
 A Helga deixou uma forte impressão por ter sido a minha primeira mulher. É certo dizer que é especial, mas está mais para uma “memento”. Assim como mencionei antes, ela não passa de um troféu.
-Qualquer um que enxergue “amor” ou “laços” nisso é completamente insano. Só gente com um cérebro liso conseguira fazer uma associação sem pé nem cabeça dessas.
-Por isso, eu não estava nem aí e conclui que se aquela discussão continuasse, seria muito simples desmontar o argumento.
+Qualquer um que enxergue “amor” ou “laços” nisso é completamente insano. Só gente com um cérebro liso conseguiria fazer uma associação sem pé nem cabeça dessas.
+Por isso, eu não estava nem aí e concluí que se aquela discussão continuasse, seria muito simples desmontar o argumento.
 v_vir0443
 "Tu não é a única que eu tenho! Não fique se achando, imbecil."
 v_vir0444
 "Daqui pra frente vai ter um monte de troféu decorando esse teu jardim. Fica vendo."
-Na mesma agora que disse isso, meu campo de visão clareou por completo.
+Na mesma hora que disse isso, meu campo de visão clareou por completo.
 E bem ali estava...
 v_kru0178
 "............"
@@ -3395,7 +3395,7 @@ Não... não foi bem isso. Eu era o único ali que não confiava naquele cara, e
 Isso porque nós sabíamos que gente da igreja havia ido até Katyn, e aquele homem estava usando uma batina. Sem contar que, naquela época, a Alemanha tinha uma boa relação com o Vaticano.
 Embora nós já não pudéssemos nos considerar parte daquele país, mas ao menos estava claro que aquele homem não era inimigo. Ao menos a Babylon e a Beatrice entendiam assim.
 Já eu não acreditava que deveríamos confiar nele só por causa disso. Mas se eu ficasse em cima dele, acabaria revelando que ele me pegou desprevenido na caverna, e só de cogitar já me deixava nauseado.
-E por isso, eu fiquei calado fazendo cara feia enquanto assistia as coisas se desenrolarem.
+E por isso, eu fiquei calado, fazendo cara feia enquanto assistia as coisas se desenrolarem.
 v_rut0015
 "Se tiverem qualquer dúvida, não me importo que peçam à igreja para verificar minha identidade. Posso até fornecer meu documento."
 v_riz0146
@@ -3418,7 +3418,7 @@ v_bat0188
 v_riz0149
 "Pelo que posso ver, sim."
 Ela assentiu enquanto falava em tom autodepreciativo.
-Eu não fiz nada em ralação à coisa vivendo na caverna, e o mesmo valia para as duas. Apesar disso, a anomalia desapareceu como se nunca tivesse existido.
+Eu não fiz nada em relação à coisa vivendo na caverna, e o mesmo valia para as duas. Apesar disso, a anomalia desapareceu como se nunca tivesse existido.
 v_riz0150
 "Não sinto mais nada nesta área. Não restou um único vestígio do arcano."
 v_riz0151
@@ -3510,14 +3510,14 @@ v_vir0461
 v_vir0462
 "...Que porra?"
 v_bat0196
-"Nada, não. Só fico aqui vendo o quão baixo alguém consegue ser, e cara nem treme."
+"Nada, não. Só fico aqui vendo o quão baixo alguém consegue ser, e a cara nem treme."
 v_bat0197
 "Eu avisei, não avisei? Viu o que acontece quando é muito desleixado? Você nunca ofereceu nada de bom mesmo."
 v_bat0198
 "Bom, ao menos agora eu posso ficar mais aliviada. Sério, graças da Deus."
 v_vir0463
 "Keh, só fala merda, imbecil! Sei lá que porra tu tá falando."
-A provocação sem sentido dela me tirou do sério, e eu simplesmente deis as costas e sai andando. Já tínhamos terminado o que precisava ser feito e não tinha motivo para permanecer naquele buraco.
+A provocação sem sentido dela me tirou do sério, e eu simplesmente deis as costas e saí andando. Já tínhamos terminado o que precisava ser feito e não tinha motivo para permanecer naquele buraco.
 v_bat0199
 "Pff... olha aquele mau perdedor andando sozinho. Bem feito pra ele."
 v_riz0154
@@ -3540,11 +3540,11 @@ v_vir0195
 "............"
 Por algum motivo, eu me lembrei de algo que não deveria. Mais especificamente, da ladainha da Beatrice.
 Aquilo sobre não ter senso de perigo e maltratar a Claudia. Aquilo apagou completamente o meu fogo.
-E, como resultado, ainda que apenas uma fração de segundo, isso retardou meus movimentos. Esse indefinição fez com que eu perdesse tempo e abrisse uma brecha vergonhosa...
-Eu não fiz nada quanto a tempestade de projéteis que vieram na sequência. Obviamente, não é como se aquilo fosse ter algum efeito em mim. Eu sairia completamente ileso mesmo que eles me transformassem em queijo Suíço. Logo, o problema era outro.
+E, como resultado, ainda que apenas uma fração de segundo, isso retardou meus movimentos. Essa indefinição fez com que eu perdesse tempo e abrisse uma brecha vergonhosa...
+Eu não fiz nada quanto à tempestade de projéteis que vieram na sequência. Obviamente, não é como se aquilo fosse ter algum efeito em mim. Eu sairia completamente ileso mesmo que eles me transformassem em queijo suíço. Logo, o problema era outro.
 v_vir0746
 "Claudia!"
-Eu não consegui bloquear a saraivada de tiros na direção dela. Nem preciso dizer quem era a única em risco ali comigo paralisado diante daquela chuva de projéteis; um futuro que eu precisava evitar a todo custo e, mesmo assim, acabei falhando miseravelmente.
+Eu não consegui bloquear a saraivada de tiros na direção dela. Nem preciso dizer quem era a única em risco ali comigo, paralisado diante daquela chuva de projéteis; um futuro que eu precisava evitar a todo custo e, mesmo assim, acabei falhando miseravelmente.
 É... 
 eu errei.
 v_rut0406
@@ -3554,13 +3554,13 @@ v_kru0530
 Quem pulou na frente para proteger a Claudia foi logo aquele cara. Ele pegou aquela tansa atordoada nos braços e escapou da linha de tiro.
 Então, com todo respeito, como se estivesse manuseando um tesouro, aquele merda a deixou à sombra de uma árvore.
 v_rut0407
-"Esconda-se aqui. Não há com que se preocupar. Vai ficar tudo bem."
+"Esconda-se aqui. Não há com o que se preocupar. Vai ficar tudo bem."
 v_rut0408
 "Comporte-se e mantenha os olhos fechados. Vai acabar num segundo."
 Assim que disse isso, ele correu na direção dos atacantes antes mesmo que ela pudesse responder. Ficou parecendo que ele pretendia dar cabo de todos sozinho.
 v_vir1034
 "Desgraça...!"
-Quem ele tá achando que é? Eu cuspi, tomado pela irritação e, no instante em que continuaria, meu ombro foi segurado pro trás.
+Quem ele tá achando que é? Eu cuspi, tomado pela irritação e, no instante em que continuaria, meu ombro foi segurado por trás.
 v_riz0182
 "Pode parando, Bey. Deixe isso com ele."
 v_vir0226
@@ -3621,7 +3621,7 @@ v_rut0412
 "Mas então? O que achou? Foi suficiente para passar?"
 A Babylon respondeu, esboçando um sorriso irônico, e assentiu.
 v_riz0191
-"Sim. Ficou claro que não é só dá boca pra fora. É um alento conhecer um homem tão confiável como você."
+"Sim. Ficou claro que não é só da boca pra fora. É um alento conhecer um homem tão confiável como você."
 v_riz0192
 "Então, aceite meu agradecimento como um pedido de desculpas. Por ora, devemos nos apressar. Não podemos ficar parados aqui muito tempo."
 v_bat0279
@@ -3684,7 +3684,7 @@ v_bat0283
 "O que acha que está fazendo na frente da Claudia?!"
 v_vir1043
 "...Hã?"
-Eu fui olhar e me deparei a tal civil completamente petrificada e atônita. Parecia até que tinha perdido a voz por causa do que aconteceu ali.
+Eu fui olhar e me deparei com a tal civil completamente petrificada e atônita. Parecia até que tinha perdido a voz por causa do que aconteceu ali.
 v_rut0415
 "Que homem mais desprezível. Suas ações faltam com a razão."
 v_rut0416
@@ -3705,8 +3705,8 @@ v_rut0417
 "Não precisa se preocupar com isso. Eu que fui ingênuo."
 v_rut0418
 "Não imaginei que poderia haver alguém tão imprudente entre nós."
-Eu queria quebrar aquela cara despreocupada dele, mas não consegui porque a a Beatrice, claramente puta, me segurou. Se eu quisesse mesmo, eu poderia, mas a situação também não era pra tanto.
-Eu me dei conta que qualquer coisa que fizesse ali acabaria gerando o resultado oposto. Eu já tinha deixado tanta coisa pra lá que não tinha por que me impor por uma questão de orgulho.
+Eu queria quebrar aquela cara despreocupada dele, mas não consegui porque a Beatrice, claramente puta, me segurou. Se eu quisesse mesmo, eu poderia, mas a situação também não era pra tanto.
+Eu me dei conta de que qualquer coisa que fizesse ali acabaria gerando o resultado oposto. Eu já tinha deixado tanta coisa pra lá que não tinha por que me impor por uma questão de orgulho.
 v_vir1044
 "Droga..."
 Eu reclamei e falei curto e grosso para que a Beatrice me soltasse. Livre, eu olhei para cada um ali, estalei a língua e dei as costas.
@@ -3771,7 +3771,7 @@ Ela começou a contar nos dedos cada uma delas enquanto falava.
 v_kru0206
 "Porque está sempre pensando que não sirvo pra nada?"
 v_vir0472
-"Então reconhece?"
+"Então, reconhece?"
 v_kru0207
 "Talvez porque só acabo causando problemas?"
 v_vir0473
@@ -4031,11 +4031,11 @@ v_din0049
 v_din0050
 Por isso acho que essa é a razão pela qual ela se considerava estranha. After all, who in their right mind would do something so dangerous, yet not feel at all afraid?"
 v_din0051
-"E pir isso ela chegou a conclusão de que ser filha de Noé significava ser uma meia pessoa ― alguém que faltava com muitas coisas.
+"E por isso ela chegou a conclusão de que ser filha de Noé significava ser uma meia pessoa ― alguém que faltava com muitas coisas.
 v_din0052
 Não dá para dizer que era normal, mas no caso dela, não faltava, sobrava. 
 v_din0053
-Ela se equivicou sobre isso."
+Ela se equivocou sobre isso."
 That was exactly why Wilhelm had realized that Claudia’s soul had a powerful shine to it. It was mostly his intuition at the time, but he didn’t miss the mark.
 She’d had an excessive craving for the light, but assumed that she wasn’t a full person. Thus, if the conditions were right, she could ascend even higher.
 v_din0054
@@ -4628,14 +4628,14 @@ v_syp0019
 v_vir0557
 "Calem a boca. Não venham reclamar comigo. Isso tudo também me incomoda."
 Depois disso, nós percorremos um longo caminho em direção aos portões do castelo.
-Não tinha qualquer significado ou motivo pro trás do nosso grupo. Eu queria ficar sozinho o quanto antes, mas aqueles dois resolveram ficar grudados e mim.
+Não tinha qualquer significado ou motivo por trás do nosso grupo. Eu queria ficar sozinho o quanto antes, mas aqueles dois resolveram ficar grudados em mim.
 Embora eu precise reconhecer que entendia o que os levou a me seguir.
 v_syp0020
 "Honestamente, tenho medo do que está por vir. Estou com um péssimo pressentimento."
 v_syp0021
-"E pensar que há alguém capaz de responder o Lorde Heydrich daquela forma... A Lorde Samiel é uma coisa, mas não sei dizer o que o Lorde Schreiber faria."
+"E pensar que há alguém capaz de responder ao Lorde Heydrich daquela forma... A Lorde Samiel é uma coisa, mas não sei dizer o que o Lorde Schreiber faria."
 v_rsr0017
-"E você também, Bey. Nunca se contém, e não estou a fim de acabar sendo envolvido  and I don’t want to be caught up in some nonsensical mess."
+"E você também, Bey. Nunca se contém, e não estou a fim de acabar sendo envolvida nessa confusão enfadonha."
 v_syp0022
 "Sim, a Malleus tem toda razão. Eu preferia que o Lorde Heydrich desse cabo dele o quanto antes, o que ele fosse embora o mais rápido possível."
 v_syp0023
@@ -4648,7 +4648,7 @@ v_vir0558
 v_syp0025
 "Fui eu, sim. Quer saber algo sobre ele? Tenho todas as informações sobre ele, desde seu nascimento, informações de família e até registros acadêmicos, bem como os trabalhos por fora que ele prestou ao Vaticano."
 v_syp0026
-"Se é o que deseja, posso exporto tudo aqui mesmo."
+"Se é o que deseja, posso expor tudo aqui mesmo."
 v_vir0559
 "Não, não ligo pra essas coisas fúteis. Só quero saber o que achou dele."
 v_syp0027
@@ -4661,13 +4661,13 @@ v_syp0029
 v_rsr0018
 "Heh... Então teria sido esse o primeiro revés dele?"
 v_syp0030
-"Não há como afirmar. A igreja possuí santos que muito mais assemelham-se a heróis de guerra. A fé vai muito além de meramente vestir a batina e pregar."
+"Não há como afirmar. A igreja possui santos que muito mais assemelham-se a heróis de guerra. A fé vai muito além de meramente vestir a batina e pregar."
 v_syp0031
 "A Igreja Católica de Roma sempre foi uma religião de guerra. Tal qual, em vez de acreditar em palavras bonitas, ele parece acreditar que esse é o verdadeiro caminho a ser seguindo."
 v_syp0032
 "Ao menos é o que seus registros sugerem. Ele tem conduzido tão bem seu trabalho que é difícil acreditar que está sendo forçado a executá-lo. Pelo contrário, é possível sentir que o faz por paixão."
 v_syp0033
-"Justamente por isso acredito não bate. Aquele que vimos há pouco não era um crente ferrenho."
+"Justamente por isso acredito que não bate. Aquele que vimos há pouco não era um crente ferrenho."
 v_syp0034
 "Deu para sentir um certo niilismo naquele escárnio e pessimismo com o mundo."
 Sim, ele estava certo sobre isso. Sem contar que qualquer um que tenha feito um juramento à igreja iria querer retornar o quanto antes.
@@ -4678,11 +4678,11 @@ v_syp0036
 v_syp0037
 "Pensando por essa ótica, faz sentido ele não ter ficado com medo diante do Lorde Heydrich. É basicamente um cadáver."
 v_rsr0019
-"Tipo como se não ligasse mais pra nada? Bom, não me pareceu ser esse o caso."
+"Tipo, como se não ligasse mais pra nada? Bom, não me pareceu ser esse o caso."
 v_vir0560
 "De qualquer forma, é isso o que pensa?"
 Eu poderia concordar com alguns pontos levantados, mas não todos. A personalidade dele parecia ainda mais indistinta do que antes.
-Por isso, me dei conta que deveria adotar uma forma mais simples de pensar e decidi mudar o foco.
+Por isso, me dei conta de que deveria adotar uma forma mais simples de pensar e decidi mudar o foco.
 v_vir0561
 "Como você o vê, Malleus?"
 v_vir0562
@@ -4698,14 +4698,14 @@ v_syp0038
 v_rsr0021
 "Hmm, então... é basicamente uma questão de força vital. Animais têm, obviamente, e também está presente em cidades e na natureza."
 v_rsr0022
-"Acho que hoje em dia chamam de “aura”. Vocês dois também deve conseguir sentir, não conseguem? É quando 
+"Acho que hoje em dia chamam de “aura”. Vocês dois também devem conseguir sentir, não conseguem? É quando 
 sabe 
  que alguém é perigoso, quando tem algo de errado ao redor e por aí vai."
 v_rsr0023
 "Cada pessoa sente isso de um jeito; no meu caso, é pela cor. Só de olhar eu consigo enxergar tonalidades, intensidades e assim fazer meu julgamento."
 v_vir0563
 "Nunca ouvi falar."
-Mas entendi onde ela chegar chegar. Enquanto a Malleus distinguia pela cor, no meu caso era olfato e paladar. Eu costumo julgar as pessoas com base no quão apetitosas ou não elas parecem ser.
+Mas entendi onde ela queria chegar. Enquanto a Malleus distinguia pela cor, no meu caso era olfato e paladar. Eu costumo julgar as pessoas com base no quão apetitosas ou não elas parecem ser.
 v_syp0039
 "Deveras intrigante, não é mesmo? A propósito, qual a minha cor?"
 v_rsr0024
@@ -4744,7 +4744,7 @@ v_rsr0034
 v_vir0566
 "Mas trevas é preto."
 v_rsr0035
-"Nem sempre é bem assim. A única coisa verdadeira sobre a escuridão é que você não consegue vê-a."
+"Nem sempre é bem assim. A única coisa verdadeira sobre a escuridão é que você não consegue vê-la."
 v_rsr0036
 "Um exemplo extremo: olhar diretamente para algo tão reluzente ao ponto de não conseguir enxergar não seria o mesmo que uma escuridão de luz?"
 v_syp0041
@@ -4768,7 +4768,7 @@ v_rsr0040
 v_rsr0041
 "Aqueles verdadeiramente habilidosos expõem suas capacidades logo de cara e as usam para fazer com que os outros se curvem perante eles. As presas se entregam por conta própria."
 v_rsr0042
-"Não é basicamente assim que funciona entre países? Se demonstrarem fraqueza, serão esmagado por todos os lados. É por isso que não escondem seus poderes e assim abrem margem para negociações."
+"Não é basicamente assim que funciona entre países? Se demonstrarem fraqueza, serão esmagados por todos os lados. É por isso que não escondem seus poderes e assim abrem margem para negociações."
 v_syp0045
 "Precisamente. É exatamente assim que o Lorde Heydrich atua."
 v_syp0046
@@ -4779,7 +4779,7 @@ v_rsr0043
 v_rsr0044
 "Por isso, aqueles que pensam “não estão escondendo suas garras”, não passam de incompetentes que acreditam terem garras. Esses vão continuar sempre sendo a ralé."
 v_rsr0045
-"Se acha que consegue mostrar as garras, impor dificuldade aos outros... mas não tem confiança de que é capaz esmagar aqueles que se oporem a você, então não faz o menor sentido continuar as escondendo."
+"Se acha que consegue mostrar as garras, impor dificuldade aos outros... mas não tem confiança de que é capaz esmagar aqueles que se opuserem a você, então não faz o menor sentido continuar as escondendo."
 v_syp0047
 "No fim, trata-se da sua capacidade de neutralizar a retaliação do seu alvo após seu ataque surpresa. Tudo o que importa é se você é capaz ou não."
 Se é incapaz, então não passa de um fracote sem garras e, se consegue, deveria fazer isso desde o começo ― é disso que se trata.
@@ -4788,7 +4788,7 @@ v_syp0048
 v_syp0049
 "Primeiro-tenente, você acredita que ele seja capaz de suportar nossa retaliação?"
 v_syp0050
-"Mas supor que ele revele suas supostas garras e causa um grande dando à Távola Redonda Obsidiana. Uma vez que isso ocorra, acha que ele conseguiria escapar após ter o Lorde Heydrich e a Vossa Excelência o Vice-comandante como inimigos?"
+"Mas supor que ele revele suas supostas garras e cause um grande dando à Távola Redonda Obsidiana. Uma vez que isso ocorra, acha que ele conseguiria escapar após ter o Lorde Heydrich e a Vossa Excelência o Vice-comandante como inimigos?"
 v_vir0567
 "Nunca."
 Completamente impensável. É ainda mais impensável achar que um ataque surpresa dele poderia ferir o Lorde Heydrich ou o Mercurius.
@@ -4823,7 +4823,7 @@ v_rsr0053
 "A cor de um céu claro que se expande a perder de vista. Até agora eu sinto como se um anjo fosse descender e, honestamente, isso me assusta."
 v_vir0571
 "Um anjo? Não fala merda."
-Esse comparação estúpida dela me deixou tão irritado que saí chutando as cadeiras na minha frente quanto voltei pra casa.
+Esse comparação estúpida dela me deixou tão irritado que saí chutando as cadeiras na minha frente quando voltei pra casa.
 Eu percebi na mesma hora que tinha feito merda, e aí fiquei puto por isso.
 Já era madrugada. Ou seja: a Claudia estava dormindo, e só de pensar que eu poderia ter acordado ela me deixou irritado.
 Nem era pra eu estar me preocupando com essas coisas.
@@ -4832,13 +4832,13 @@ v_vir0572
 "Luz... luz... Azul puro? ...Hah!"
 Ela era uma completa idiota. Eu simplesmente não conseguia compreender o que passava na cabeça de alguém que se importava tanto com a luz do dia.
 Qualquer pirralho morto de fome por algo que não existe teria mais juízo que ela. Não valia a pena correr atrás em troca da própria vida, sem contar que felicidade alguma compensaria abrir mão da vida.
-Essa era a forma como eu via as coisas; basicamente minha crença, por isso tudo aquilo estava me fazendo perder o controle. Eu precisava colocar pra fora ou não iria suportar.
+Essa era a forma como eu via as coisas; basicamente, minha crença, por isso tudo aquilo estava me fazendo perder o controle. Eu precisava colocar pra fora ou não iria suportar.
 v_vir0573
 "Droga! Por que sou assim... Ah... merda!"
 Aquela idiota vai me pagar por me tirar do sério assim. Com isso na cabeça, eu chutei e escancarei a porta do quarto onde a Claudia estava dormindo, pronto para descarregar nela tudo que estava passando pela minha cabeça.
 v_kru0244
 "............"
-Aquela idiota continuou dormindo tranquilamente depois de todo barulho que eu fiz. Sua falta de reação foi tão ridícula que eu acabei até esquecendo que estava irritado.
+Aquela idiota continuou dormindo tranquilamente depois de todo o barulho que eu fiz. Sua falta de reação foi tão ridícula que eu acabei até esquecendo que estava irritado.
 v_vir0574
 "Que estupidez... Tu sempre estraga o clima."
 Em hora assim, não sei dizer se estávamos em ritmos diferentes ou se ela simplesmente me jogasse um balde de água fria.
@@ -4865,7 +4865,7 @@ v_vir0579
 v_kru0246
 "É claro, afinal qualquer um acordarei depois de toda aquela barulheira."
 v_vir0580
-"Então porque fingiu que estava dormindo?"
+"Então por que fingiu que estava dormindo?"
 v_kru0247
 "Pensei que fosse dizer algo interessante."
 v_kru0248
@@ -4889,17 +4889,17 @@ Ela começou a bufar toda irritadinha quanto a cara ficava completamente vermelh
 v_kru0253
 "Até eu sei disso. E, claro, sei que é errado falar coisas que não venham do coração."
 v_kru0254
-"Imagino que deva estar achando que vai me convencer rapinho e resolver as coisas, mas você não me engana, sabia? Vai ter que se esforçar mais do que isso, Wilhelm."
+"Imagino que deva estar achando que vai me convencer rapidinho e resolver as coisas, mas você não me engana, sabia? Vai ter que se esforçar mais do que isso, Wilhelm."
 v_kru0255
 "Embora eu não tenha como impedi-lo se decidir usar a força..."
-Ela olhou pra mim com uma brilho estapafúrdio de confiança nos olhos e esboçou uma risada.
+Ela olhou pra mim com um brilho estapafúrdio de confiança nos olhos e esboçou uma risada.
 v_kru0256
 "“Que homem daria atenção pra esse peito reto...” ― não foi você quem disse isso? Vai acabar tendo que retirar o que disse."
 v_kru0257
 "“Na verdade, eu sempre fui caidinho pela Claudia.” ― vai acabar sendo forçado a admitir."
 v_kru0258
-"Consegue? Se consegue, então vá em frente. Uma parte de mim consegue interpreta sua seriedade――Mugyaa!!"
-Eu bati nela de novo sem qualquer ressalva. Ela parecia ter interpretado toda situação errada.
+"Consegue? Se consegue, então vá em frente. Uma parte de mim consegue interpretar sua seriedade――Mugyaa!!"
+Eu bati nela de novo sem qualquer ressalva. Ela parecia ter interpretado toda a situação errada.
 É, eu tentei estuprar a Claudia naquela hora, mas de uma forma completamente diferente do ideal romântico e infantil dela. Era uma questão de orgulho, de mostrar quem estava no controle.
 Mas toda aquela baboseira dela me fez brochar. A impotência no momento de maior tesão é a parte mais triste da fisiologia masculina.
 v_vir0584
@@ -4910,7 +4910,7 @@ v_kru0260
 "E mais, Wilhelm, qual o problema de ser ordinária?"
 Ela murmurou com com um ar intrigado, ainda que demonstrando certo receio.
 Apesar da situação, ela sequer tinha levantado da cama, ainda que não tenha sido por preguiça.
-Ela não conseguiria mesmo se quisesse. A viagem de ida e volta à Katyn drenou a pouca energia que ela tinha. Ela ficou acamada desde então.
+Ela não conseguiria mesmo se quisesse. A viagem de ida e volta a Katyn drenou a pouca energia que ela tinha. Ela ficou acamada desde então.
 Não seria estranho se ela nunca mais levantasse.
 A Claudia já estava à beira da morte. E, mesmo assim, aquela cara toda sorridente permanecia a mesma.
 v_kru0261
@@ -4963,7 +4963,7 @@ v_kru0277
 A primeira coisa que me veio à cabeça foi o Lorde Heydrich e o Mercurius.
 Eu nunca cogitei me tornar como eles, mas não tinha como negar que eram a epítome de alguém que transcendeu os demais.
 Por isso, supondo que eu me tornasse igual a eles dentro de cem anos, eu provavelmente teria perdido todo o meu senso de perigo.
-Até o momento em que a Claudia me disse isso, eu desconhecia nem tão pouco me apegava a essa ideia de permanecer “ordinário”. Isso eu preciso reconhecer.
+Até o momento em que a Claudia me disse isso, eu desconhecia e nem tão pouco me apegava a essa ideia de permanecer “ordinário”. Isso eu preciso reconhecer.
 Ela também não errou em apontar que eu era negligente de coração.
 v_kru0278
 "Acho que não é muito convincente por ser eu dizendo isso, mas penso que esse seja o segredo para ter uma vida longa."
@@ -4988,7 +4988,7 @@ Por isso, eu queria fazê-la dizer que não queria morrer ― colocar um ponto f
 Alguém com esse pensamento não poderia contrair a mesma doença que ela.
 v_vir0592
 "Apoptose impulsiva, é...?"
-Foi como nomeamos esse fenômeno e, até hoje ainda somos punidos por ele.
+Foi como nomeamos esse fenômeno e, até hoje, ainda somos punidos por ele.
 Mesmo que a carne seja imortal, mente e alma não são. Alguns diriam que é o contrário, mas tudo tem sua antítese.
 A fim de evitar essa doença suicida, é preciso manter uma mente jovial. E para tal, eu pensei que seria importante preservar esse jeito ordinário de encarar o mundo.
 v_vir0593
@@ -4996,11 +4996,11 @@ v_vir0593
 v_kru0281
 "Poxa, isso é jeito de falar? Eu acordei por sua causa!"
 v_kru0282
-"Além de que estou deita esse tempo todo... tem uma hora que não dá mais para ficar dormindo. As cortinas também estão fechadas e não consigo ver lá fora."
+"Além de que estou deitada esse tempo todo... tem uma hora que não dá mais para ficar dormindo. As cortinas também estão fechadas e não consigo ver lá fora."
 v_vir0594
 "Só tem escuridão a essa hora. E abrir durante o dia está fora de questão. Não vou ajudar a reduzir ainda mais a sua vida."
 v_vir0595
-"Vai reclamar? Então se recupere logo ao ponto de conseguir andar por aí logo."
+"Vai reclamar? Então, se recupere logo ao ponto de conseguir andar por aí logo."
 v_kru0283
 "Tá..."
 Naquela altura, os únicos que sabiam sobre a condição dela eram eu e a Samiel. Nunca foi minha intenção sair contando por aí, mas a própria Claudia me pediu para que mantivesse segredo dos outros.
@@ -5029,12 +5029,12 @@ v_vir0598
 v_kru0290
 "Sim. Eu abri aquela janela e... então, quem você acha que veio me visitar?"
 Pelo andar das coisas, não deveria ser eu... pra começar, eu jamais iria querer fazer parte dessas fantasias de conto de fadas.
-Por isso, eu sacudi a cabeça deixando claro que eu não estava nem aí para quem fosse o desgraçado que――
+Por isso, eu sacudi a cabeça, deixando claro que eu não estava nem aí para quem fosse o desgraçado que――
 v_kru0291
 "Era o Louie! Engraçado, não?"
 v_vir0599
 "Engraçado onde? Imbecil!"
-Eu cheguei no limite naquela hora, berrei, dei às costas pra ela e sai do quarto.
+Eu cheguei no limite naquela hora, berrei, dei as costas pra ela e saí do quarto.
 Na hora em que batei a porta, eu vi as cortinas da janela balançarem levemente com o vento.
 No instante em que ouvi essas palavras, uma revelação dentro de mim me atingiu como um raio.
 v_rut0076
@@ -5042,9 +5042,9 @@ v_rut0076
 v_mrk0065
 "De fato, é própria escuridão, Matusalém. E, claro, não é mera comparação, mas a verdade dos fatos.
 v_mrk0066
-Quando diante de um indivíduo de natureza sombria ou imoral, muitos tendem a rotulá-lo a escuridão ou afirmar que ele detém das trevas em seu coração De facto, partir do princípio de que escuridão e perversidade como sinônimos trata-se de um equívoco."
+Quando diante de um indivíduo de natureza sombria ou imoral, muitos tendem a rotulá-lo de escuridão ou afirmar que ele detêm das trevas em seu coração De facto, partir do princípio de que escuridão e perversidade são sinônimos trata-se de um equívoco."
 v_mrk0067
-"Embora detenha de certa utilidade semântica, e eu admite fazer uso ocasionalmente. Contudo, em sua presença acaba por ser um insulto. Isso porque não vê as trevas como algo abominável, correto?"
+"Embora detenha de certa utilidade semântica, e eu admito fazer uso ocasionalmente. Contudo, em sua presença, acaba por ser um insulto. Isso porque não vê as trevas como algo abominável, correto?"
 Mas isso é óbvio. A escuridão nada mais é do que um fenômeno alheio ao bem ou mau.
 Humanos são seres caracterizados pela diurnalidade, de modo que encontra-se enraizado neles um medo primitivo dos tempos em que eram caçados por predadores notívagos. É uma questão puramente hereditária que se mantém.
 Da perspectiva dos seres que habitam à noite, a escuridão nada mais é do que uma bênção.
@@ -5060,13 +5060,13 @@ v_mrk0069
 Ao menos, não há dúvida que já superaste a humanidade em expectativa de vida. Tal qual, deve muito bem lembrar do berço da civilização e como era o mundo naquele período. 
 v_mrk0070
 Inegável é o fato daquela era estar permeada pelo arcano."
-Conforme ele falava, lembranças surgiam na minha mente e eu assenti em resposta. Memórias vagas e distantes, mas que não havia desvanecido o suficiente para serem tratadas como um sonho.
+Conforme ele falava, lembranças surgiam na minha mente e eu assenti em resposta. Memórias vagas e distantes, mas que não haviam desvanecido o suficiente para serem tratadas como um sonho.
 v_mrk0071
 "Megálitos voavam pelo espaço e palácios flutuavam pelos céus."
 v_rut0079
 "Lembro que guerras eram baseadas na reciprocidade da magia, e que grandes ondas eram capazes de submergir continentes."
 v_mrk0072
-"Haviam feras capazes de falar a língua dos humanos, assim como não era incomum humanos capaz de se comunicarem com a flora."
+"Havia feras capazes de falar a língua dos humanos, assim como não era incomum humanos capazes de se comunicarem com a flora."
 v_rut0080
 "Sim, lembro-me muito bem. Nessa época, o arcano era cenário cotidiano."
 v_mrk0073
@@ -5099,11 +5099,11 @@ Eu foquei em me concentrar exclusivamente nas especificidades de sua resposta.
 v_rut0083
 "Jamais teça palavras novamente sobre temas que não questionei. Apenas responda o que perguntei."
 v_rut0084
-"Não neguei que o mundo costumava estar repleto do arcano o que aquela era a era dos deuses. Mas, então, por que as coisa passaram a ser assim agora?
+"Não neguei que o mundo costumava estar repleto do arcano o que aquela era a era dos deuses. Mas, então, por que as coisas passaram a ser assim agora?
 v_rut0085
 Castelos não voam, magia é obsoleta, e o que costumava ser realidade agora está lentamente tornando-se mito. É uma clara degeneração. A materialidade pode estar enriquecendo, mas a espiritualidade está regredindo.
 v_rut0086
-Ao menos, com exceção de você, os feiticeiros desta era são patéticos. Muitos sequer consegue aprender a voar após dedicar uma vida inteira para tal. Antigamente, uma simples criança deveria ser capaz de tal feito!"
+Ao menos, com exceção de você, os feiticeiros desta era são patéticos. Muitos sequer conseguem aprender a voar após dedicar uma vida inteira para tal. Antigamente, uma simples criança deveria ser capaz de tal feito!"
 Sim, eu lembro disso. Sim, eu nasci em uma era assim, e logo estava vagando sozinha pela noite...
 v_rut0087
 "Para onde eles foram? Por que este mundo está em declínio?"
@@ -5118,7 +5118,7 @@ v_mrk0082
 "Afirmativo. Não há Lei capaz de expandir-se perpetuamente."
 Portanto, o homem respondeu em tom apático, afirmando que desaparecer junto ao tempo era algo natural.
 v_mrk0083
-"Logo de início utilize a palavra “descendentes”, certo? Por outras palavras, muito do abundante arcano dos velhos dias não passa de resquícios ― efeitos colaterais de uma era quando a origem ainda era jovem.
+"Logo de início, utilize a palavra “descendentes”, certo? Por outras palavras, muito do abundante arcano dos velhos dias não passa de resquícios ― efeitos colaterais de uma era quando a origem ainda era jovem.
 v_mrk0084
 Não é necessário pensar profundamente sobre isso. Os jovens sempre são mais fortes, saudáveis e belos que os velhos, e a ondulação de vida que emitem é muito mais brilhante e vibrante."
 v_mrk0085
@@ -5134,12 +5134,12 @@ v_mrk0086
 "É a mesma lógica pela qual, à época, a feitiçaria era considerado algo simples e alcançava resultados muito superiores aos dos dias atuais. Resumidamente, ah... de forma alguma estou insinuando algo negativo..."
 v_rut0089
 "Quanto mais saudável for o hospedeiro, mais saudável é o parasita?"
-Eu me adiante respondi com uma comparação que ele possivelmente utilizaria. Por outras palavras, a então prosperidade do supernatural deve-se porque o [mundo](Deus) era jovem.
+Eu me adiantei e respondi com uma comparação que ele possivelmente utilizaria. Por outras palavras, a então prosperidade do supernatural deve-se porque o [mundo](Deus) era jovem.
 Em seu centro encontrava-se sentado um ser que configurava-se como a apoteose da existência e percursor da feitiçaria.
-Tal qual, toda criação foi tingida pela cor da prece que “ele” esboçou, e o que dela ecoou passou passou a constituir o conceito que veio a ser nominado como “arcano”. Uma explicação até que plausível.
+Tal qual, toda criação foi tingida pela cor da prece que “ele” esboçou, e o que dela ecoou passou a constituir o conceito que veio a ser nominado como “arcano”. Uma explicação até que plausível.
 Faça-se a luz ―― se há um ser capaz de criar céu e terra a partir de uma simples expressão, então mesmo os resíduos deixados para trás após a conclusão de sua obra se tornariam, na perspectiva dos mortais, um poder extraordinário.
 E assim, aqueles que fizeram uso ingenuamente deles passaram a desejar por mais.
-Trilhando os passos daqueles que era para eles seu pai e repetindo “faça-se a luz, faça-se a luz, faça-se a luz”...
+Trilhando os passos daqueles que eram para eles seu pai e repetindo “faça-se a luz, faça-se a luz, faça-se a luz”...
 Como resultado, a feitiçaria manifestou um imenso poder; palácios voadores, seres imaginários e até mesmo a antropomorfização de aspectos da natureza.
 O deus do trovão, a mãe da natureza, as divindades do vento, água, fogo e também das trevas...
 v_rut0090
@@ -5149,18 +5149,18 @@ v_mrk0087
 v_mrk0088
 "O arcano que existia em profusão no princípio agora encontra-se em escassez, por outro lado, a origem não está em boa forma para abençoar este mundo com mais.
 v_mrk0089
-Eventualmente há de extinguir-se. O mundo rumo ao seu fim, e desconheço quando aperceberam-se deste fato."
+Eventualmente há de extinguir-se. O mundo rumo ao seu fim, e desconheço quando se aperceberão deste fato."
 v_rut0091
 "Portanto, também não devo durar muito."
 Provavelmente é essa a razão pela qual ele tantos questionou e julgou que deveriam morrer se não detivessem da resposta. Em algum lugar dentro de mim eu já deveria estar ciente da resposta.
-Aqueles que não percebem que o mundo está morrendo e nada sabem [sobre mim](sobre a escuridão) não detém de qualquer valor, logo não há razão para viverem.
+Aqueles que não percebem que o mundo está morrendo e nada sabem [sobre mim](sobre a escuridão) não detêm de qualquer valor, logo não há razão para viverem.
 v_mrk0090
 "Precisamente. Todavia, sua existência resiste enquanto os demais desapareceram. É hoje a existência mais remota que há.
 v_mrk0091
 Portanto é “Matusalém” ― a entidade mais longeva ainda viva sob a Lei deste mundo.
 v_mrk0092
 Orgulhe-se! Não há outro digno desta designação."
-Ouvir esse elogio inusitado fez com que eu esboçasse um sorriso autodepreciativo. É fato que há muito tempo estou vivo, mas nunca vi isso como uma conquistas.
+Ouvir esse elogio inusitado fez com que eu esboçasse um sorriso autodepreciativo. É fato que há muito tempo estou vivo, mas nunca vi isso como uma conquista.
 v_rut0092
 "Por que sou o único que restou? Por que não desapareci como os outros...?"
 Essa era a minha última indagação. Embora destinada a mim mesmo, o feiticeiro a respondeu com clareza.
@@ -5183,26 +5183,26 @@ O homem que conheceu a prosperidade do berço da civilização respondeu às min
 Não me restou dúvidas de que também era uma figura ancestral, por isso eu queria conhecê-lo melhor.
 Saber o que este mercúrio almejava.
 v_mrk0097
-"Afirmativo. Contudo, eu também desconheço qual a minha verdadeira ânsia. Ainda estou no processo de encontrá-la.
+"Afirmativo. Contudo, eu também desconheço qual é a minha verdadeira ânsia. Ainda estou no processo de encontrá-la.
 v_mrk0098
-Sendo assim, nos veremos novamente, Matusalém. Persistente e igual alma."
+Sendo assim, nos veremos novamente, Matusalém. Persistente e igual à alma."
 Ele, Theophrastus von Hohenheim, falou como se 
 já soubesse
 que nossos caminhos eventualmente se cruzariam novamente.
 v_mrk0099
 "Mesmo neste mundo exaurido, você, como descendente de Deus, é capaz de exercer o poder de outrora se assim desejar ― o último arcano."
-Eu não tinha dúvida de que ele apresentaria-se com outro nome na próxima vez que nos encontrássemos.
+Eu não tinha dúvida de que ele se apresentaria com outro nome na próxima vez que nos encontrássemos.
 Portanto, eu decidir seguir seu exemplo e aprender tal artífice.
 v_rut0095
 "Eu sou Matusalém."
-Finalmente aprendi sobre minha essência, e não importa quantos nomes eu acumule ao longo dos anos para adequar-me à diferentes eras, um fato inabalável permanece inalterado: eu sou a escuridão.
+Finalmente aprendi sobre minha essência, e não importa quantos nomes eu acumule ao longo dos anos para adequar-me a diferentes eras, um fato inabalável permanece inalterado: eu sou a escuridão.
 v_kru0292
 "Wilhelm. Wilhelm..."
 v_kru0293
 "Por favor, acorde. Já amanheceu."
 Eu ouvi meu nome sendo chamado e senti alguém sacudindo meus ombros. A merda da luz do sol estava entrando pela janela e tocando minha bochecha, fazendo com que eu soubesse que era de manhã.
 Mas não é como se isso fosse um motivo para levantar. Eu odeio manhãs e sequer trabalho.
-Eu tinha justificativas o suficiente para continuar deitado na cama ao invés de começar o dia da maneira convencional.
+Eu tinha justificativas suficientes para continuar deitado na cama ao invés de começar o dia da maneira convencional.
 v_vir0600
 "Ah, merda... cala a boca."
 E por isso mandei ela ficar quieta e continuei dormindo... Foi aí que ela...
@@ -5210,12 +5210,12 @@ v_kru0294
 "Wilhelm!"
 v_vir0601
 "Gh! Desgraça!"
-Eu me dei conta que tinha alguma coisa errada ali e saltei da cama.
+Eu me dei conta de que tinha alguma coisa errada ali e saltei da cama.
 v_kru0295
 "Kyah! Ei... O que deu em você?"
 v_kru0296
 "Me assustou. Aiaiaiai..."
-Ela estava diante de mim, sentada no chão enquanto me olhando com um olhar ressentido. Que porra tava acontecendo?
+Ela estava diante de mim, sentada no chão, enquanto me olhando com um olhar ressentido. Que porra tava acontecendo?
 v_vir0602
 "Por que tá normal?"
 v_kru0297
@@ -5223,7 +5223,7 @@ v_kru0297
 v_vir0603
 "Escuta aqui... Você... sabe muito bem o que fez! Tu é burra por acaso?!"
 Assim como noite passada, ela tinha a menor condição de dar uma passo para fora da cama. Sem dúvida, ela era uma idiota que não se importava com a própria saúde, mas independentemente de como se sentisse, deveria ser fisicamente impossível.
-E, mesmo assim, ela foi até o meu quarto me acordar com aquela cara de quem tá nem aí. E o piro de tudo: ela ainda estava preparando café. Eu sabia só pelo cheiro. Dá pra acreditar?
+E, mesmo assim, ela foi até o meu quarto me acordar com aquela cara de quem tá nem aí. E o pior de tudo: ela ainda estava preparando café. Eu sabia só pelo cheiro. Dá pra acreditar?
 Olhando para mim, incapaz de conseguir formar palavras, a Claudia finalmente se deu conta do que eu estava dizendo e se levantou esfregando a bunda.
 v_kru0298
 "Se é por causa da minha condição, não há com o que se preocupar. Como pode ver, estou muito bem."
@@ -5233,12 +5233,12 @@ Ela estufou o peito falando isso orgulhosa. Julgando pela aparência, não parec
 v_vir0604
 "Tá falando sério? Inacreditável...?"
 Não fazia o menor sentido ao ponto daquilo me deixar incomodado. Eu não fazia a menor ideia do que acontecia no corpo dela. Eu nunca aceitarei que aquilo era um “milagre”.
-Aquela situação era estranha demais para que eu simplesmente deixasse passar. Era preciso fazer o que estivesse ao meu alcance ali descobrir a verdade.
+Aquela situação era estranha demais para que eu simplesmente deixasse passar. Era preciso fazer o que estivesse ao meu alcance ali para descobrir a verdade.
 v_kru0300
 "Hã? Ei, o que foi? Whawha?!"
 v_vir0605
 "Cala a boca. Dá pra ficar quieta?"
-Eu estiquei a mão e toquei no pescoço dela. Não são médico, então não tinha como fazer um exame detalhado, mas dava para ter uma ideia geral aferindo o fluxo sanguíneo.
+Eu estiquei a mão e toquei no pescoço dela. Não são médicos, então não tinha como fazer um exame detalhado, mas dava para ter uma ideia geral aferindo o fluxo sanguíneo.
 O resultado? Tudo normal. Não senti nada de anormal nos batimentos dela. Até tinha sintomas de uma possível anemia, mas não chegava a ser uma condição perigosa.
 Considerando ao estado dela na noite passada, era compreensível ela achar que estava em plena forma, mas...
 v_vir0606
@@ -5266,7 +5266,7 @@ v_vir0609
 "Pode parando aí!"
 De tudo que ela poderia dizer... aquela idiota veio me falar logo sobre batatas?
 v_vir0610
-"Quem se importa? Como assim “ir às comprar”? Vê se se aquieta!"
+"Quem se importa? Como assim “ir às compras”? Vê se se aquieta!"
 v_kru0305
 "M-Mas... que prato alemão eu poderia preparar sem batatas? Isso seria tão desagradável quanto você sendo educado!"
 v_vir0611
@@ -5282,7 +5282,7 @@ A melhor coisa que poderia acontecer era ela se ligar um pouco mais nas coisas.
 Depois desse pensamento honesto, que acabei guardando dentro de mim eu sai debaixo do sol estonteante para comprar batatas.
 Sério, aquele não era o meu dia.
 E quando digo isso, é porque foi um dia de merda, onde eu precisei lidar com uma coisa mais estúpida que a outra.
-As coisas ruins vem uma atrás da outra, e os desastres daquele dia ainda não tinham terminado.
+As coisas ruins vêm uma atrás da outra, e os desastres daquele dia ainda não tinham terminado.
 v_ero0045
 "Mas vejam só, essa é uma cena deveras curiosa. Não esperava encontrá-lo numa situação dessas."
 v_ero0046
@@ -5293,7 +5293,7 @@ v_bat0255
 "T-Tá brincando? Que situação inacreditavelmente repugnante é essa?"
 v_riz0165
 "Hmm... É assustadoramente incompatível com ele ao ponto de parecer criminoso."
-Ser cercado por três mulheres enquanto e carregava sacos de batatas em ambas as mãos me fez querer largar tudo e sair correndo, mas, claro, essa não era uma opção.
+Ser cercado por três mulheres enquanto carregava sacos de batatas em ambas as mãos me fez querer largar tudo e sair correndo, mas, claro, essa não era uma opção.
 Dito isso, eu também não estava em condições de ameaçar ninguém ali. Mesmo que tentasse demonstrar alguma atitude, acabaria virando motivo de piada, então só me restou estalar a língua.
 v_vir1012
 "Calem a boca. Me esqueçam! Até eu saio para fazer compras, não sabiam?"
@@ -5302,11 +5302,11 @@ v_vir1013
 vocês
  estão fazendo a essa hora da manhã?"
 Claro, eu estava em uma situação, no mínimo, curiosa ali, mas eles também não ficavam pra trás. Aquele não era um grupo que se via todo dia.
-Isso porque a Babylon e a Samiel era como cão e gato. Por vezes, uma dela se juntava à Beatrice, assim como aconteceu em Katyn, mas as três juntas era algo que praticamente inconcebível.
+Isso porque a Babylon e a Samiel era como cão e gato. Por vezes, uma delas se juntava à Beatrice, assim como aconteceu em Katyn, mas as três juntas era algo que praticamente inconcebível.
 v_vir1014
 "Fizeram as pazes sem que eu soubesse?"
 v_ero0047
-"Não seja ridículo. Eu nunca tive qualquer atrito com essa mulher, portando não há razão para reconciliação."
+"Não seja ridículo. Eu nunca tive qualquer atrito com essa mulher, portanto não há razão para reconciliação."
 v_ero0048
 "Sendo mais direta: eu jamais me associei com ela. Muito pelo contrário, sequer faço ideia do que ela está fazendo aqui hoje."
 v_riz0166
@@ -5317,8 +5317,8 @@ v_riz0167
 "Vai você."
 v_bat0256
 "Poxa, será que podem parar com isso?"
-Quem deveria parar com isso era ela, mas preferir não me meter. A Beatrice estava basicamente se metendo no meio, como de costume.
-Até onde sei, ela estava sempre no meio do fogo-cruzado, tentando mediar a relação das duas; um feito impossível.
+Quem deveria parar com isso era ela, mas preferi não me meter. A Beatrice estava basicamente se metendo no meio, como de costume.
+Até onde sei, ela estava sempre no meio do fogo cruzado, tentando mediar a relação das duas; um feito impossível.
 O antagonismo entre a Babylon e a Samiel não era tão simples assim. Desconheço os detalhes, mas é justamente por isso que dá pra  
 sentir
  a distância entre elas. Há relações neste mundo que, por mais que você tente, não dão certo.
@@ -5348,7 +5348,7 @@ v_bat0259
 v_riz0169
 "Perdeu um monte de pontos em Katyn, então é bom evitar perder ainda mais."
 v_riz0170
-"Logo quando poderia ganhar alguns por fazer algo que não é do seu feitio, então porque não deixa disso e vai pra casa?"
+"Logo quando poderia ganhar alguns por fazer algo que não é do seu feitio, então por que não deixa disso e vai pra casa?"
 Calem a boca.
 Eles só deviam estar querendo me criticar, mas aos meus ouvidos pareciam mais que estavam me incitando.
 v_ero0051
@@ -5366,7 +5366,7 @@ v_riz0171
 v_ero0054
 "Exatamente. Os problemas do Bey com mulheres não são da minha conta."
 v_ero0055
-"Dito isso, é ótimo que esteja disposto a se juntar à nossa conversa. Há algo que queiro questioná-lo também."
+"Dito isso, é ótimo que esteja disposto a se juntar à nossa conversa. Há algo que quero questioná-lo também."
 v_vir1018
 "Quê?"
 O clima ali já estava me irritando, então foi bom que o assunto mudou de direção. Quando a inqueri subitamente, a Samiel colou um cigarro na boca pra se acalmar, acendeu e inspirou a fumaça.
@@ -5374,7 +5374,7 @@ E começou a falar enquanto soprava a fumaça.
 v_ero0056
 "É sobre aquele cara chamado Ludwig."
 v_ero0057
-"A razão de ter vindo aqui hoje foi para inquirir essa garota idiota sobre ele, mas por alguma razão ela resolveu trazer alguém desnecessária."
+"A razão de ter vindo aqui hoje foi para inquirir essa garota idiota sobre ele, mas por alguma razão ela resolveu trazer alguém desnecessário."
 v_bat0262
 "A Riza foi a responsável pela missão em Katyn, então faz total sentido estar aqui."
 v_ero0058
@@ -5382,7 +5382,7 @@ v_ero0058
 v_ero0059
 "Qual sua impressão sobre aquele homem?"
 Foi exatamente a mesma pergunta que a Malleus e o Spinne fizeram, e isso indicava que ela também não tinha ido com a cara daquele desgraçado.
-E eu a entendo perfeitamente, afinal é a reação mais natural. Se dependessem de nós, qualquer um que agisse daquela maneira arrogante perante ao Lorde Heydrich merecia a morte.
+E eu a entendo perfeitamente, afinal é a reação mais natural. Se dependessem de nós, qualquer um que agisse daquela maneira arrogante perante o Lorde Heydrich merecia a morte.
 v_ero0060
 "Honestamente, minha vontade é de matá-lo agora mesmo, mas está fora de cogitação, uma vez que o Lorde Heydrich o trata como um convidado."
 v_vir1019
@@ -5395,11 +5395,11 @@ A Samiel estava ocultando sua vontade de matar o Ludwig por uma questão lógica
 É difícil de expressar com palavras, mas eu sentia que precisava entender a essência dele caso resolvesse comprar essa briga.
 v_vir1021
 "Então, o que quer saber é sobre o quão forte ele é?"
-Provavelmente não era isso, mas resolvi falar porque pensei que era boa maneira de dar continuidade à conversa. Mas a Samiel respondeu balançado a cabeça negativamente.
+Provavelmente não era isso, mas resolvi falar porque pensei que era uma boa maneira de dar continuidade à conversa. Mas a Samiel respondeu balançado a cabeça negativamente.
 v_ero0062
 "Essa questão é irrelevante. Não muda absolutamente nada aquilo ser forte ou fraco."
 v_ero0063
-"Não levo em consideração se posso ou não vencer quando entre em batalha. Se o Lorde Heydrich assim ordenar, eu atiro independentemente de que seja."
+"Não levo em consideração se posso ou não vencer quando entre em batalha. Se o Lorde Heydrich assim ordenar, eu atiro independentemente de quem seja."
 v_ero0064
 "Logo, não faz a menor diferença. Se acontecer de ser derrotada e perecer, significa apenas que eu não tinha calibre o suficiente para seguir a Hegemonia da Guerra."
 De acordo com a Samiel, essa mentalidade era necessária a todos que almejavam se tornarem Einherjar imortais.
@@ -5408,7 +5408,7 @@ v_vir1022
 O Lorde Heydrich não nos levaria em conta na hora de escolher o oponente, então só nos restaria destruir quem ele mandasse destruir. Essa nada mais é do que a realidade da guerra, e a única verdade é a de que os fracos ficam pelo caminho.
 Por isso, ela tinha toda razão em dizer aquilo. Ficar se preocupando com a força do inimigo era coisa de mulherzinha. A lógica dela tinha tanto sentido que acabei rindo de mim mesmo.
 v_vir1023
-"Foi mal, falei algo idiota. Mas então do que se trata?"
+"Foi mal, falei algo idiota. Mas então, do que se trata?"
 v_vir1024
 "O que quer saber sobre ele?"
 Antes de refazer sua pergunta, ela olhou para a Babylon e a Beatrice, e falou, curta e grossa.
@@ -5433,7 +5433,7 @@ Eu pensei que essa era a primeira coisa que eu precisava descobrir se fosse comp
 v_ero0069
 "Vocês teriam alguma ideia? Se não deixarmos isso claro o quanto antes, ele pode se antecipar e lançar um ataque-surpresa."
 Isso fez eu me lembrar das palavras do. Embora a estratégia do “esconder suas garras” tenha dado errado inúmeras vezes, poderia levar a grandes resultados se nos preparássemos para o seu ataque.
-É claro, também teríamos que lidar com o contra-ataque, mas no nosso caso, mesmo se o retalhássemos e matássemos ele, as feridas que sofremos primeiro não desapareceriam.
+É claro, também teríamos que lidar com o contra-ataque, mas no nosso caso, mesmo se o retalhássemos e o matássemos, as feridas que sofremos primeiro não desapareceriam.
 v_vir1026
 "Então... é isso? Supondo que ele esteja atrás da minha cabeça e conseguisse, ainda seria uma perda pra nós mesmo se você o matasse depois."
 v_ero0070
@@ -5444,7 +5444,7 @@ v_ero0072
 "Portanto, é negligente pensar que retalhar resolveria tudo, assim como é ingenuidade pensar que ele não fará nada porque teme nossa reação. E, independentemente dele ser capaz ou não, é possível que ele planeje fugir."
 v_ero0073
 "Não importa qual seja o desdobramento, nossa vitória deve ser implacável."
-Ela estava basicamente dizendo para ficarmos alerta e não passarmos vergonha. E para isso precisávamos descobrir qual era o objetivo do Ludwig.
+Ela estava basicamente dizendo para ficarmos alertas e não passarmos vergonha. E para isso precisávamos descobrir qual era o objetivo do Ludwig.
 Precisávamos estar sempre prontos para a batalha. Pouco importava se ele era forte, fraco, esperto, burro... não podíamos nos considerar cavaleiros se demonstrássemos qualquer abertura. Isso acabaria por depreciar o Lorde Heydrich.
 v_vir1027
 "Faz sentido. Eu também quero descobrir, mas tá difícil de entender aquele cara."
@@ -5523,7 +5523,7 @@ v_bat0274
 v_riz0178
 "Sei lá... Ela sempre foi de tirar as próprias conclusões e ignorar o resto."
 v_riz0179
-"Imagino que tenha encontrar uma resposta que a satisfez."
+"Imagino que tenha encontrado uma resposta que a satisfez."
 Ou seja: a Samiel tinha descoberto objetivo do Ludwig. Mas que objetivo era esse?
 v_riz0180
 "Bom, de qualquer forma, é ótimo saber que a Claudia está bem. Desculpe por ficar segurando você, Bey."
@@ -5586,10 +5586,10 @@ v_hrg0061
 "Eu pertenço somente a você, e você pertence somente a mim."
 “Até que a morte nos separe. Não... nos tornaremos seres capazes de superar a morte.” ― era o que ela sussurrava no meu ouvido enquanto me olhava com um sorriso tingido por sangue.
 Isso já era rotina.
-Quatro dias já tinha se passado desde a misteriosa recuperação da Claudia.
+Quatro dias já tinham se passado desde a misteriosa recuperação da Claudia.
 v_vir0613
 "Já voltei, imbecil."
-Como de costuma, por causa da obsessão estranha daquela idiota por comida ―― dessa vez por tomate ―― eu acabei tendo que ir às compras e voltei pra casa abrindo a porta de forma brusca.
+Como de costume, por causa da obsessão estranha daquela idiota por comida ―― dessa vez por tomate ―― eu acabei tendo que ir às compras e voltei pra casa abrindo a porta de forma brusca.
 Na mesma hora, a Claudia veio correndo até mim, onde começaria a contar os detalhes do cardápio que eu sequer perguntei.
 Ao menos, era assim que as coisas transcorriam, mas dessa vez foi diferente.
 v_kru0317
@@ -5602,12 +5602,12 @@ v_rut0096
 v_vir0615
 "Seu...!"
 Ludwig van Rosenkranz.
-Sei lá porquê, aquele desgraçado estava lá com aquela cara sem vida dele.
+Sei lá por que, aquele desgraçado estava lá com aquela cara sem vida dele.
 v_rut0097
 "O que houve? Ver você parado aí me deixa em uma posição desconfortável. Que tal sentar-se primeiro?"
 v_vir0616
 "Cala a boca! O que veio fazer aqui?"
-Eu espremi o desconforto dentro de mim e o converti em palavras, mas ela continuam com aquela risada debochada.
+Eu espremi o desconforto dentro de mim e o converti em palavras, mas ela continuou com aquela risada debochada.
 v_rut0098
 "Por que mais além de vir fazer companhia? Seria falta de educação recusar o convite."
 v_rut0099
@@ -5658,7 +5658,7 @@ v_rut0108
 v_rut0109
 "Para começo de conversa, ele nem mesmo é o dono desta moradia. Encerre logo essa discussão sem sentido."
 v_rut0110
-"É fato que há um impasse quando não há concordância de ambas as partes, embora, de um ponto de vista legal, cada um detém de 50%."
+"É fato que há um impasse quando não há concordância de ambas as partes, embora, de um ponto de vista legal, cada um detenha de 50%."
 v_rut0111
 "Se a Claudia permite, você não tem o direito de me colocar para fora. E mais: se minha presença o incomoda, por que 
 você
@@ -5728,7 +5728,7 @@ Ela colocou a mão no peito, como se estivesse procurando algo lá no fundo, e c
 v_kru0337
 "Acredito que ela estava pregando um amor que não se deixa dominar pelo medo, e fé... ou melhor: coragem. Por mais que esteja com medo e queira fugir, é uma força que o mantém de pé, em direção à luz."
 v_kru0338
-"E como é isso que realmente importa, aqueles que pouco consegue sentir medo são incapazes de personificar a vontade da Nightingale."
+"E como é isso que realmente importa, aqueles que pouco conseguem sentir medo são incapazes de personificar a vontade da Nightingale."
 v_rut0123
 "Tal qual, você buscou primeiro conhecer o medo. Não pela metade, mas em sua totalidade."
 v_kru0339
@@ -5746,7 +5746,7 @@ v_kru0341
 v_kru0342
 "No fim, eu gosto mais da luz. E, mesmo sabendo que é preciso, não consigo me dedicar a nada com uma visão pessimista das coisas."
 v_rut0126
-"Então continuará em busca da luz? Se não houver sombra o suficiente, você compensa indo em busca de uma luz ainda mais intensa."
+"Então continuará em busca da luz? Se não houver sombra suficiente, você compensa indo em busca de uma luz ainda mais intensa."
 v_kru0343
 "Meio que sim. Considera muita imprudência?"
 v_rut0127
@@ -5755,7 +5755,7 @@ Ele sacudiu a cabeça; sua resposta foi curta, mas repleta de emoções.
 v_rut0128
 "Se está de acordo com isso, assim deve ser. É exatamente o tipo de mulher que imaginei que seria, Claudia."
 v_rut0129
-"É fato que sem a escuridão, a luz não está completa, mas não há razão para comprometer sua pureza por ela."
+"É fato que, sem a escuridão, a luz não está completa, mas não há razão para comprometer sua pureza por ela."
 v_rut0130
 "Se quer permanecer como a luz, o ideal é que tenha alguém da escuridão ao seu lado. E o contrário também se faz verdadeiro."
 v_rut0131
@@ -5774,153 +5774,153 @@ v_kru0345
 v_kru0346
 "Meio que me preocupa ouvir algo assim sobre sobre uma comida tão simples. Afinal, que tipo de vida esteve vivendo até hoje?"
 v_rut0133
-"Not one worth describing. My life was colorless, tasteless, and dull. I merely wandered the world, taking in various sights."
+"Nada de especial. Chata, sem cor nem sabor. Meramente vago pelo mundo, testemunhando diferentes acontecimentos."
 v_rut0134
-"So there’s nothing worth... Wait, there is 
-one
- scenery I liked ― the white nights extending at the poles."
+"Portanto, não há nada... Ah, há apenas 
+um
+ cenário que me despertou interesse ― o sol da meia-noite que se propaga pelos polos."
 v_rut0135
-"That is the only place in the world where light and dark coexist. It’s the ideal that I desire."
+"Aquele é verdadeiramente o único lugar no mundo onde luz e escuridão coexistem. É o ideal que tanto desejo."
 v_kru0347
-"White nights..."
-Claudia’s eyes lit up. She was clearly moved.
+"Sol da meia-noite..."
+Ela chegou a ficar comovida e seus olhos começaram a brilhar...
 v_kru0348
-"That sounds wonderful. I would like to see it someday."
+"Parece lindo. Eu gostarei de poder vê-lo algum dia."
 v_kru0349
-"After all, when you look at the splendor of Mother Nature, your own problems seem so very small."
+"Afinal, todas as preocupações se tornam insignificantes diante do esplendor da Mãe Natureza."
 v_kru0350
-"That, too, is a type of salvation, and I―"
+"Também é um meio de salvação, por isso eu――"
 v_vir0620
-"Shut the fuck up."
-That was the last straw for me. I snapped. The situation was just so fucking shitty and stupid that I couldn’t help flipping the table and shutting them both up.
-Though my words were minimal, I was fucking boiling on the inside. Claudia was surprised, while Ludwig looked at me like I was filth. I glared back at them and began pushing my point.
+"Cala a boca."
+Aquela foi a gota d'água. Eu tive que virar a mesa para acabar com aquela cena ridícula e fazer aqueles dois calarem a boca.
+Embora minha voz estivesse mansa, eu estava fervendo por dentro. A Claudia olhou pra mim com uma cara de espanto, enquanto o Ludwig parecia me ver como algo sujo. Eu encarei os dois e falei a real.
 v_vir0621
-"You seriously think that nature’s wonderful? Do you actually believe that we’re so small in comparison that our worries just fuck off? Are you fucking dumb? That’s a bunch of bullshit!"
+"A Mãe Natureza é maravilhosa? Acredita mesmo que somos tão insignificantes ao ponto das nossas preocupações não serem nada? Tu tem algum problema mental? Até parece!"
 v_vir0622
-"All that shit ― mountains, seas... fuck, the 
-entire universe
- doesn’t matter! They can’t change a person’s life!"
+"Montanhas, mares ― toda essa merda... 
+o próprio universo
+ que se foda! Não tem influência nenhuma nas nossas vidas! Não afetam nossa realidade!"
 v_vir0623
-"Can you beat back hunger by looking at pretty little stars? Will they drop you some money? Or what, will your enemies just fuck off? Will the stars kill them or something?"
+"Consegue acabar com a fome só olhando lindas estrelinhas? Vai cair dinheiro do céu? Os inimigos vão simplesmente desaparecer? As estrelas vão matar eles?"
 v_vir0624
-"Fuck no, and that’s why it’s all meaningless. It doesn’t even work for escapism. Nature is just a load of worthless shit!"
+"Isso não existe! Não tem sentido! Não serve nem como escapismo! Que valor tem nessa tal natureza?"
 v_rut0136
-"Worthless...?"
-Ludwig suddenly glared at me with a gloomy look in his eyes. It made me cool off a bit, so I formed a mocking grin and provoked him.
+"Nessa tal natureza...?"
+Ele me encarou de remente com um olhar desolado. Aquilo fez com que eu acalmasse um pouco os ânimos e esboçasse um sorriso sarcástico.
 v_vir0625
-"Yeah. What, got something to say to me?"
+"É isso mesmo que tu ouviu. Algum problema?"
 v_vir0626
-"Are you one of those fuckwits who actually cares about environmentalism? Really, in this day and age?"
+"Tu é daquele tipo lá? Aqueles retardados que se importam com a preservação do meio ambiente em pleno século XX?"
 v_rut0137
-"That’s not what I want to say. I just want to ask what exactly you think you’re walking on?"
+"Não pretendia falar nada parecido. Contudo, você tem noção de por onde está pisando?"
 v_rut0138
-"No matter how impudent humans act, if the world dies ― so will you."
+"Não importa o quão sofisticada as pessoas se tornem, se o mundo morrer, vocês também morrem."
 v_vir0627
-"Hah."
-Yeah, the guy was a hopeless idiot. Completely off base.
+"Hah?!"
+Aquele cara não tinha cura. Completamente fora da casinha.
 v_vir0628
-"The fuck are you going on about? Humans wouldn’t be human if they got wiped out ’cause of the planet’s problems."
-They’d keep on going even if the green withered, water ran dry, or the land were filled with poison. They’d ravage the Earth’s corpse, then travel to other planets when there was nothing more to take.
-This wickedness, this destructive hegemony is part of human nature. O 
+"Dá um tempo! Os humanos vão continuar vivendo mesmo que o mundo se acabe!"
+A vida continuaria mesmo que as florestas morressem, a água secasse e até se o solo fosse contaminado por veneno. Esgotariam o cadáver da Terra e se mandariam pra outro planeta quando não tivesse mais o que sugar.
+Essa perversidade, essa hegemonia destrutiva, é parte da natureza humana. O 
 imortal
 Matusalém
- que eu almejo me tornar. It’s the immortality, indestructibility, perpetuity ― the Matusalém I seek.
-The Earth would take us with it? What a fucking joke.
+ que eu almejo me tornar.
+O mundo vai nos levar junto? Que piada.
 v_vir0629
-"You can leave the stupid idea that we can’t win against nature to shitty magicians high on their own farts. We evolve, leaving shitty concepts like that in the dust. Fuck, we don’t even believe in that shit."
+"Não podemos vencer a Mãe Natureza? Deixa esse seu fascínio bosta praqueles feiticeiros maçantes. Nós evoluímos, não ficamos requentando esses conceitos mofados e fedidos; não reconhecemos nem acreditamos nessas merdas."
 v_vir0630
-"It’s just a damn delusion that pussies jack off to. They can’t do shit, so their dreams are fucking weak, too."
-They didn’t even consider that they could become god.
+"Não passa de delírios a qual os fracos se apegam. Esses fracassados falham em fazer o básico, e até seus sonhos são medíocres."
+Sequer passa pela cabeça deles que podem se tornar Deus.
 v_vir0631
-"So yeah, all this shit you’re spewing is worth jack."
+"Vocês só sabem falar merda."
 v_rut0139
 "Entendi."
-Ludwig stood up, faced Claudia, and bowed to her, ignoring me completely.
+Ele se levantou, se direcionou à Claudia e agradeceu, como se eu nem estivesse ali.
 v_rut0140
-"Thank you for today. May we meet some other time?"
+"Agradeço pelo dia de hoje. Será que podemos nos encontrou outro dia desses?"
 v_kru0351
-"Ah, um... Certainly. I wouldn’t mind."
+"Ah, bom... Sim. Não me importo quanto a isso."
 v_rut0141
-"Excellent. Let us witness a white night someday in the near future."
-He turned around and started walking out, but I followed after him.
+"Pois bem, assim será. Em um futuro breve, iremos observar juntos a noite polar."
+Ele virou as coisas e saiu andando. De novo, eu fui atrás dele sem dizer nada.
 v_kru0352
-"Hã? Um... Wilhelm, what are you...?"
-I ignored Claudia’s panicking and stood next to Ludwig at the door.
+"Hã? Hmm... Ei, Wilhelm!"
+Eu ignorei completamente a Claudia em pânico atrás de mim e parei ao lado do Ludwig, que já estava na entrada.
 v_vir0632
-"We’ll take this outside. Not gonna run, are ya?"
+"Vamos resolver isso lá fora. Não vai fugir agora, vai?"
 v_rut0142
-"Of course not."
-Apparently, that idiot Beatrice wasn’t all that wrong.
+"Claro que não."
+Afinal, qual era o objetivo dele? Parece que aquela idiota da Beatrice não estava tão errada assim.
 About the guy’s goals, I mean.
-And since I realized that, I didn’t need to hesitate. It was obvious what I had to do.
-Yeah, it was only 
-natural.
+And since I realized that, I didn’t need to hesitate. Estava mais do que claro o que eu precisava fazer.
+Sim, o pensei que era o 
+natural a ser feito.
 v_rut0143
-"I do understand what you want to do to me."
-After leaving the house, we’d just silently walked to the cathedral. Upon arrival, I turned to face him.
+"Eu entendo o que pretende fazer comigo, contudo..."
+Nós deixamos a casa e caminhamos em silêncio até chegarmos à catedral, onde eu o encarei.
 v_rut0144
-"But before that, I want you to answer a few of my questions. I willingly agreed to this, so surely you won’t refuse?"
+"Antes disso, gostaria que respondesse a alguns questionamentos. Estou aqui por pura e espontânea vontade, então imagino que não vá recusar, certo?"
 v_vir0633
-"Hmph. Go ahead. Say it."
-I had a hunch about what he was going to say. After all, I didn’t know why, but he was fixated on Claudia.
+"Hmph. Fala logo."
+Eu já tinha uma ideia do que ele queria. Não sei por qual razão, mas ele estava interessado na Claudia.
 v_rut0145
-"You intend to kill her, don’t you?"
+"Você pretende matá-la, não pretende?"
 v_vir0634
-"Yeah. And?"
+"Sim, e daí?"
 v_rut0146
-"To take her soul?"
+"Para afanar a alma?"
 v_vir0635
-"Oh, so you know about all that. Did Mercurius tell you?"
-Even if all their beliefs were based on delusion, the Vatican’s dogs weren’t anything to scoff at. There wasn’t anything surprising about him knowing our nature.
-He’d somehow ended up surviving the anomaly at Katyn, then even stood before Lorde Heydrich. At that point, there was no way we’d go through those irrelevant questions.
+"Tá sabendo, hein? O Mercurius te contou?"
+Mesmo que todas as crenças dele fossem fruto da própria imaginação, não dava para subestimar os cachorros do Vaticano. Ele ter acesso a esse tipo de informação já era de se esperar.
+Estamos falando do homem que conseguiu sobreviver de alguma forma à anomalia de Katyn e ainda olhou nos olhos do Lorde Heydrich. A essa altura, não tinha nada de absurdo nisso.
 v_vir0636
-"Fuck, when and where did you meet the guy, anyway? You talked like you knew him the first moment we met."
+"Na real, onde e quanto se encontrou com aquele merda? Fala como se o conhecesse ele desde que nos encontrou."
 v_vir0637
-"It didn’t even look like you just knew about us ’cause of Vatican info. What’s up with that?"
+"Não tá com cara de que ficou sabendo sobre nós através do Vaticano. De onde saiu isso?"
 v_rut0147
-"Nothing much. I’ve merely been a part of this world for quite some time."
+"Não há nada demais nisso... Apenas estou vagando por este mundo há um longo tempo."
 v_rut0148
-"The same goes for him, as well. We have both been here for many years, and that has provided many chances for us to cross paths."
-Well, that was reasonable. Though Ludwig didn’t look much older than me, I knew that didn’t mean shit.
-People who’ve been behind the scenes since they were brats weren’t that rare, and you had people like Malleus, who’d been around for fuck knows how long.
-Hell, Mercurius himself was a goddamn enigma. Nothing he could’ve done in the past would’ve surprised me at that point.
+"O mesmo pode ser dito dele. Somos ambos anciões, o que nos propiciou muitas oportunidades de nos conhecermos."
+Bom, até que fazia sentido. Embora ele não parecesse ser muito mais velho que eu, isso não significava nada.
+Não era incomum gente andando por caminhos obscuros desde quando ainda chupavam dedo... a própria Malleus era outra que ninguém sabia ao certo quantos anos tinha.
+O próprio Mercurius era a prova disso; eu não fazia ideia do quem ele era. Nada do que tenha feito no passado me surpreenderia a essa altura.
 v_rut0149
-"I’ll continue, then. You know her desire, don’t you? Just as Claudia said, she seeks fulfillment in life."
+"Muito bem, prosseguirei. Você está ciente do desejo dela, certo? A Claudia busca pela realização em vida, tal qual foi mencionado na conversa que tivemos."
 v_rut0150
-"That sounds conventional, but that path isn’t easy. Her feelings, passion, and earnestness are in an entirely different realm. Even if they seek the same thing as her, no one would be able to replicate her being."
+"Embora possa soar simples ao expressar com palavras, de forma alguma é um caminho fácil. Os sentimentos, paixão e sinceridade estão em outro nível. Mesmo alguém na mesma posição, em busca da mesma coisa, ninguém jamais seria capaz de replicar a natureza dela."
 v_vir0638
-"You’re probably right. And I’m glad we don’t have many idiots as stupid as her."
+"Isso até pode ser. E é bom que não tenha outros imbecis como ela por aí."
 v_vir0639
-"If everyone were like that, humanity’d be long extinct. She’s so suicidal that I think she’s lost her mind."
+"A humanidade seria extinta se todo mundo fosse igual. A vontade dela em morrer é doença."
 v_rut0151
-"That is the one thing I agree with you on. However, it’s based solely on the outcome. Claudia doesn’t actually desire death."
+"Nisso podemos concordar. Contudo, baseia-se unicamente no desfecho. A Claudia não deseja realmente morrer."
 v_vir0640
-"But she doesn’t care if she dies."
+"Mas não se importa em morrer."
 v_rut0152
-"Indeed. As long as her desire is fulfilled, anyway."
+"De fato. Contanto que seu desejo se realize."
 v_vir0641
-"After all, she’ll die even if no one does anything."
-Ludwig closed his eyes, as if lamenting the fact. That was enough for me to realize something.
-Apparently, he was aware that Claudia didn’t have much time left.
-He then opened his eyes and looked at me directly before speaking in a challenging tone.
+"Ela tá fadada a morrer de qualquer forma."
+Assim que eu disse isso, o Ludwig fechou os olhos como se estivesse lamentando. Isso me fez perceber uma coisa.
+Tudo dava a entender que ele sabia que a Claudia não tinha muito tempo de vida.
+Até que finalmente abriu os olhos, olhou na minha cara e falou em tom de ameaça.
 v_rut0153
-"Have you not thought of keeping her alive, then?"
+"Nunca cogitou mantê-la viva?"
 v_rut0154
-"She’s close to death, but doesn’t desire it. That’s the truth. For what reason, then, does her shine have to perish?"
+"A Claudia está diante da morte, mas não anseia por ela. Sim, isso mesmo. Então, por qual razão o brilho dela tem de extinguir-se?"
 v_rut0155
-"Again, 
-if possible, she doesn’t want to die.
- Exactly. If the possibility is there, she has to be kept alive. Doing so will make her light increase and spread further ― to the heavens and beyond."
+" 
+Se possível, eu preferia que ela não morresse.
+ Sim. Se houve tal possibilidade, ela deve viver. Isso fará com que a luz da Claudia se intensifique e se propague para além do firmamento."
 v_rut0156
-"Her soul isn’t something that should end as a mere momentary sparkle. It’s a miracle, and must become a brilliant flame of infallible bliss. Don’t you feel the same way?"
+"Sua alma não deveria ser uma efêmera centelha transitória. É um milagre! É preciso que torne-se uma bênção inerrante e seu brilho continue a queimar. Não sente o mesmo?"
 v_vir0642
-"Not a chance in hell."
-I answered without any hesitation to speak of.
+"Nem perto."
+Curto e grosso. Eu respondi sem hesitar.
 v_vir0643
 "All I really feel for her is disgust and irritation at her suicidal tendencies. It’s even dumber ’cause she wants to live."
 v_vir0644
 "
-If possible, she doesn’t want to die?
+Se possível, prefere que ela não morra?
  You dumb asshole, that’s exactly what pisses me off. The fact that she doesn’t struggle makes my blood boil."
 v_vir0645
 "That’s why I want to make her say that she doesn’t want to die. I’ll disgrace her, make her crawl on the ground and shriek for life like she’s insane."
@@ -6777,7 +6777,7 @@ Por outras palavras, uma entidade que possa atuar como minha oposição. Não co
 v_rut0176
 "Busco salvar e ser salvo pela confirmação de que existi pelo bem dessa pessoa.
 v_rut0177
-A escuridão, por si só, não detém de sentido nem propriedade. Somente com a existência da luz que a escuridão torna-se substancial."
+A escuridão, por si só, não detêm de sentido nem propriedade. Somente com a existência da luz que a escuridão torna-se substancial."
 v_mrk0125
 "E oposto também se faz verdadeiro."
 v_rut0178
@@ -9710,7 +9710,7 @@ Além de estar em plenas condições, meu astral estava nas alturas. Por dentro,
 v_trf0001
 "Sim, eu tive muita sorte. Você também parece ter passado por poucas e boas, Primeiro-tenente."
 v_trf0002
-"Eu não estava presente no momento, então talvez não seja apropriado dizer isso, mas detém a minha simpatia."
+"Eu não estava presente no momento, então talvez não seja apropriado dizer isso, mas detêm a minha simpatia."
 v_vir0976
 "Hah. Pode parando. Eu não me importo com o que já passou."
 Esse sentimento era genuíno. Eu só tenho olhos para o futuro, então não sou de me apegar ao passado. Estava olhando para o futuro. Até lembro de tempos em tempos, mas não significa nada.
@@ -9879,7 +9879,7 @@ Na mesma hora, sem qualquer hesitação, Dinah apertou o botão do gravador ― 
 v_vir1004
 "............"
 Simultaneamente, gerando um flash cegante. Uma dor intensa o bastante para matar um humano comum conflagrou Wilhelm internamente
-Dianh olhou para ele caído no chão e levantou-se, com uma expressão completamente distinta. Bem como Wilhelm havia apontado, ela não era alguém que poderia ser rotulada como uma “qualquer”.
+Dinah olhou para ele caído no chão e levantou-se, com uma expressão completamente distinta. Bem como Wilhelm havia apontado, ela não era alguém que poderia ser rotulada como uma “qualquer”.
 v_din0091
 "Deveria tomar mais cuidado com drinks oferecidos por mulheres, Mister. Ehrenburg.
 v_din0092
@@ -10025,7 +10025,7 @@ Embora dormir fosse extremamente incomum para ele, o conteúdo do sonho em si po
 A história de um grão de poeira estelar, nascida no passado e que há muito tempo jazia sido esquecida. Com todo seu universo sendo quase que infinito, aquela entidade era de valor equivalente a resíduos, e o homem já não mais detinha memórias de seu nome.
 Ainda assim, ele se perguntava o motivo de ter tido tal sonho. Logo seria concedido a ele a tão ansiada morte e sua conclusão final, então por quê...?
 v_mrk0183
-"Quiçá possa ser algo que não detém de significado algum? Afirmaste que sua prece daria vida a uma luz ulteriormente distante, no qual nem mesmo eu tenho ciência.
+"Quiçá possa ser algo que não detêm de significado algum? Afirmaste que sua prece daria vida a uma luz ulteriormente distante, no qual nem mesmo eu tenho ciência.
 v_mrk0184
 Pois bem, que assim seja. Eu devo abençoar a alma do anjo. Permaneça nesta terra e observe as tendências pósteras."
 Seguinte ao seu dizer, um rosário apareceu sob a mão do homem. Ele olhou de relance para o mesmo antes de farfalhar e deixá-lo cair sobre a areia da costa do crepúsculo.
