@@ -403,7 +403,9 @@ Então, sugava suas vidas.
 Essa é a melhor descrição do que pode ser considerado meu estilo de luta. Eu passava por cima e afrontava meus inimigos.
 Eu estava mais do que ciente que era vulgar e obsceno. Naquela época, eu tinha uma ideia geral de como as pessoas viam as coisas.
 Mas e daí? Eu estava pouco me fodendo para os padrões da sociedade, mas não é como se eu estivesse tentando fugir à regra de propósito.
-Pelo contrário, meu estilo meramente encaixa com um certo template. Não era como se eu fosse um pirralho qualquer fazendo coisas ruins para parecer descolado.
+Pelo contrário, meu estilo meramente encaixa com um certo 
+template
+. Não era como se eu fosse um pirralho qualquer fazendo coisas ruins para parecer descolado.
 Era basicamente uma questão de preferência e o que eu sabia fazer bem. Eu me dava melhor fazendo as coisas a lá louca. É algo que se tornou parte de mim durante as noites que eu passava caçando cães e gatos.
 Eu acreditava que era normal as pessoas serem boas naquilo que gostavam de fazer. E o contrário também é verdadeiro. 
 Pra mim, essa era a minha especialidade, e eu me divertia fazendo isso.
@@ -438,8 +440,8 @@ Tá se perguntando que tipo de mundo eu desejava? Não é óbvio? Uma noite sem-
 Não preciso da luz do dia pois a noite é o meu domínio.
 O que mais um vampiro poderia querer? Claro, torná-la eterna seria impossível, mas eu conseguia trazê-la incondicionalmente para uma área num raio de 500m, e nem uma presa pega por ela era capaz de escapar enquanto eu não a desfizesse ou morresse.
 E o custo nem era tão elevado. Bom, por ser uma Hegemonia que afetava o mundo 
-e 
-espaço ao redor, não dava para manter ativa por muito tempo, mas a Noite das Rosas tinha uma peculiaridade.
+e
+ espaço ao redor, não dava para manter ativa por muito tempo, mas a Noite das Rosas tinha uma peculiaridade.
 Qualquer um consumido pela minha Criação teria sua vida drenada só de estar dentro dela, o que intensificaria minhas forças enquanto ainda tivesse a quem devastar.
 Não significa necessariamente que eu possa mantê-la desde que tenha combustível para queimar, ainda assim, considerando o tipo de Hegemonia, é bastante intuitiva. Apesar que pode estar relacionado ao fato de que apresenta traços de Transcendência.
 Quando a Noite das Rosas é ativada, eu me torno um vampiro genuíno, tal qual o dos mitos.
@@ -1459,9 +1461,7 @@ v_mrk0015
 v_mrk0016
 "Todos desejam que a moral eleve-se. É por isso que o Lorde Goebbels produz sua propaganda. Contudo, nos últimos anos, a linha entre apontar quem fez ou não o quê é tão tênue que nem adianta ficar perdendo tempo com isso."
 v_mrk0017
-"Pessoalmente, eu estou
- 
-curioso com a verdade dos faros, mas este caso nada tem a ver conosco. O problema é outro."
+"Pessoalmente, eu estou curioso com a verdade dos fatos, mas este caso nada tem a ver conosco. O problema é outro."
 Resumindo: ele estava pedindo para darmos um jeito nisso. Todos entenderam onde ele queria chegar, por isso ele foi sucinto.
 v_mrk0018
 "Há uma série de anomalias ocorrendo na Floresta de Katyn. Deem cabo dela."
@@ -2545,9 +2545,7 @@ Ainda mais que naquela época
 ela
 era quem tinha a menor reserva de almas na Távola Redonda Obsidiana.
 v_vir0387
-"Vai acabar o gás se ficar gastando toda energia assim. Tá querendo se matar?
- 
-Tu é burra?"
+"Vai acabar o gás se ficar gastando toda energia assim. Tá querendo se matar? Tu é burra?"
 v_bat0129
 "E? O que quer que eu faça? Não mudarei minha forma de viver nem pretendo mudar."
 v_bat0130
@@ -3971,7 +3969,7 @@ Spread out on the sofa, he laughed at his past self. But even if he’d been mor
 After all, Wilhelm didn’t care if there was something he could do to help her ― he wouldn’t have done it regardless.
 Dinah already knew him well enough to understand that. With that in mind, she continued the interview.
 v_din0035
-"Câncer, não é? Mas vocês tinha alguma arte secreta que fosse capaz de retirá-lo?
+"Câncer, não é? Mas vocês não tinham alguma arte secreta que fosse capaz de retirá-lo?
 v_din0036
  Com poderes mágicos até doenças incuráveis não deveriam ser problema? Não é assim que funciona?"
 v_vir0498
@@ -4120,9 +4118,7 @@ v_din0069
 v_vir0523
 "Escuta, de qualquer forma, vou continuar. Mas antes disso... Não tá precisando de mais uma dose, Dinah?"
 v_din0070
-"Agora que mencionou that you mention it, I’m up for one more, thank you... Deixe que 
- 
-eu preparo dessa vez."
+"Agora que mencionou that you mention it, I’m up for one more, thank you... Permita que eu prepare dessa vez."
 v_vir0524
 "Sério? Valeu. Vai lá."
 As Dinah stood up and headed for the counter, Wilhelm whistled a cheery tune.
@@ -5134,7 +5130,10 @@ v_mrk0086
 "É a mesma lógica pela qual, à época, a feitiçaria era considerado algo simples e alcançava resultados muito superiores aos dos dias atuais. Resumidamente, ah... de forma alguma estou insinuando algo negativo..."
 v_rut0089
 "Quanto mais saudável for o hospedeiro, mais saudável é o parasita?"
-Eu me adiantei e respondi com uma comparação que ele possivelmente utilizaria. Por outras palavras, a então prosperidade do supernatural deve-se porque o [mundo](Deus) era jovem.
+Eu me adiantei e respondi com uma comparação que ele possivelmente utilizaria. Por outras palavras, a então prosperidade do supernatural deve-se porque o 
+mundo
+Deus
+ era jovem.
 Em seu centro encontrava-se sentado um ser que configurava-se como a apoteose da existência e percursor da feitiçaria.
 Tal qual, toda criação foi tingida pela cor da prece que “ele” esboçou, e o que dela ecoou passou a constituir o conceito que veio a ser nominado como “arcano”. Uma explicação até que plausível.
 Faça-se a luz ―― se há um ser capaz de criar céu e terra a partir de uma simples expressão, então mesmo os resíduos deixados para trás após a conclusão de sua obra se tornariam, na perspectiva dos mortais, um poder extraordinário.
@@ -5153,7 +5152,10 @@ Eventualmente há de extinguir-se. O mundo rumo ao seu fim, e desconheço quando
 v_rut0091
 "Portanto, também não devo durar muito."
 Provavelmente é essa a razão pela qual ele tantos questionou e julgou que deveriam morrer se não detivessem da resposta. Em algum lugar dentro de mim eu já deveria estar ciente da resposta.
-Aqueles que não percebem que o mundo está morrendo e nada sabem [sobre mim](sobre a escuridão) não detêm de qualquer valor, logo não há razão para viverem.
+Aqueles que não percebem que o mundo está morrendo e nada sabem 
+sobre mim
+sobre a escuridão
+ não detêm de qualquer valor, logo não há razão para viverem.
 v_mrk0090
 "Precisamente. Todavia, sua existência resiste enquanto os demais desapareceram. É hoje a existência mais remota que há.
 v_mrk0091
@@ -5165,7 +5167,10 @@ v_rut0092
 "Por que sou o único que restou? Por que não desapareci como os outros...?"
 Essa era a minha última indagação. Embora destinada a mim mesmo, o feiticeiro a respondeu com clareza.
 v_mrk0093
-"Talvez porque seja mais similar ao seu [pai](deus) do que os demais?"
+"Talvez porque seja mais similar ao seu 
+pai
+deus
+ do que os demais?"
 v_mrk0094
 "Por outras palavras, por ser incapaz de largar o osso. Bem como este mundo, apesar da senilidade, é demasiadamente obstinado.
 v_mrk0095
@@ -5850,9 +5855,9 @@ v_vir0632
 "Vamos resolver isso lá fora. Não vai fugir agora, vai?"
 v_rut0142
 "Claro que não."
-Afinal, qual era o objetivo dele? Parece que aquela idiota da Beatrice não estava tão errada assim.
-About the guy’s goals, I mean.
-And since I realized that, I didn’t need to hesitate. Estava mais do que claro o que eu precisava fazer.
+Parece que aquela idiota da Beatrice não estava tão errada assim.
+Sobre o objetivo dele, claro.
+E agora que tinha me dado conta disso, eu não precisava ficar hesitando. Estava mais do que claro o que eu precisava fazer.
 Sim, o pensei que era o 
 natural a ser feito.
 v_rut0143
@@ -5917,153 +5922,151 @@ v_vir0642
 "Nem perto."
 Curto e grosso. Eu respondi sem hesitar.
 v_vir0643
-"All I really feel for her is disgust and irritation at her suicidal tendencies. It’s even dumber ’cause she wants to live."
+"Tudo o que eu sentia em relação a ela era irritação e nojo diante dessa tendência suicida dela sem que realmente quisesse morrer."
 v_vir0644
 "
 Se possível, prefere que ela não morra?
- You dumb asshole, that’s exactly what pisses me off. The fact that she doesn’t struggle makes my blood boil."
+ Imbecil! É justamente isso que me tirava do sério: a falta de resistência dela."
 v_vir0645
-"That’s why I want to make her say that she doesn’t want to die. I’ll disgrace her, make her crawl on the ground and shriek for life like she’s insane."
+"É por isso que quero fazê-la dizer que não quer morrer. Farei ela se envergonhar, rastejar e berrar feito louca, implorando pela vida."
 v_vir0646
-"I wanna hear her say that so goddamn much that I can’t fucking bear it."
+"Ver ela falando que faria qualquer coisa para não morrer ― eu quero tanto, mais tanto presenciar essa cena que nem me aguento."
 v_rut0157
-"Then why kill her afterward?"
+"Então, por que matá-la depois?"
 v_rut0158
-"I mean, you also wish to see her crave life, do you not? We’re the same on that front."
+"Tanto você quanto eu desejamos que ela anseie pela vida, certo? Nisso, concordamos."
 v_vir0647
-"Don’t be a fucking idiot."
-I replied instantaneously.
+"Não fala merda, porra."
+Eu respondi na mesma hora.
 v_vir0648
 "
-She only shines because she’s the way she is right now,
- damn it."
+Ela quer brilhar justamente por causa de como é agora.
+"
 v_vir0649
-"Basically, she’s like a dying candle flame ― an explosion caused by her deadline. If you drag her life out longer, she’ll just deteriorate."
+"É basicamente a chama de uma vela prestes a apagar ― uma explosão ao fim do prazo. Pelo contrário, ela vai acabar se deteriorando se ficar postergando a vida dela de maneira imprudente."
 v_vir0650
-"I don’t want her to turn moderate and mellow by giving her a new lease on life."
-If that happened, I could never witness Claudia at her greatest. Fuck that.
+"Eu não aguentaria ver ela se contendo e esperando ver o que acontece só porque teria “outra chance”."
+Se isso acontecesse, eu nunca mais poderia ver a Claudia em seu ápice. Simplesmente me recuso.
 v_rut0159
-"Absurd. A man who desires immortality is in no position to say that."
+"Absurdo. Um home que deseja se tornar imortal não está em posição de dizer isso."
 v_vir0651
-"Yeah, I’m aware of that. It’s exactly why I think that souls like hers are hard to come by."
-As someone aiming to become Matusalém, I couldn’t embody the strength of a fading candle, and in a sense, that was a weak point of every immortal.
-But by taking in Claudia, I’d make up for that flaw. A soul that gave it all for a momentous flame would surely elevate me further.
-Because of that, she just had to perish.
+"É, eu tô ligado nisso. Justamente por isso penso que almas como a dela são difíceis de conseguir."
+Justo eu, que queria me tornar Matusalém, era incapaz de personificar a força de uma vela prestes a apagar. E me arrisco a dizer que é justamente esse o ponto fraco de um imortal.
+Mas eu poderia suprir essa deficiência ao absorver da Claudia. Uma alma capaz de apostar tudo em uma combustão momentânea me elevaria a outro patamar.
+A Claudia precisava morrer.
 v_vir0652
-"She’ll die for my sake. She belongs to me, after all."
-I declared that as strongly as possible ― making him aware that he should just fuck off.
-Ludwig’s aura became somewhat cold.
+"Ela vai morrer por mim. Ela pertence a mim, afinal."
+Eu declarei com total convicção ― deixando claro que era pra ele ficar fora disso.
+Assim que disse isso, a aura do Ludwig pareceu gelar...
 v_rut0160
-"Let me ask you, then. How do you intend to make her say that she wants to live?"
+"Pois bem, permita-me questionar: como pretende fazer com que ela diga que quer viver?"
 v_vir0653
-"Only one thing comes to mind."
-Claudia couldn’t be moved by fear. Just as she herself said, the power it had over her was meager, weak, and didn’t bring any results.
-And if that didn’t work, there was only one other way.
+"Só consigo pensar em uma coisa."
+Era impossível comover a Claudia através do medo. ...Ela mesmo tinha dito que o poder que isso tinha sobre ela era mínimo, fraco e não gerava resultados.
+Então, restava apenas uma coisa――direto ao ponto.
 v_vir0654
-"I’ll make her fall for me."
+"Farei ela se apaixonar por mim."
 v_vir0655
-"It’s a common reason for a very simple mentality. Basically, all I have to do is make her attached to the world."
-I’d kill her the moment she shrieked just how much she wanted me.
+"É uma lógica clichê, apropriada para uma mentalidade simplória. Um apego para viver."
+E assim eu a mataria no momento em que ela gritasse e chorasse loucamente o quanto me queria.
 v_vir0656
-"I could really love her in that moment."
+"Essa Claudia eu seria capaz de amar."
 v_vir0657
-"She’ll get her final salvation and die shining like never before."
-That was the outcome I desired ― one where we became each other’s first loves.
-I wanted to know romantic love so I could embody the love of destruction. But in order for my desire to come true, I needed Claudia to become fixated on life. As Helga would probably have put it, I couldn’t get hard unless she showed her dirty parts.
-It’d make her all pretty, and if I killed her then, she’d also get what she wanted ― the satisfaction of teaching me love and the joy of having her own love reciprocated. Claudia would shine brightest at that single moment.
-Of course, there was no proof that it’d all be smooth sailing. She’d said she didn’t want to become like Helga, so she could resist and distort the results.
-Claudia’s ascent could easily become a descent into something demonic, and I might not get a brilliance as strong as I wanted.
-Still, this wasn’t something I was willing to compromise.
-For me to fall for her, she had to fall for me.
+"Ela alcançaria a salvação ao final de sua vida e morreria brilhando como nunca antes."
+E assim nos tornaríamos o primeiro amor um do outro ― essa era a conclusão pela que eu desejava.
+Eu queria descobrir o que significava amar, para que assim pudesse personificar o amor pela destruição. Mas, para isso, era preciso uma Claudia apegada à vida ― qualquer outra não me serviria. Usando das palavras da Helga: “precisa me mostrar seu lado imundo se quiser que eu fique excitado”.
+Eu a mataria quando se tornasse amável, e assim a Claudia também conseguiria aquilo que queria: a satisfação de ter me ensinado ao amor e a alegria em ser amada. Isso a faria reluzir por um breve instante.
+É claro, não tinha qualquer garantia de que daria certo. Se ela dissesse que não gostaria de se tornar como a Helga, poderia acabar resistindo e distorcendo o resultado.
+A sublimação da Claudia poderia facilmente ser corrompida em algo demoníaco, e eu não conseguiria um brilho tão intenso quanto gostaria.
+Contudo, isso era algo que eu não estava disposto a abrir mão.
+Para me apaixonar por ela, ela precisava se apaixonar por mim.
 v_vir0658
-"You know how they say that love is a battlefield? Yeah. Exactly."
+"Dizem que o amor é como uma guerra, sabe? É basicamente isso."
 v_vir0659
 "
-Why the fuck would I let her take charge?
+Por que logo eu deixaria ela assumir as rédeas?
 "
-That was the nature of Hegemony. My needs came first and foremost.
+Essa é a natureza da Hegemonia. Minhas necessidades primeiro.
 v_rut0161
 "Entendi."
-Ludwig gave a nod.
-Though we had entirely different ideas, we both wanted to complete Claudia.
-It was a battle for which one of us would make her shine ― which methods would be used and which one would be right, which one of us was strong and would have claim to her... It was basically a contest.
+Ele assentiu depois de eu ter dito tudo que queria.
+Embora nossos princípios fossem como óleo e água, não mudava o fato de que ambos queríamos tornar a Claudia completa.
+Qual homem a faria brilhar? Qual o método? Qual a resposta? Qual de nós estava certo, qual de nós era mais forte e seria capaz de reivindicá-la? Era basicamente uma disputa.
 v_rut0162
-"But if that is the case..."
-He took a step forward.
+"Contudo, se é assim..."
+Ele de um único passo à frente――
 v_rut0163
-"There is no reason that 
-you
- must be the one."
+"Não há qualquer razão para que 
+você
+ precise ser o escolhido."
 v_vir0660
-"Well, you ain’t wrong there."
-It was obvious and I more or less expected it, so I also knew what would come next.
+"Bom, pior que não."
+Isso era óbvio e eu meio que já estava esperando, por isso também sabia o que aconteceria em seguida.
 v_vir0661
-"Then let’s fucking go, ya shit!"
-I moved toward him, allowing my surging urges to take over, and swung my fist.
-It was an attack as powerful as the one I used against him at Katyn. With it, the fight from back then would resume.
-Of course, I expected him to dodge this one, too, so I instantly thought of the dozens of attacks I’d follow up with, and each of them would be an improvement over the last.
-Wondering just how long the Vatican shithead would last, I―
+"Então vamos com tudo, porra!"
+Eu parti pra cima dele, tomado pelo instinto, pronto para deferir um soco.
+Logo de cara, uma ataque tão poderoso quando aquele em Katyn. Isso faria com que as coisas recomeçassem de ondem paramos.
+Obviamente, eu já esperava que ele se esquivasse, assim como fez anteriormente. E, justamente por isso, eu deferi uma dezena de ataques em sequência, elevando o nível a cada novo golpe.
+Eu queria saber até onde aquele nojento do Vaticano aguentaria...
 v_rut0164
 "Gh..."
-Contrary to my expectations, the first punch was a clean hit. He’d actually taken the attack that he’d once evaded with ease and flew backward, making the church pews clatter to the ground.
+Traindo às minhas expectativas, o primeiro golpe o acertou em cheio. Ele foi diretamente atingido pelo mesmo ataque que ele havia desviado sem qualquer dificuldade antes, fazendo o Ludwig sair voando e quebrar os bancos da igreja.
 v_vir0662
 "...Hã?"
-It seemed like sort of fucking joke. I mean, the battle hadn’t even begun.
+“Tá falando sério?” ―― Que porra? Ela tava me tirando? A briga nem tinha começado.
 v_vir0663
-"You fucker..."
-My perplexion was followed by anger, and that was when...
+"Desgraçado..."
+Quando minha perplexidade estava se convertendo em raiva...
 v_kru0353
-"What do you two think you’re doing?!"
+"O que acham que estão fazendo?!"
 v_vir0664
-"............"
-The door swung open. Behind it was Claudia, breathing raggedly as she glared at me.
+"―――――"
+Para além da porta que se abriu estava a Claudia, respirando ofegante enquanto me encarava com uma expressão firme.
 v_kru0354
-"I came because I was worried and 
-this
- is what I see? Just where do you think you are? And Wilhelm, how can you do this to someone who isn’t even fighting back?"
-What the fuck was she talking about? She barged in without anyone asking. Did she really think her nonsense mattered?
-Claudia wordlessly ran past me, and fell to her knees before the damn clown who’d just held back for no fucking reason at all.
-She took him by the shoulders, helped him up a bit, and spoke to him with honest worry in her tone.
+"Vim porque fiquei curiosa e... Onde vocês acham que estão. E, Wilhelm, como pode fazer isso contra alguém que não está oferecendo qualquer resistência...?"
+“Que porra ela tá falando? Chega do nada, sem ser chamada, e ainda vem com esse papinho pra cima de mim?”
+Foi o que pensei na hora, mas a Claudia passou reto por mim, sem dizer nada, e se ajoelhou diante daquele palhaço sem qualquer motivo aparente.
+Ela o segurou pelo ombro e ajudou a levantar, e falou como se estivesse preocupada de verdade com ele.
 v_kru0355
-"Oh, Louie, Louie... Are you okay? That wound looks awful."
+"Ah, Louie, Louie... Você está bem? Que ferimento horrível..."
 v_kru0356
-"What happened here? How did you end up like this?"
-Because the fucker was picking a fight with me, dammit. We pissed each other off and saw each other as an obstacle, so we were about to settle it with an exchange of blows. It was manly etiquette.
-I didn’t care if a woman understood that or not, but I really didn’t want her butting her head into it. That shit killed my buzz.
+"O que aconteceu aqui? Como acabou assim...?"
+“Como? A gente tava brincando, porra!” Dois caras putos, que não se aturavam e resolveram se acertar com a boa e velha linguagem corporal. Coisa de homem.
+Não tô pedindo para uma mulher entender isso, só não se mete. É brochante.
 v_rut0165
-"Don’t mind me. I’m fine. Speaking of health, 
-you
- shouldn’t push yourself so hard, either."
+"Não se preocupe, eu estou bem. Pelo contrário,  
+você
+ não deveria estar fazendo esforço."
 v_rut0166
-"Did you run all the way here? It must’ve been hard... Please take better care of yourself."
+"Não me diga que veio correndo, veio? Imagino que deva ter sofrido... Por favor, valorize-se mais."
 v_kru0357
-"I don’t matter. You’re the one hurt who’s hurt..."
+"Eu estou bem!, já você..."
 v_rut0167
-"Well, your arrival did make me happy. Thank you."
+"Eu sei... mas estou feliz por vir. Obrigado."
 v_vir0665
-"Fuck this shit."
-What a joke. Fed up with the farce, I turned around and began walking away.
+"Imbecis."
+“Que teatrinho é esse?” ―― Ali deu pra mim; eu já estava indo embora quando...
 v_kru0358
 "Pode parando ai, Wilhelm! Trate de se desculpar com o Louie!"
-Seriously? Like hell.
-The teary voice coming from behind sounded like pig squeals to me.
-No, the fact that pigs didn’t do any stupid shit and simply became your sustenance actually made them seem a bit better.
+“Mas que porra?”
+A voz em lágrimas da Claudia me atingiu pelas costas; parecia mais o grunhido de um porco.
+Na real... os porcos são superiores simplesmente por não ficarem atrapalhando e ainda servem de alimento.
 v_kru0359
 "Onde pensa que vai? Ei, Wilhelm!"
 v_vir0666
 "Foda-se. Faça o que quer até morrer."
-They killed my vibe, and I couldn’t understand them at all. Ainda acho que são todos os malucos.
-Well, yeah, looking back on it, I was immature back then, but I actually was young, so it was only natural.
-Five years had passed since I’d met Lorde Heydrich, became a knight of the Obsidian Table, and gained inhuman abilities. That’d been my entire history at that point, and I was only in my twenties.
-I have no intention of making excuses for myself, but yeah, I just wasn’t mature enough. The excessive power, mixed with my youth and emotions, was way too much for me to handle.
-Of course, it’s not like I ever intend to fix the fact that I’m a crude, rough person. I’ll say it again ― being worldly is important. Acting all enlightened and transcendental ain’t "me," and I don’t want to become like that.
-I’m confident that the things I’d feel if I was put in the same situation again wouldn’t change. Acting all considerate, prudish, and mature is a total waste of time. It wasn’t about that life.
-I’m the type to act on my urges and unleash them however I damn well please. That’s my style, and it’s exactly why I don’t want to ever misfire.
-I want to allow my instincts to always explode at the exact right time, aimed at the exact right target.
-And for that, I have to train my scent. I feel like I have to learn to conduct myself in a way that allows me a clear head no matter the situation. I want to become a man who’s able to sniff out the right way to do that ― not by reason, but through intuition.
-I never want to misfire like that again. Imperfect releases like that can fuck off.
-Honestly, I’m still learning to do that, but that was exactly when I became aware of the philosophy.
-Minha vida como Matusalém deve continuar para sempre, e penso que seja necessário para que se torne proveitosa.
+Aquilo matou toda minha vontade, e eu sequer entendi. A verdade é que comecei a pensar que eles tinham enlouquecido.
+Tipo, pensando nisso agora, eu fui imaturo, mas... eu era jovem naquela época; que culpa eu tenho?
+Cinco anos tinham se passado desde que eu havia conhecido o Lorde Heydrich, me tornado um Cavaleiro da Távola Obsidiana e obtido poderes muito além das capacidades humanas. Minha carreira se resumia a isso, e eu ainda estava na casa dos 20 anos.
+Não tô aqui para ficar me justificando, mas ainda era muito cedo para eu entender aquilo. Eu não sabia como lidar com tanto poder, somada a falta de experencia e emocional.
+É claro, não é como se eu pretendesse mudar a minha essência imprudente. Vou repetir: é importante permanecer ordinário. Levar uma vida de compreensão e discernimento não combina com a minha personalidade, nem é o que eu busco.
+Por exemplo, mesmo agora, se eu me encontrar na mesma situação daquele dia, posso afirmar que meus sentimentos seriam os mesmos. Que se foda esse papo de ter consideração, de saber me segurar e me “portar como adulto”. Não é essa a questão.
+Eu sempre tomo minhas ações com base em instinto e desencadeio minha fúria de acordo a minha vontade. Esse é o meu estilo e, justamente por isso, nunca quero atirar no vazio.
+Tem que ser no momento certo, na direção certa; meus instintos precisam explodir no alvo.
+Resumindo: preciso aprimorar meu olfato. Sendo ainda mais direto: eu precisava aprender a me comportar de uma forma em que eu saísse satisfeito, não importa o que acontecesse. Eu queria me tornar um homem capaz de farejar qual o caminho certo a seguir ― não guiado pela razão, mas pela intuição.
+Para nunca dar golpes no vazio de novo. Para nunca mais ficar com aquele sentimento de que deixei as coisas inacabadas.
+Sendo bem sincero, ainda estou nesse processo de tentativa e erro, mas foi justamente naquela época em que tomei ciência dessa minha filosofia.
+Minha vida como Matusalém deve continuar para sempre, e acredito que isso é necessário para que eu possa levá-la de forma proveitosa.
 E isso porque...
 Sim, justamente porque...
 v_syr0001
