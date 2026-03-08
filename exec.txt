@@ -31,11 +31,11 @@ v_din0004
 Enquanto o homem falava e preparava habilmente os coquetéis, a mulher intitulada Dinah Malloy demonstrava estar perplexa.
 E o próprio percebeu a sutileza.
 v_vir0009
-"Acha que não faz meu estilo? Imaginou que eu fosse muito mais vulgar?"
+"Acha que não faz meu estilo? Sou um cara muito mais “ordinário” do que imaginou?"
 v_din0005
 "...Desculpe, mas, sim, é exatamente como me sinto.
 v_din0006
-Eu esperava que alguém como você fosse bem diferente do que demonstra ser."
+Eu esperava que alguém como você fosse bem diferente do que está demonstrando ser."
 v_vir0010
 "E isso a faz duvidar se o que está diante de você é real?"
 v_din0007
@@ -84,7 +84,7 @@ v_din0014
 v_vir0023
 "Isso aí. É pra isso que servem entrevistas, não é?"
 v_vir0024
-"Vai entender por que sou tão vulgar, aprender sobre minha maldição e a razão do meu alto astral...
+"Vai entender por que sou tão “ordinário”, aprender sobre minha maldição e a razão do meu alto astral...
 v_vir0025
 Vou te contar tudo mesmo, do começo ao fim. É o que quer saber, não é, Dinah?"
 v_din0015
@@ -1653,7 +1653,7 @@ A imbecil nos “agraciou” com sua opinião, enquanto a Claudia concordava com
 v_vir0281
 "Ei, escuta aqui, sua baixinha de merda."
 v_vir0282
-"Por que veio junto"
+"Por que veio junto?"
 Dentro do trem em direção a Katyn, eu perguntei a mesma coisa que já havia perguntado diversas vezes. Eu já tinha ouvido a mesma resposta diversas vezes, e sabia que não mudaria em nada, mas não era magnânimo o bastante para generosamente olhar para o lado e agir de acordo.
 Era inevitável me irritar e ficar puto com aquilo. Só me restava seguir reclamando.
 v_bat0035
@@ -2064,7 +2064,7 @@ v_vir0339
 "Mais precisamente, mesmo que queiram usar, eles não consegue? É isso?"
 Essa não era a minha especialidade, então não sei dar detalhes, mas parece que usar pessoas como combustível mágico não era uma boa ideia.
 Não porque é menos eficiente, mas porque controlar é muito mais complicado e arriscado.
-Basicamente, humanos são vulgares e mergulhados no carma. Seres que destroem a natureza por pura ganância; sendo bem aproveitados, elementos como terra, água, fogo e ar nem se comparam... é combustível de alta qualidade, mas dizem que acaba por ser um ato suicida.
+Basicamente, humanos são ordinários e mergulhados no carma. Seres que destroem a natureza por pura ganância; sendo bem aproveitados, elementos como terra, água, fogo e ar nem se comparam... é combustível de alta qualidade, mas dizem que acaba por ser um ato suicida.
 Muito se fala de poluição e destruição ambiental, né? Isso meio que prova que os humanos estão acima da natureza, não? Para usar um poder assim, é preciso emular essa “característica”, que equivale a destruir a si mesmo.
 v_riz0022
 "Usar a própria alma pode fazer com que enfraqueça e morra, enquanto usar a de terceiros gera um embate entre “si” que coloca sua sanidade em risco"
@@ -2484,7 +2484,7 @@ nada
 Eles não tinham alma nem uma única gota de sangue para absorver. Foi aí que eu me irritei.
 Sim, tinha que ser muito idiota para esperar encontrar resquícios de vida em um cadáver, mas meu estado mental não permitia aceitar essa lógica. O intento assassino que fervia dentro de mim urgia que ainda não era suficiente.
 Por isso, nessa hora, quem estava analisando a situação não era eu.
-Um raio azure passou de raspão do meu lado; qualquer um em sã consciência perceberia que aquilo não tinha sido um fenômeno natural, ainda que tivesse reduzido dezenas de cadáveres a frangalhos.
+Um relâmpago azure passou de raspão do meu lado; qualquer um em sã consciência perceberia que aquilo não tinha sido um fenômeno natural, ainda que tivesse reduzido dezenas de cadáveres a frangalhos.
 v_bat0115
 "Entendi. Não chegam a representar uma ameaça individualmente. Seus movimentos são lentos, e não demonstram raciocínio."
 v_bat0116
@@ -2554,7 +2554,7 @@ Ela disparou outro raio enquanto falava, sem qualquer relutância. As gotas de c
 v_bat0131
 "Então, é tudo que nos resta. Você é incapaz de se conter, e eu também não pretendo."
 v_bat0132
-"E mesmo assim ainda quer reclamar? Está com medo? Acha que essa situação é perigosa o bastante a ponto da Morte aparecer para buscá-lo?"
+"E, mesmo assim, ainda quer reclamar? Está com medo? Acha que essa situação é perigosa o bastante a ponto da Morte aparecer para buscá-lo?"
 v_bat0133
 "É tudo o que tem, Wilhelm Ehrenburg?"
 v_vir0388
@@ -2657,7 +2657,7 @@ Ah! Jochanaan, Jochanaan, du warst schön.
 Ah, Jochanaan, Jochanaan, você é tão belo.
 "
 Uma coisa eu posso afirmar: o amor de uma mulher pode acabar se tornando uma maldição. Falo por experiência própria, e duvido que alguém seja capaz de negar.
-Ela veste aquele pele de quem amam suas preciosas crianças mortas enquanto manipula uma horda de cadáveres. Ela é meio que uma “Santa Perversa”.
+Ela veste aquele pela de quem amam suas preciosas crianças mortas enquanto manipula uma horda de cadáveres. Ela é meio que uma “Santa Perversa”.
 A Meretriz da Babilônia. A pecadora Virgem Maria. Aquela mulher é a personificação de toda loucura do Terceiro Reich.
 Até onde sei, ela consegue obter ainda controle sobre os mortos transformando sua Relíquia em uma máscara e colocando no cadáver, mas nesse dia a prioridade era os números. Por isso, aquela vestimenta cadavérica que adornava Riza Brenner fazia parecer como uma atriz de teatro.
 É como assistir a uma ópera da morte. A magia pulsando através das linhas de ley capturou a anomalia de Katyn como uma mosca na teia de aranha.
@@ -5800,7 +5800,7 @@ v_vir0620
 Aquela foi a gota d'água. Eu tive que virar a mesa para acabar com aquela cena ridícula e fazer aqueles dois calarem a boca.
 Embora minha voz estivesse mansa, eu estava fervendo por dentro. A Claudia olhou pra mim com uma cara de espanto, enquanto o Ludwig parecia me ver como algo sujo. Eu encarei os dois e falei a real.
 v_vir0621
-"A Mãe Natureza é maravilhosa? Acredita mesmo que somos tão insignificantes ao ponto das nossas preocupações não serem nada? Tu tem algum problema mental? Até parece!"
+"A Mãe Natureza é maravilhosa? Acredita mesmo que somos tão insignificantes ao ponto das nossas preocupações não serem nada? Tu tem algum problema mental? Tá me tirando?!"
 v_vir0622
 "Montanhas, mares ― toda essa merda... 
 o próprio universo
@@ -5913,7 +5913,7 @@ v_rut0153
 v_rut0154
 "A Claudia está diante da morte, mas não anseia por ela. Sim, isso mesmo. Então, por qual razão o brilho dela tem de extinguir-se?"
 v_rut0155
-" 
+"
 Se possível, eu preferia que ela não morresse.
  Sim. Se houve tal possibilidade, ela deve viver. Isso fará com que a luz da Claudia se intensifique e se propague para além do firmamento."
 v_rut0156
@@ -6763,7 +6763,7 @@ Nesse sentido, ele se parecia comigo.
 v_rut0171
 "Razão? Algo deveras simples. Finalmente descobri a forma do sonho pelo qual anseio.
 v_rut0172
-Mercúrio, venho até ti para informar-lhe e pedir por certa cooperação. Apesar de minha longevidade, não estou familiarizado com o poder dos feiticeiros.
+Mercúrio, venho até ti para informar-lhe e pedir por certa cooperação. Apesar de minha longevidade, não estou familiarizado com o poder dos feiticeiros. 
 v_rut0173
 Não busco nada grandioso. Meramente desejo que conceda a mim um pouco de conhecimento relacionado aos triviais detalhes do manuseio."
 v_mrk0124
@@ -6786,9 +6786,9 @@ v_mrk0125
 v_rut0178
 "Precisamente. Meu ciclo de vida só terá significado quando eu buscar, desejar e passar o resto dele com um filho da luz."
 v_rut0179
-"Ao longo de uma longínqua eternidade, este corpo não foi mais do que uma profunda escuridão. Doravante, meu par não podem ser alguém símil ao fugaz brilho lunar.
+"Ao longo de uma longínqua eternidade, este corpo não foi mais do que uma profunda escuridão. Doravante, meu par não pode ser alguém símil ao fugaz brilho lunar.
 v_rut0180
-It must be a clear, pure, peerless sun that embodies the dizzying hymn of life. Minha alma gêmea precisa conhecer a escuridão, permitir minha existência e ser detentora de uma resplandecência absolutamente sublime. Somente alguém com tais qualidades seria adequada a mim."
+Um sol perpétuo, puro e cristalino que resplandeça como a encarnação de um louvor à vida. Minha alma gêmea precisa conhecer a escuridão, permitir minha existência e ser detentora de uma resplandecência absolutamente sublime. Somente alguém com tais qualidades seria adequada a mim."
 Por isso, ele assim declarou, como se estivesse a realizar um juramento, tal qual um santo ofertando suas preces.
 v_mrk0126
 "Então, o que de mim deseja é meu auxilio em sua busca?"
@@ -6814,7 +6814,7 @@ v_mrk0127
 v_mrk0128
 "Compreendo vosso desejo. É por isso que busca aprender sobre a magia.
 v_mrk0129
-Because your very existence is a gathering of the arcane, you find it difficult to understand the basics, much like a bird does not know the means and effort involved in soaring through the skies.
+Justamente em decorrência da sua própria natureza longeva, você acaba por encontrar dificuldade em compreender o básico, tal qual um passarinho que desconhece os meios e esforços que envolvem voar pelo céu.
 v_mrk0130
 Deténs de uma ancianidade natural, de modo que desconhece como aqueles com vidas tão breves atingem a longevidade."
 v_rut0188
