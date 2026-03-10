@@ -2132,9 +2132,9 @@ v_riz0035
 v_vir0341
 "E eu com isso?"
 v_kru0157
-"Entendo... Então a senhorita Riza é a terceira anomalia?"
+"É mesmo...? Então essa é a sua terceira anomalia, senhorita Riza?"
 v_riz0036
-"Sim. Os outros geralmente eram designados um para cada, então eu acabo sendo a mais experiente. Não é algo do qual posso me orgulhar."
+"Sim. As outras geralmente eram designadas uma para cada um de nós, então acaba que sou a mais experiente nesse quesito. Embora não seja algo do qual posso me orgulhar."
 v_kru0158
 "E por que não? Não faz de você uma veterana?"
 v_riz0037
@@ -2163,13 +2163,13 @@ v_riz0038
 v_riz0039
 "Mas devo dizer que me surpreende você ser tão assertiva assim."
 v_riz0040
-"Mesmo agora, não demonstrar estar com medo do Bey. Também é impressionante que seja uma enfermeira do exército.  
+"Mesmo agora, não demonstrar estar com medo do Bey. Também é impressionante que seja uma enfermeira do exército. 
 Aparentar 
 coragem não é difícil, mas no fundo não tem medo?"
 v_kru0161
 "Não, tenho sim. Mas é que sou sou bem tansa."
 v_vir0345
-"É uma metade."
+"Parcialmente."
 v_kru0162
 "Sim, exatamente por isso―"
 v_bat0085
@@ -2203,7 +2203,7 @@ v_bat0092
 v_vir0346
 "Então, é um ciclo, não é, Babylon?"
 v_kru0164
-"Refere-se aos dias em que a anomalia ocorre?"
+"Há dias em que a anomalia ocorre e outros que não? É isso?"
 v_riz0043
 "Sim."
 A Babylon assentiu e apontou para o céu.
@@ -2222,16 +2222,16 @@ v_riz0047
 "Há mais uma condição. Não foi cumprida ainda, então vamos esperar por ora."
 v_vir0348
 "Qual é desses seus enigmas? Se sabe de alguma coisa, desembucha."
-Mas tudo o que ela fez foi esboçar um sorriso implícito. É um péssimo hábito dele.
+Mas tudo o que ela fez foi esboçar um sorriso implícito. É um péssimo hábito dela.
 E não era só ela. A Malleus e o Cristof são iguais. E o Mercurius é ainda pior nesse sentido. Essa gente que se acha esperta adora falar como se fosse superior.
 Devido a tendências reflexivas e valorização do conhecimento, eles acabam evitando compartilhar... ou melhor, preferem guardar para si mesmos, obcecados em aguardar pelo momento certo de expor suas “sabedorias”. Que seja, é tudo um bando de chato.
 E só reclamam quando fazem o mesmo com eles. Não acha que são um bando de egocêntricos?
 v_bat0093
 "Bey, eu meio que entendo o que está pensando, e concordo plenamente, mas não está em posição de dizer isso."
 v_vir0349
-"Mas eu 
-não
-disse nada"
+"Mas 
+eu 
+nem abri a boca"
 v_bat0094
 "Está escrito na sua cara. Não está, Claudia?"
 v_kru0165
@@ -2248,7 +2248,7 @@ v_riz0051
 "Eu meio que posso assegurar que é possível ocorrer esta noite, então não fique tão ranzinza."
 v_riz0052
 "Entendido?"
-Eu assenti contra minha vontade. Me tirava do sério ela me tratar feito um pirralho, mas responder àquelas mulheres feito ela estando de cabeça quente era complicado. Sem contar que ela estava acima de mim na cadeia de comando ali.
+Eu assenti contra minha vontade. Me tirava do sério ela me tratar feito um pirralho, mas responder a mulheres feito ela estando de cabeça quente era complicado. Sem contar que ela estava acima de mim na cadeia de comando ali.
 v_bat0095
 "Então devemos permanecer em alerta? Ou seguimos o quanto der?"
 v_riz0053
@@ -2263,7 +2263,7 @@ v_vir0351
 "Por que eu? Sem chance?"
 v_riz0056
 "Quanta frieza. É 
-sua
+sua 
 responsabilidade, não é?"
 v_bat0096
 "Pode contar comigo nessa hora. É perigoso demais deixá-lo carregar uma garota nas costas."
@@ -2275,12 +2275,12 @@ Ainda não era a hora certa para isso acontecer.
 v_vir0353
 "Embora a história fosse outra se ela se transformasse ali."
 v_bat0097
-"Espera, você disse alguma coisa?"
+"Espera... você disse alguma coisa?"
 v_vir0354
 "Porra nenhuma. Continua abrindo o caminho."
 Dito isso, nós quatro seguimos floresta adentro. Em pouco tempo, a névoa ficou espessa e um cheiro de cadáveres se misturou ao ar.
 Durante o percurso, nós avistamos vários buracos abertos pelo chão. Estavam vazios, mas devia ter vários corpos enterrados ali.
-Todos ficaram rígidos. A atmosfera deixava claro que aquela era mesmo a floresta dos mortos, e abaixo dos nossos pés ainda deviam estar inúmeros restos não descobertos. Ninguém ousaria participar de um teste de coragem em um lugar assim.
+Todos ficaram rígidos. A atmosfera deixava claro que aquela era mesmo a floresta dos mortos e, abaixo dos nossos pés, ainda deviam estar inúmeros restos não descobertos. Ninguém ousaria participar de um teste de coragem em um lugar assim.
 Praticamente dava para sentir o ressentimento exalado pelos restos mortais e ouvir os ecos de suas lamentações.
 v_vir0355
 "É aqui?"
@@ -2289,18 +2289,18 @@ v_riz0057
 Nós paramos diante de uma certa colina que surgiu em meio a uma clareira inatural nas profundezas da floresta.
 Ainda não tínhamos avistado nenhum cadáver ambulante, mas eu tinha certeza de que estávamos olhando para onde o massacre havia acontecido.
 v_vir0356
-"Tá fedendo. É, deve ter uns dez mil aqui. Estão vindo com tudo."
+"Dá pra sentir o fedor. É... deve ter uns dez mil aqui. Estão vindo com tudo."
 v_riz0058
 "Eu diria que parecem mecanizados. Como uma fila para o abate."
 v_vir0357
-"Ah, entendi. Não dá pra dizer que está errado."
+"Ah, entendi. Não dá pra dizer que está errada."
 Por sermos ceifadores de almas humanas, temos uma certa sensibilidade para esse tipo de coisa, por isso meio que sabíamos o que havia acontecido ali. O ar pesado e anormal, tomado pela morte dizia tudo que precisávamos saber.
 Eles formaram linhas de tropas e, metódica e sistematicamente, talvez até com certa integridade, alvejaram um a um, como uma cadeia de dominó.
 Estava mais para um abate do que um massacre massacre. Levando em conta o propósito, dava para chamar de “desova”.
-Levar os prisioneiros de guerra para dentro do país eram trabalhoso, por isso decidiram se livrar deles ali mesmo. Meu sentimento foi parecido, e não estava de todo errado.
+Levar os prisioneiros de guerra para dentro do país era trabalhoso, por isso decidiram se livrar deles ali mesmo. Meu sentimento foi parecido, e não estava de todo errado.
 Sério, não dava pra acreditar. Total desperdício de recursos.
 v_vir0358
-"Bom, nesse sentido, nossos campos de concentração não eram muito diferentes. Matar sem qualquer vontade é um tédio."
+"Bom, nesse sentido, nossos campos de concentração não são muito diferentes. Matar sem qualquer vontade é um tédio."
 v_riz0059
 "Por outra perspectiva: ninguém atado por emoções humanas seria capaz de matar 
 tantas
@@ -2338,7 +2338,7 @@ v_kru0167
 v_vir0364
 "Nada demais. Não tem muito significado. Só que os coitados não foram os únicos a morrer aqui."
 v_vir0365
-"O massacre de Katyn aconteceu há uns 4 ou 5 anos atrás, e a maior parte do fedor de sangue é desse período, mas também tem sangue fresco no meio."
+"O massacre de Katyn aconteceu há uns 4 ou 5 anos atrás, e a maior parte do fedor de sangue é daquele período, mas também tem sangue fresco no meio."
 v_kru0168
 "Quer dizer que são vítimas da anomalia? Realmente, acho que a senhorita Riza chegou a mencionar algo sobre isso..."
 v_bat0104
@@ -2360,10 +2360,10 @@ v_riz0061
 "Pois é. Pensei que era melhor ficar quieta e não dizer nada na frente da Claudia."
 Ela suspirou profundamente antes de responder.
 v_riz0062
-"É a Igreja Ortodoxa Ocidental e o Vaticano. Já despacharam seus batalhões para cá várias vezes."
+"É a Igreja Ortodoxa Oriental e o Vaticano. Já despacharam seus batalhões para cá várias vezes."
 v_kru0170
 "Hã? Igreja...? O que isso significa?"
-Embora possa parecer estúpido a Claudia ― um membro da igreja ― ser pega de surpresa com essa informação, na verdade era até compreensível.
+Embora possa parecer estúpido a Claudia ― um membro da igreja ― ser pega de surpresa com essa informação, na verdade, era até compreensível.
 Organizações nunca expõem sua verdadeira natureza, ainda mais para fiéis ingênuos feito ela.
 v_bat0106
 "Claudia, sendo parte do corpo de enfermeiras, você também tem envolvimento com o exército, certo? O que estamos falando aqui é uma ligeira extensão dele."
@@ -2414,13 +2414,13 @@ v_bat0111
 v_bat0112
 "Bey, leve-a para algum lugar onde possam se abrigar da chuva."
 v_vir0374
-"Droga. Aí é foda. Logo  
+"Droga. Aí é foda. Logo 
 agora 
 tinha que começar a chover."
 v_kru0176
 "Kyah!"
 Minha reclamação foi seguida por um relâmpago que fez a Claudia se encolher toda.
-E a ignorando completamente as circunstâncias...
+E ignorando completamente as circunstâncias...
 v_riz0068
 "Estão vindo."
 A Babylon murmurou enquanto olhava para o céu.
@@ -2464,7 +2464,7 @@ Esse era eu. Número IV da Távola Redonda Obsidiana, Wilhelm Ehrenburg = Kazikl
 E, obviamente, eu não entrei nesse estado só pra me exibir. A realidade estava bem diante de nós, por outras palavras, a anomalia de Katyn estava se manifestando.
 A chuva torrencial transformou o solo em um grande lamaçal, onde transcorreu uma cena que muito remetia à germinação. Basta imaginar um pouco que dá para entender: mãos começaram a brotar do chão como se fossem flores.
 Elas cobriram o solo até onde a vista enxergava. Uma visão grotesca e de puro mal gosto, ainda que eu não ligue de descrever como flores florescendo em profusão.
-E para piorar, as flores iam além.
+E, para piorar, as flores iam além.
 Vieram os braços, ombros, cabeças, torsos... emergindo em sequência como se estivessem em ebulição. Metade de seus corpos era puro osso, e por todos os buracos escorriam fluidos imundos e vermes.
 v_vir0379
 "Bando de remendos!"
@@ -2473,7 +2473,7 @@ Só de pensar que
 aquilo
  poderia ter sido nosso futuro era um insulto.
 v_vir0380
-"Não fiquem achando que vão ir pro Valhalla."
+"Não fiquem achando que vão pro Valhalla."
 Eu iria pulverizá-los como se fossem lixo até não sobrar nada. Condenados a vagar sem destino por toda a eternidade, definhando e expondo seus cadáveres ao relento.
 v_vir0381
 "Vou exterminá-los!"
@@ -2534,15 +2534,15 @@ Na hora, eu não entendi o que ela estava falando, na real, eu tinha esquecido c
 Levou uns 5 ou 6 segundos até me dar conta.
 v_bat0128
 "Que foi? Vai reclamar?"
-Óbvio que iria. Nada do que ela disse tinha a ver com dar cabo deles.
+É óbvio. Nada do que ela disse tinha a ver com dar cabo deles.
 Aqueles cadáveres eram vazios, por isso estavam atrás de nós, que carregávamos muitas almas.
-Se continuasses queimando todo nosso combustível para manter a “chama da vida” acesa, a Claudia provavelmente iria passar despercebida por eles.
+Se continuasse queimando todo nosso combustível para manter a “chama da vida” acesa, a Claudia provavelmente iria passar despercebida por eles.
 Mas e daí? E o que faríamos depois disso? Estaríamos queimando um monte de almas, e não mudaria em nada nossa situação.
 Pelo contrário, só iria piorar.
 v_vir0386
 "Tu é burra, porra? Não faz sentido."
-Ainda mais que naquela época
-ela
+Ainda mais que naquela época 
+ela 
 era quem tinha a menor reserva de almas na Távola Redonda Obsidiana.
 v_vir0387
 "Vai acabar o gás se ficar gastando toda energia assim. Tá querendo se matar? Tu é burra?"
@@ -2559,9 +2559,9 @@ v_bat0133
 "É tudo o que tem, Wilhelm Ehrenburg?"
 v_vir0388
 "―――――"
-Não chegou a ser uma provocação. A razão da Primeiro-tenente Beatrice Kircheisen ser chamada de “Valquíria” era justamente 
-porque
- ela diligente idiota daquelas que dá vontade de matar.
+Não chegou a ser uma provocação. A razão da Primeiro-tenente Beatrice Kircheisen ser chamada de “Valquíria” era  
+justamente 
+ por ser uma idiota diligente daquelas que dá vontade de matar.
 v_bat0134
 "Tenho total convicção de que meu calibre não é o de alguém fadado a morrer aqui."
 v_bat0135
@@ -2582,7 +2582,7 @@ Incontáveis raios e estacas abriram caminho pela floresta de Katyn enquanto com
 Obviamente, eu não fiz questão de contar. Nem tinha como fazer isso ali. Quando se está lutando contra dezenas de milhares não dá tempo de ficar contando quantos já foram.
 Se eu tivesse que citar uma coisa que passou pela minha cabeça naquela hora, seria o Machina. Naquela época, ele também enfrentou dezenas de milhares de inimigos sozinho.
 E mais: os adversários não era um bando de saco de pancada. Eram Einherjar ― os campeões do campo de batalha.
-Ele lutou contra todos e terminou como o último em pé. Sou obrigado a respeitar o seu valor e, justamente por isso, eu pensava que não queria ficar pra trás.
+Ele lutou contra todos e terminou como o último em pé. Sou obrigado a respeitar o seu valor e, justamente por isso, eu não queria ficar pra trás.
 Então, você sabe, passar vergonha ali estava fora de cogitação.
 v_riz0072
 "Vocês dois foram ótimos. Ganharem tempo suficiente para eu me prepara."
@@ -2613,13 +2613,13 @@ v_bat0138
 v_riz0076
 "Bom, mais ou menos. Leva um tempo pra isso."
 v_riz0077
-"Seja como for, não está mais em vantagem numérica."
+"Seja como for, não estão mais em vantagem numérica."
 Número XI da Távola Redonda Obsidiana, Riza Brenner ― uma amante e manipuladora de cadáveres. Falando em termos mágicos, ela era uma necromante, colocando-a na mesma categoria da anomalia de Katyn.
 Para ela, cadáveres eram tanto ferramentas quanto armas e, nesse caso, era tudo uma questão de influência ― uma queda-de-braço para estabelecer quem é que mandava ali.
 v_riz0078
 "Posso perder em relação a quantos consigo animar simultaneamente, mas o poder da minha influência parece ser muito mais intenso. Por isso, são todos meus agora."
 v_riz0079
-"Vamos acabar logo com isso. Vamos conceder as honras fúnebres a eles."
+"Vamos acabar logo com isso e conceder honras fúnebres a eles."
 Na mesma hora, o exército de cadáveres sob o controle da Babylon deu meia-volta em uníssono e atacou os demais cadáveres, como se estivessem lutando ao nosso lado.
 Com o aumento dos nossos números, a desvantagem foi mitigada e a posição de combate caótica em que nos encontrávamos foi corrigida. Isso porque os comandados da Babylon não foram escolhidos aleatoriamente.
 Obviamente, ela priorizou os que estavam mais próximos de nós, montando uma frente ordenada de modo que ficasse claro quem estava do nosso lado e quem não estava.
@@ -2650,7 +2650,7 @@ Isso vale para o Machina, a Samiel e o Schreiber. E claro, para a Babylon.
 Embora não tenham muita história atrelada a eles, não pense que são fracas. Assim como disse antes, mesmo no mundo da magia, o novo tende a ser mais forte que o antigo.
 O fato de terem sido criadas em tão pouco tempo significa que possuem grandes densidades. Tem muitas mulheres ao longo da história conhecidas por assassinar pirralhos, mas são raras as que mataram tanto quanto Riza Brenner.
 E ainda dizem que é resultado de todo amor e carinho que ela tinha pelas crianças, então pode apostar que ela é completamente maluca.
-É claro, isso é indiferente pra mim. Tem muitas envolvidas que não faço ideia nem tenho vontade de saber, mas...
+É claro, isso é indiferente pra mim. Tem muitas coisas envolvidas que não faço ideia, nem tenho vontade de saber, mas...
 v_riz0082
 "
 Ah! Jochanaan, Jochanaan, du warst schön.
@@ -2659,9 +2659,9 @@ Ah, Jochanaan, Jochanaan, você é tão belo.
 Uma coisa eu posso afirmar: o amor de uma mulher pode acabar se tornando uma maldição. Falo por experiência própria, e duvido que alguém seja capaz de negar.
 Ela veste aquele pela de quem amam suas preciosas crianças mortas enquanto manipula uma horda de cadáveres. Ela é meio que uma “Santa Perversa”.
 A Meretriz da Babilônia. A pecadora Virgem Maria. Aquela mulher é a personificação de toda loucura do Terceiro Reich.
-Até onde sei, ela consegue obter ainda controle sobre os mortos transformando sua Relíquia em uma máscara e colocando no cadáver, mas nesse dia a prioridade era os números. Por isso, aquela vestimenta cadavérica que adornava Riza Brenner fazia parecer como uma atriz de teatro.
+Até onde sei, ela consegue ainda mais controle sobre os mortos transformando a Relíquia em máscara e colocando no cadáver, mas, naquele dia, a prioridade era numérica. Por isso, a vestimenta cadavérica que adornava Riza Brenner a fazia parecer como uma atriz de teatro.
 É como assistir a uma ópera da morte. A magia pulsando através das linhas de ley capturou a anomalia de Katyn como uma mosca na teia de aranha.
-Como se estivesse os abraçando, acariciando suas cabeças e dizendo: “Seja uma boa criança e faço o que digo”."
+Como se estivesse os abraçando, acariciando suas cabeças e dizendo: “Seja uma boa criança e faça o que digo”."
 v_vir0393
 "Eita, que meretriz."
 A Babylon estava evocando neles memórias de suas mães e a paz de seus berços. Um veneno letal para qualquer homem, nem mesmo o mais vazio dos cadáveres conseguiria escapar.
@@ -2710,19 +2710,19 @@ Bom, por mais que me irrite admitir, ela estava certa. Embora eu me importasse m
 v_riz0087
 "Tem razão. Como mulher, devo dizer que falta ao Bey um senso de perigo."
 v_riz0088
-"A Claudia é uma boa garota que sente como se tivesse uma dívida tão grande com você, que nunca pensou em fugir. Esse fato faz com que você se sinta acomodado."
+"A Claudia é uma boa garota, que sente como se tivesse uma dívida tão grande com você, que nunca pensou em fugir. Esse fato faz com que você se sinta acomodado."
 v_riz0089
 "Basicamente, nem passa pela sua cabeça que ela pode te dar um pé na bunda."
 v_bat0147
 "Ah... é mesmo! Exatamente. Tens uns homens que são assim mesmo. Eu sofro para entender de onde eles tiram toda essa confiança."
 v_bat0148
-"Tem certeza absoluta que ela vai continuar gostando de você, não importa o quanto a maltrate, né? Sua cabeça é oca?"
+"Aposto que tá achando que ela vai continuar gostando de você, não importa o quanto a maltrate, né? Sua cabeça é oca?"
 v_vir0397
 "............"
 A questão passava muito longe disso, mas elas não estavam erradas sobre faltar com senso de perigo.
 Ela pertencia a mim. Na minha cabeça, essa realidade era inabalável; um fato consumado. Jamais cogitei cometer um erro em relação a ela.
 Desde que me senti realizado no dia em que matei a Helga, tudo na vida de Wilhelm Ehrenburg correu exatamente como eu queria, por isso nunca havia experimentado da frustração.
-Verdade seja dita, o Lorde Heydrich acabou comigo, mas eu considerei aquilo uma bênção. Por isso, eu ainda desconhecia o que significa ser “humilhado”. Tudo que o Mercurius era pura ladainha.
+Verdade seja dita, o Lorde Heydrich acabou comigo, mas eu considerei aquilo uma bênção. Por isso, eu ainda desconhecia o que significa ser “humilhado”. Tudo que o Mercurius falava era pura ladainha.
 No fundo, eu acreditava vagamente que nunca perderia nem me rebaixaria a ninguém.
 v_riz0090
 "Se ficar sendo muito complacente e achando que tem tudo sob controle, pode acabar levando um pé na bunda qualquer dia desses. Ou, talvez, apareça outra pessoa e tire ela de você."
@@ -2765,8 +2765,8 @@ v_riz0099
 "Sim. Acho que cheguei a mencionar, mas a fonte está no subsolo."
 v_riz0100
 "Enterraram os corpos sobre algo perigoso, e quando chove cria-se uma conexão. É uma lógica bem simples."
-A água flui de baixo para cima, e o mesmo acontece com o sangue.
-O massacre de Katyn rejuvenesceu o envelhecido arcano que ressecou nas profundezas da terr.
+A água flui de cima para baixo, e o mesmo acontece com o sangue.
+O massacre de Katyn rejuvenesceu o envelhecido arcano que ressecou nas profundezas da terra.
 v_vir0401
 "Entendi, saquei o que tá dizendo. Mas e aí? Qual o plano? Vamos cavar um buraco agora?"
 v_riz0101
@@ -2774,7 +2774,7 @@ v_riz0101
 v_bat0152
 "Tipo uma caverna?"
 v_riz0102
-"Algo parecido, sim. Bom, agora que temos um norte, acho que podemos ir?"
+"Algo parecido, sim. Bom, agora que temos um norte, será que podemos ir?"
 Nós seguimos atrás da Babylon, descemos a colina repleta de cadáveres e começamos a explorar as redondezas.
 E foi bem fácil de encontrar o que procurávamos.
 v_riz0103
@@ -2787,7 +2787,7 @@ v_bat0153
 v_vir0402
 "Ela veio se esconder aqui enquanto nos divertíamos com os cadáveres? Bom... parece que deu uma dentro."
 v_bat0154
-"De novo dizendo essas coisas sem pensar...? Não ouviu o que a Riza disse? Esse pode ser o vil do leão."
+"De novo dizendo essas coisas sem pensar...? Não ouviu o que a Riza disse? Esse pode ser o covil do leão."
 v_riz0104
 "Não tenho tanta certeza."
 A Babylon colocou a mão sobre o queixou e olhou para o fundo da caverna e falou em tom de cautela.
@@ -2798,14 +2798,14 @@ v_riz0106
 v_vir0403
 "Então, tipo... Existe a possibilidade das condições mudarem no mesmo segundo em que entrarmos?"
 v_bat0155
-"E por isso é melhor evitar pensar na Claudia aqui?"
+"E, por isso, é melhor evitar pensar na Claudia aqui?"
 v_riz0107
 "Pois é. Imagino que esteja preocupada, mas é melhor evitar ficar chamando por ela."
 v_riz0108
 "É bom ser precavido. Se o que está dentro não percebeu a Claudia, então não precisamos chamar sua atenção."
 Pra mim, ela estava sendo precavida demais, mas tinha uma lógica nisso. Afinal, sensores eram usados para apontar 
 ameaças.
-Sendo assim, o castelo de um feiticeiro não deveria reconhecer um simples garota como uma. Portanto, se  Claudia passou despercebida, o melhor seria permanecer onde estivesse.
+Sendo assim, o castelo de um feiticeiro não deveria reconhecer uma simples garota como ameaça. Portanto, se  Claudia passou despercebida, o melhor seria permanecer onde estivesse.
 Mas, sendo bem sincero, uma parte de mim pensou que seria bom dar um susto nela.
 v_vir0404
 "Entendi. Então vamos entrar de uma vez."
@@ -2820,7 +2820,7 @@ O caminho era uma leve inclinação que seguida descendo... e depois de uns dois
 v_bat0157
 "Surpreendente... É muito mais ampla e profunda do que eu imaginei."
 v_bat0158
-"Era um linha reta, então não tinha como nos perdermos. E mesmo assim, não parecia normal."
+"Era um linha reta, então não tinha como nos perdermos. E, mesmo assim, não parecia normal."
 v_riz0110
 "Concordo. E perceberam? Acho que esta caverna é em espiral."
 Eu tive a mesma sensação porque o caminho era constantemente curvo. Considerando que estávamos descendo, fazia sentido ser uma construção espiralada.
@@ -2846,7 +2846,7 @@ No mesmo instante em que ela nos avisou...
 v_vir0408
 "――――――"
 Eu pisei no vazio. Aquilo me pegou desprevenido, mas a ausência da sensação de queda evidenciou que eu não tinha simplesmente pisado num buraco.
-Mas eu também não sentia nada debaixo dos meus pés, sem contar que eu não conseguia  
+Mas eu também não sentia nada debaixo dos meus pés, sem contar que eu não conseguia 
 ver nada
 .
 Repito: minha visão não era normal. Tenho plena confiança que é muito melhor que aqueles óculos de visão noturna.
@@ -2861,7 +2861,7 @@ v_vir0410
 Agora que eu havia ativado a armadilha, eu poderia esperar todo tipo de perigo. Na expectativa do que iria acontecer, eu esperei um tempo pelo próximo movimento, mas a escuridão e o silêncio permaneceram intocados.
 v_vir0411
 "Preguiçoso. Quer que 
-eu
+eu 
 ataque?"
 É estranho dizer que eu estava “caminhando” quando não conseguia sentir nada debaixo dos meus pés, mas eu segui andando assim mesmo.
 Não posso falar por elas, mas eu não era do tipo que tinha medo do escuro. Por isso, eu segui em frente sem hesitar, disposto a fazer com que algo acontecesse.
@@ -2875,10 +2875,10 @@ v_riz0115
 "Por quê? Por que não dá certo? Mesmo com tudo que já fiz; é tarde demais para parar agora..."
 v_riz0116
 "Se eu não apresentar resultados, tudo vai ter sido em vão!"
-Eu sabia de quem era essa voz. Alguém que eu conhecia bem ― a mulher com que eu estava conversando até então.
+Eu sabia de quem era aquela voz. Alguém que eu conhecia bem ― a mulher com que eu estava conversando até então.
 Contudo, dava para sentir que não era ela falando. Isso porque suas palavras eram completamente desconexas com a situação em que estávamos.
 v_vir0412
-"...Apesar disso, não era uma simples ilusão."
+"...Apesar de tudo, não é uma simples ilusão."
 Aquilo era genuíno.
 A verdade sobre a mulher conhecida como “Riza Brenner”.
 v_riz0117
@@ -2892,22 +2892,22 @@ v_riz0120
 "Não é isso... O que foi que eu 
 não
  fiz?"
-Dentro de um quarto insípido e de aparência estéril, havia uma mulher murmurando como se estivesse gemendo e contraindo as bochechas com espasmos nervosos. A expressão de medo, marcada pela irritação e ansiedade típica de que está encurralada, não é algo a ser elogiado nem por educação.
+Dentro de um quarto insípido e de aparência estéril, havia uma mulher murmurando como se estivesse gemendo e contraindo as bochechas com espasmos nervosos. A expressão de medo, marcada pela irritação e ansiedade típica do encurralamento, não é algo a ser elogiado nem por educação.
 A impressão era de que ela não tomava banho, comia ou dormia há dias. Seu cabelo estava oleoso, suas roupas desgastadas e suas bochechas encovadas. Contudo, apesar das olheiras, seus olhos demonstravam uma ardente paixão.
-Parecia um soldado prestes a perder a sanidade após ser despachado no pior campo de batalha imaginável. Verdade seja dita, toda morte e irracionalidade espelhada pelo cômodo faziam o lugar parecer um campo de batalha.
+Parecia um soldado prestes a perder a sanidade após ser despachado no pior campo de batalha imaginável. Verdade seja dita, toda morte e irracionalidade espalhada pelo cômodo faziam o lugar parecer um campo de batalha.
 v_vir0413
 "Hoh... Vejam só... quem diria, hein?"
 v_vir0414
-"Eu cheguei a ouvir sobre isso, mas... É definitivamente a 
-Babylon
+"Eu cheguei a ouvir sobre isso, mas... É definitivamente o 
 Reio de Degeneração
+Babilônia
 ."
 A mulher estava no centro do quarto, em meio a cadáveres de pirralhos espalhados ao seu redor. A primeira vista, eles não pareciam ter qualquer ferimento visível, mas isso só deixou ainda mais sinistro.
 Sequer dava para saber se eram garotos ou garotos. Aquelas crianças não deviam ter nem 10 anos, e o principal motivo de estarem mortas era porque não tiveram uma criação adequada.
 É sabido que um ambiente distorcido resulta em um crescimento distorcido. Assim como os pirralhos criados por lobos acreditam que são lobos, é de se imaginar que os cadáveres ali não tiveram uma vida humana normal.
 E olha que sou eu falando isso. Era uma cena tanto grotesca quanto divina. Aquelas crianças mortas, envoltas por uma atmosfera que transcendia o sexo, eram, por assim dizer, como anjos.
-Seus cérebros eram adulterados para abrir canais de consciência, fazendo como que visualizassem cores e ouvissem sons que humanos não conseguia perceber. Crescer interagindo com esse tipo de coisa fez com que enlouquecessem, incapazes de suportar os próprios poderes.
-Evolução, eugenia, os filhos do sol que conduzirão a próxima geração do Terceiro Reich. A criação de Übermensch.
+Seus cérebros eram adulterados para abrir canais de consciência, fazendo como que visualizassem cores e ouvissem sons que humanos não conseguiam perceber. Crescer interagindo com esse tipo de coisa fez com que enlouquecessem, incapazes de suportar os próprios poderes.
+Evolução, eugenia, os filhos do sol que conduzirão a próxima geração do Terceiro Reich. A criação do Übermensch.
 Era esse o objetivo da mulher chamada Riza Brenner, e o resultado era aquele que eu estava vendo.
 Aqueles anjos não estavam tocando as trombetas da bênção. O castelo da mulher, intitulado “Fonte da Vida”, ironicamente só empilhava cadáveres de pirralhos.
 v_vir0415
@@ -2916,25 +2916,25 @@ E daí? Qual o sentido e a lógica para mostrar isso pra mim naquele lugar?
 Aquilo fez eu me sentir meio estranho e idiota, como se eu estivesse vendo um conhecido transando, mas sem entender o sentido por trás do ato.
 Mas a cena diante dos meus olhos progrediu, ignorando minha confusão.
 v_riz0121
-"O plano de conceber psíquico em si não é um erro. É uma ideia perigosa, mas o mundo já não permiti mais idealismo."
+"O plano de conceber um psíquico em si não é um erro. É uma ideia perigosa, mas o mundo já não permiti mais idealismo."
 v_riz0122
 "Canções de caridade e igualdade não vão colocar fim à guerra. Precisamos de um poder avassalador para acabar com ela. É preciso inspirar a moral das pessoas!"
 v_riz0123
-"Pessoas de todos os cantos afirmam serem superiores as outras. Sim,  
-e justamente por ficarem afirmando isso 
+"Pessoas de todos os cantos afirmam serem superiores as outras. Sim, 
+e, justamente por ficarem afirmando isso, 
 que a guerra se torna tão caótica. É preciso moldar essa confiança."
 v_riz0124
-"Precisamos mostra a todos que nossas crianças são a vanguarda da evolução e vão conduzir os rumos do mundo novo... E  
-meramente
- serem um pouco mais espertar ou atraentes não é o suficiente."
+"Precisamos mostrar a todos que nossas crianças são a vanguarda da evolução e vão conduzir os rumos do mundo novo... Serem 
+meramente 
+mais espertar ou atraentes não é o suficiente."
 v_riz0125
-"Elas precisam realizar aquilo que a atual humidade é incapaz de alcançar. Serem reconhecidas como seres transcendentes. Os psíquicos são necessários... a fim de não haver qualquer margem para questionamentos."
+"Elas precisam realizar aquilo que a atual humanidade é incapaz de alcançar. Serem reconhecidas como seres transcendentes. Os psíquicos são necessários... a fim de não haver qualquer margem para questionamentos."
 Humanos se ajoelham perante milagres, seja por temê-los ou reverência-los. Ninguém se colocaria contra um países onde as pessoas pudessem voar pelos céus.
 Nossa relação com o Lorde Heydrich era parecida. Religiões também são bem parecidas. Todo mundo reverenciaria alguém que voltou dos mortos ou é capaz de prever o futuro.
 Por isso, eu entendia a lógica da Babylon. Se considerarmos a crença dela de que homens devem derramar sangue na guerra e as mulheres devem dar à luz e criar seus filhos, então o trabalho derradeiro das mulheres seria criar a “próxima” evolução.
 Se fosse possível produzir psíquicos em massa, então o Terceiro Reich se tornaria a gloriosa terra escolhidas pelos deuses.
-Alguns poderiam dizer que essa é uma visão simplista, mas quando as coisas complicam demais, é esse tipo de ataque simplista aquele que se sobressaí. Para obter controle sobre algo tão colossal e infernal como uma Guerra Mundial, eu penso que é preciso algo tão claro e descomplicado a ponto de soar ridículo.
-A realidade é que acabou resultando na criação da bomba atômica. Considerando as perspectivas daquela época, cogitar algo assim era tão absurdo e inacreditável quanto psíquicos.
+Alguns poderiam dizer que é uma visão simplista, mas quando as coisas complicam demais, é esse tipo de ataque simplista aquele que se sobressaí. Para obter controle sobre algo tão colossal e infernal como uma Guerra Mundial, eu penso que é preciso algo tão claro e descomplicado a ponto de soar ridículo.
+A realidade é que isso acabou resultando na criação da bomba atômica. Considerando as perspectivas daquela época, cogitar algo assim era tão absurdo e inacreditável quanto psíquicos.
 v_riz0126
 "Por isso, nada do que fiz até aqui foi um erro. Conheço cerca de 90% dos meios para se criar um psíquico."
 v_riz0127
@@ -2958,7 +2958,7 @@ v_riz0133
 "Eu preciso dar à luz... é a única alternativa."
 Uma das Presas e Garras do Ouro, uma cavaleira da Távola Redonda Obsidiana ― Riza Brenner era a mais adequada para ser a mãe de um Übermensch.
 Como disse, era óbvio. Seguindo a lógica, qualquer um pensaria que essa era a primeira opção.
-E pelo que fiquei sabendo, eu tentou várias vezes.
+E, pelo que fiquei sabendo, ela tentou várias vezes.
 v_riz0134
 "Mas... o que preciso para ter um filho...?"
 v_riz0135
@@ -2968,7 +2968,7 @@ minha
 v_riz0136
 "É por ter matado tantas crianças e ter me relacionado com homens sem amar que não sou qualificada para ser mãe?"
 v_riz0137
-"Mas se é assim, então não há nada..."
+"Mas, se é assim, então não há nada..."
 Imagino que essa seja uma ansiedade ― um medo ― que os homens, na teoria, capazes produzir cem crianças de uma só vez, jamais compreenderiam.
 Solo improdutivo não dá frutos. Pode até ser que a semente esteja podre, mas, na prática, o problema costuma ser a mulher. Em situações assim, a primeira coisa a se pensar é que tem algo errado com o útero.
 Infertilidade. Logo a Babylon, que tinha como objetivo primário conceber um Übermensch, acabou colidindo com essa barreira. Bem como ela mesmo disse, sem um sucesso inicial, nunca haverá um segundo.
@@ -3048,7 +3048,7 @@ Eram memórias de quando ela aceitou o treinamento do Mercúrio e se tornou uma 
 Tudo ganhou forma e transcorreu como um filme.
 v_ero0029
 "Por que está sorrindo?"
-Se passava no canto de um hospital de campo rudimentar. A Beatrice estava sentada em uma cadeira ao lado de uma cama, onde estava uma mulher coberta de ataduras a encarando com um olhar flamejante.
+Se passava no quarto de um hospital de campo rudimentar. A Beatrice estava sentada em uma cadeira ao lado de uma cama, onde estava uma mulher coberta de ataduras a encarando com um olhar flamejante.
 Era a Samiel... claramente. Memórias da época em que ela sofreu aquela queimadura.
 O ano era 1942 ― ou seja, dois anos antes. Mais especificamente, no dia em que as notícias sobre o assassinato do Lorde Heydrich começaram a se espalhar.
 Obviamente, era tudo notícia falsa e eu nunca acreditei, mas estaria mentindo se dissesse que não chegou a me abalar.
@@ -3099,7 +3099,7 @@ Ao mesmo tempo, em relação à visão de mundo na qual ela acreditava.
 v_bat0176
 "A guerra ainda está longe de terminar. As pessoas não vão parar de morrer. Essa série de tragédias deve continuar até que nossa pátria seja derrotada, não, tenho certeza de que ainda vai continuar além."
 v_bat0177
-"Mas para mim e à major, a guerra terminou."
+"Mas, para mim e à major, a guerra terminou."
 v_bat0178
 "O medo de sermos consumidas pela luz dourada e deixarmos de sermos pessoas... Nós conseguimos o evitar o futuro que mais me deixava apreensiva, agora tudo que precisamos é seguir na carreira militar e aceitar esse destino."
 v_bat0179
@@ -3107,7 +3107,7 @@ v_bat0179
 v_bat0180
 "Ter acreditado tola e ingenuamente nisso..."
 v_bat0181
-"Ao menos para mim... o meu maior arrependimento."
+"Ao menos, para mim... o meu maior arrependimento."
 Ela tinha razão sobre se arrepender. Essa era a parte estúpida dela.
 Assim que Beatrice deixo o leito de sua superiora, quem surgiu em seu lugar foi ninguém mais ninguém menos que o Ouro em pessoa.
 Samiel entrou em choque logo de cara, em seguida começou a chorar de alegria. O Lorde Heydrich a pegou nos braços e falou em seguida.
@@ -3118,11 +3118,11 @@ v_rin0021
 v_ero0033
 "Sim... Sim... Aonde quer que for eu estarei!"
 Por isso, no fim das contas, a única idiota nessa história foi a Beatrice. Ela não suportou a realidade e fugiu para se esconder dentro de uma ilusão que atendia suas conveniências.
-Sério, como ela pode ser tão imbecil a ponto de acreditar que o Lorde Heydrich teria morrido?.
+Sério, como ela pode ser tão imbecil a ponto de acreditar que o Lorde Heydrich teria morrido?
 Ignorar a realidade para proteger o seu próprio mundinho sem graça foi o que fez dela um fracasso como militar e pesou sobre suas costas.
 Se quer saber, tenho certeza de que, se a Beatrice tivesse ficado o tempo todo ao lado da Samiel, o final ainda seria o mesmo.
 v_bat0182
-"É inegável que cometi uma erro."
+"É inegável que cometi um erro."
 v_bat0183
 "É inegável que fui tola."
 v_bat0184
@@ -3131,7 +3131,7 @@ v_mrk0033
 "Afirmativo. Essa ânsia é agora sua verdade."
 Outra tempestade de estática, seguida pela 
 bênção
-maldita
+maldição
  do feiticeiro.
 v_mrk0034
 "Persegue uma alma que rutila e deixa para trás nada além da morte. É a ceifadora que convoca os campeões ao Valhalla ― a mais apropriada para se tornar a vanguarda de Gladsheim."
@@ -3166,11 +3166,11 @@ v_vir0423
 "Tch..."
 Sem condições. Eu já falei logo de cara porque sabia que só iria desgastar meus nervos à toa.
 v_vir0424
-"É tu Helga?"
+"É tu, Helga?"
 v_hrg0016
-"É claro. Faz tanto tempo que não olhamos um para o outro assim. Que felicidade, Wilhelm."
+"Sim, eu mesmo. Faz tanto tempo que não olhamos um para o outro assim. Que felicidade, Wilhelm."
 v_hrg0017
-"Quanto tempo será que já passou desde o dia que fez amor comigo? Eu ainda lembro como se fosse ontem."
+"Quanto tempo será que já passou desde o dia que me amou? Eu ainda lembro como se fosse ontem."
 v_hrg0018
 "Tem comido bem todos os dias? Não ficou resfriado, ficou? Se sentiu sozinho sem mim? Ei, ei, ei! Me abrace igual fez aquele dia."
 v_vir0425
@@ -3181,7 +3181,7 @@ v_vir0426
 v_vir0427
 "Se começar a tagarelar coisa que eu não perguntei..."
 v_hrg0019
-"Vai me matar? Então acho que já pode.Afinal, eu――"
+"Vai me matar? Então acho que já pode. Afinal, eu――"
 Eu a interrompi prontamente, dando um soco na cara de Helga. Sua silhueta dispersou-se em todas as direções, juntamente de um som similar a um balão d'água estourando.
 v_hrg0020
 "Ufu, ufufufu... Sim, assim mesmo! Eu amo esse seu jeito!"
@@ -3213,7 +3213,7 @@ v_hrg0026
 v_hrg0027
 "Por isso me destruiu."
 v_hrg0028
-"Meu princípio se tornou cinzas."
+“Torne-se cinzas, meu princípio.”
 Isso mesmo. Eu cortei a maldição da minha origem. Eu acreditava fielmente nisso.
 Quem aceitaria que um corvo imundo deu à luz a uma fênix? Um erro que precisava ser corrigido, e ao destruí-lo eu deveria renascer.
 v_hrg0029
@@ -3221,7 +3221,7 @@ v_hrg0029
 v_hrg0030
 "Não é um laço que consiga cortar. Somos uma família, afinal. E ainda lembra com carinho do dia em que me amou."
 v_hrg0031
-"Porque jamais quer esquecer. É por isso que eu também não esquecerei. Não irei desaparecer enquanto lembrar de mim."
+"Porque jamais quer esquecer, quer? É por isso que eu também não esquecerei. Não irei desaparecer enquanto lembrar de mim."
 v_hrg0032
 "Mais! Mais! Com força! Para todo sempre... eu permanecerei aqui enquanto desejar me quebrar, abraçar e devorar..."
 v_hrg0033
@@ -3259,13 +3259,13 @@ Ou seja... elas deviam ser a escuridão que havia se formado ao meu redor. Eu se
 v_vir0437
 "Por quê...?"
 Por qual razão tinham fugido? Eu nem fiz nada.
-Nada naquela minha conversa com a Helga deveria ter sido suficiente para “espantar a minha escuridão”. Claro, eu mandei ela sumir, mas se isso bastasse, aquilo não causaria problemas a ninguén.
+Nada naquela minha conversa com a Helga deveria ter sido suficiente para “espantar a minha escuridão”. Claro, eu mandei ela sumir, mas se isso bastasse, aquilo não causaria problemas a ninguém.
 v_vir0438
 "Não curti nada, sabia? Tá me menosprezando?"
 Tudo o que entendi foi que a situação não foi resolvida pelas minhas forças. Eu não sou do tipo “tudo termina bem quando acaba bem”, então aquilo acabou sendo uma humilhação.
 Por isso, eu permaneci parado onde estava e comecei a pensar de que maneira poderia ter superado aquilo com as minhas próprias forças.
 v_vir0439
-"Eu não me esqueci da Helga, né??"
+"Eu não me esqueci da Helga, né?"
 v_vir0440
 "E essa é a prova de que ainda estamos ligados?"
 Se tá na dúvida se já a esqueci, é claro que não! Ainda lembro muito bem, mas naquela época tinha se passado uns 15 ou 16 anos desde que a matei, e minha memória não era conveniente o bastante para conseguir apagar as coisas assim.
@@ -3274,7 +3274,7 @@ v_vir0441
 "Então, qual é? Por que a vejo como alguém especial?"
 v_vir0442
 "Que piada! Não posso negar, mas é num sentido completamente diferente."
-A Helga deixou uma forte impressão por ter sido a minha primeira mulher. É certo dizer que é especial, mas está mais para uma “memento”. Assim como mencionei antes, ela não passa de um troféu.
+A Helga deixou uma forte impressão por ter sido a minha primeira mulher. É certo dizer que é especial, mas está mais para um “memento”. Assim como mencionei antes, ela não passa de um troféu.
 Qualquer um que enxergue “amor” ou “laços” nisso é completamente insano. Só gente com um cérebro liso conseguiria fazer uma associação sem pé nem cabeça dessas.
 Por isso, eu não estava nem aí e concluí que se aquela discussão continuasse, seria muito simples desmontar o argumento.
 v_vir0443
@@ -3296,7 +3296,7 @@ Eu a cutuquei com a ponta do pé, mas ela só ficou gemendo e não acordou. E na
 v_vir0447
 "H? Isso não é..."
 Um envelope acabou caindo do meu bolso.
-Aquele mesmo que eu recebi da Samiel antes de partir para Katyn. Eu tinha esquecido completamente dele, mas ser cercado por todos aqueles morcegos deve ter bagunçado minhas roupas e caindo.
+Aquele mesmo que eu recebi da Samiel antes de partir para Katyn. Eu tinha esquecido completamente dele, mas ser cercado por todos aqueles morcegos deve ter bagunçado minhas roupas e caído.
 Eu pensei em deixar ele ali mesmo, mas a curiosidade acabou vencendo naquela hora.
 v_vir0448
 "...Tch. Vamos ver logo do que se trata."
@@ -3312,7 +3312,7 @@ E minha surpresa foi além.
 v_rut0001
 "Quem é 
 você?
- "
+"
 v_vir0452
 "............"
 Eu ouvi a voz dele vindo atrás de mim; estava próximo o bastante para sentir sua respiração. E não foi só isso, eu ainda senti algo que parecia uma lâmina pressionando contra as minhas costas.
@@ -3324,7 +3324,7 @@ v_vir0454
 "Hoh...? Tá se achando, hein, desgraçado."
 Eu respondi em tom casual, mas por dentro não estava tão tranquilo assim. Isso porque 
 eu não consegui sentir a presença dele ali.
-Reconheço que eu estava desprecavido e ele se aproveitou da oportunidade, mas não é essa a questão. Embora eu costume deixar passar despercebido quando as pessoas estão meramente se escondendo, essa foi a primeira vez que eu fracassei em reagir a alguém se aproximando de mim com intenções hostis.
+Admito que eu estava desprecavido e ele se aproveitou da oportunidade, mas não é essa a questão. Embora eu costume deixar passar despercebido quando as pessoas estão meramente se escondendo, essa foi a primeira vez que eu fracassei em reagir a alguém se aproximando de mim com intenções hostis.
 E o mais estranho de tudo...
 v_vir0455
 "Então? Qual foi? Se vai me matar, mata logo!"
@@ -3397,7 +3397,7 @@ E por isso, eu fiquei calado, fazendo cara feia enquanto assistia as coisas se d
 v_rut0015
 "Se tiverem qualquer dúvida, não me importo que peçam à igreja para verificar minha identidade. Posso até fornecer meu documento."
 v_riz0146
-"Claro. Aceitaremos  
+"Claro. Aceitaremos 
 e
  questionaremos a igreja sobre você. Contudo, não é possível realizar uma investigação aqui, então pedirei que coopere e venha conosco."
 v_riz0147
@@ -3464,7 +3464,7 @@ v_kru0187
 v_rut0020
 "Eu pareço 
 tão
-depressivo assim?"
+ depressivo assim?"
 v_kru0188
 "E-Então... com todo respeito, sim. Claro, você tem suas razões para ser assim."
 Dizer isso para alguém que teve todos os companheiros mortos chega a ser insensível. Eu nunca fui do tipo que fica dando sermão, e ela sabia disse, mas também não demonstrou a menor intenção de retirar o que havia dito.
@@ -3473,7 +3473,7 @@ v_kru0189
 v_kru0190
 "Eu gostaria de me tornar sua nova amiga... Bom, me desculpe. Estou sendo muito insolente, não estou?"
 v_rut0021
-"...No."
+"...Não."
 Após uma breve e estranha pausa, como se algo tivesse tomado conta dele, o homem sacudiu a cabeça.
 v_rut0022
 "Agradeço sua consideração. Você é uma pessoa muito pura e gentil, Claudia."
@@ -3493,10 +3493,10 @@ v_kru0193
 v_rut0026
 "Ah, pode me chamar como preferir. Permita-me cinzelar a bênção deste encontro em meu coração e me juntar a você em oração."
 v_kru0194
-"Eu também sou grato por encontrá-lo, Louie."
+"Eu também sou grata por encontrá-lo, Louie."
 v_kru0195
 "Pois bem, oremos para que as inúmeras almas repousando em Katyn encontrem o caminho até seus respectivos santuários."
-Os dois juntaram suas mãos e proferiram em tom solene.
+Os dois juntaram as mãos e proferiram em tom solene.
 v_mix0003
 "Amém."
 v_vir0460
@@ -3506,7 +3506,7 @@ v_bat0195
 v_vir0461
 "............"
 v_vir0462
-"...Que porra?"
+"...Que foi?"
 v_bat0196
 "Nada, não. Só fico aqui vendo o quão baixo alguém consegue ser, e a cara nem treme."
 v_bat0197
@@ -3515,7 +3515,7 @@ v_bat0198
 "Bom, ao menos agora eu posso ficar mais aliviada. Sério, graças da Deus."
 v_vir0463
 "Keh, só fala merda, imbecil! Sei lá que porra tu tá falando."
-A provocação sem sentido dela me tirou do sério, e eu simplesmente deis as costas e saí andando. Já tínhamos terminado o que precisava ser feito e não tinha motivo para permanecer naquele buraco.
+A provocação sem sentido dela me tirou do sério, e eu simplesmente dei as costas e saí andando. Já tínhamos terminado o que precisava ser feito e não tinha motivo para permanecer naquele buraco.
 v_bat0199
 "Pff... olha aquele mau perdedor andando sozinho. Bem feito pra ele."
 v_riz0154
@@ -3544,7 +3544,7 @@ v_vir0746
 "Claudia!"
 Eu não consegui bloquear a saraivada de tiros na direção dela. Nem preciso dizer quem era a única em risco ali comigo, paralisado diante daquela chuva de projéteis; um futuro que eu precisava evitar a todo custo e, mesmo assim, acabei falhando miseravelmente.
 É... 
-eu errei.
+eu vacilei.
 v_rut0406
 "Não se machucou, Claudia?"
 v_kru0530
@@ -3558,7 +3558,7 @@ v_rut0408
 Assim que disse isso, ele correu na direção dos atacantes antes mesmo que ela pudesse responder. Ficou parecendo que ele pretendia dar cabo de todos sozinho.
 v_vir1034
 "Desgraça...!"
-Quem ele tá achando que é? Eu cuspi, tomado pela irritação e, no instante em que continuaria, meu ombro foi segurado por trás.
+“Quem ele tá achando que é?” ― Eu cuspi, tomado pela irritação e, no instante em que continuaria, meu ombro foi segurado por trás.
 v_riz0182
 "Pode parando, Bey. Deixe isso com ele."
 v_vir0226
@@ -3633,14 +3633,14 @@ v_kru0533
 v_vir1035
 "Pode parando."
 Eu não estava mais suportando aquela conversa fiada e me meti no meio.
-O motivo pelo qual a Claudia o chamou de “cavaleiro” é bem óbvio ― do meu ponto de vista, toda aquela situação era completamente estúpida.
+O motivo pelo qual a Claudia o chamou de “cavalheiro” é bem óbvio ― do meu ponto de vista, toda aquela situação era completamente estúpida.
 Mais óbvio que isso, impossível.
 v_vir1036
 "Por que tu não matou aqueles fracotes?!"
 O Ludwig não matou um único soldado inimigo. Eles estavam amarrados e caídos aos nossos pés.
 Onde já se viu isso? Não tem motivo para deixar o inimigo vivo quando se está lutando no território deles.
 v_vir1037
-"Uma segunda leva vai aparecer se ficarmos aqui perdendo tempo? É, vai mesmo. Mais um motivo para acabar com eles agora, não acha?"
+"Uma segunda leva vai aparecer se ficarmos aqui perdendo tempo. Certeza que vai. Mais um motivo para acabar com eles agora, não acha?"
 v_vir1038
 "Eles viram nossos rostos e ouviram nossa conversa. Se os deixarmos aqui, vai aparecer mais gente na nossa cola."
 v_riz0193
@@ -3711,7 +3711,7 @@ Eu reclamei e falei curto e grosso para que a Beatrice me soltasse. Livre, eu ol
 v_bat0284
 "Imbecil... Passou dos limites dessa vez."
 v_riz0196
-"Bey, eu acabei de dizer para voltar onde nos reunimos primeiro."
+"Bey, eu acabei de dizer para voltar para onde nos reunimos inicialmente."
 v_vir1045
 "É, eu sei."
 Eu não senti qualquer remorso por ter matado eles na frente da Claudia, nem sequer pensei que aquilo foi um erro.
@@ -3726,7 +3726,7 @@ Eu dei a volta na floresta até retornar à margem do lago de onde partimos. Con
 O que ela fazia não era da minha conta, mas aquela situação me tirou do sério. Minha raiva voltou logo quando eu finalmente tinha conseguido contê-la.
 v_vir0466
 "Foda-se essa gente..."
-Tudo aquilo era simplesmente ridículo. Eu normalmente tenho ciência do meu temperamento exaltado, mas o que eu senti naquela era um pouco demais até pra mim.
+Tudo aquilo era simplesmente ridículo. Eu normalmente tenho ciência do meu temperamento exaltado, mas o que eu senti naquela hora foi um pouco demais até pra mim.
 Por quê? Sei lá, porra. Ao menos sei que não era um simples ciúme, humilhação ou coisa parecida.
 Isso porque esse sentimento momentâneo desapareceu tão rápido quanto surgiu. Uma questão de orgulho ferido e raiva por ter sido menosprezado.
 Eu tinha uma imagem concreta de quem eu era e odiava ser subestimado. Eu simplesmente ia lá e provava que estavam errados sobre mim; pelo contrário, eu até me divertia me imaginando fazendo isso.
@@ -3742,7 +3742,7 @@ v_kru0199
 Ela saiu da sombra de uma árvore, falando coisas que só me fizeram suspirar profundamente.
 Qualquer pessoa sã não se aproximaria de mim depois daquilo; mas foi exatamente o que ela fez. Eu não fazia a menor ideia do que se passava na cabeça dela.
 v_vir0467
-"Você erra todo dia."
+"Você vacila todo dia."
 v_vir0468
 "Se tem tempo para ficar pensando nisso, então..."
 v_kru0200
@@ -3778,7 +3778,7 @@ v_kru0208
 "Seria porque não gosta de religiosos?"
 Essa nem precisava responder porque era óbvio.
 v_kru0209
-"Então é porque não gosta do Louie?"
+"Então é por que não gosta do Louie?"
 Eu senti minhas sobrancelhas arqueando involuntariamente. Ela percebeu e, na mesma hora, fez uma careta.
 Ela parecia nervosa, confusa e até assustada.
 Apesar disso, seu comportamento seguia entusiasmado.
@@ -3789,7 +3789,7 @@ v_kru0211
 v_vir0474
 "Que foi?"
 v_kru0212
-"Então, ver nós dois nos dando bem deixa você todo irritadinho..."
+"Então, ver nós dois nos dando bem deixa você todo irritadinho... tipo isso?"
 v_kru0213
 "E-Então... é 
 assim
@@ -3798,22 +3798,22 @@ v_kru0214
 "Ah... que homem mais pecador é você!"
 v_vir0475
 "Hã...?"
-I did tons of things that could be considered "sins," so yeah, I was pretty damn sinful and fully deserving of a scolding.
-But none of what I did had anything to do with whatever she was thinking... I’ve probably already made that clear, but honestly, I’m not too sure now.
-Regardless, I did call her stupid for thinking that.
+Eu realmente fiz muitas coisas que poderiam ser consideradas tons “pecados”, então ela tinha razão em me chamar assim e dar sermão.
+Contudo... nada do que fiz está relacionado ao que ela estava pensando... Acho que cheguei a mencionar... não, na real, não tenho certeza.
+Mas, naquela hora, eu a chamei de idiota por ficar pensando essas coisas
 v_vir0476
-"Don’t get uppity with me, you dumbass. Yeah, you and that shithead pissed me off, but the reason isn’t that stupid."
+"Não fica se achando, retardada. Sim, tu e aquele merda me tiram do sério, mas não é por um motivo estúpido desses."
 v_kru0215
-"Oh come now... ’Stupid?’ That’s just mean."
+"Que culpa eu tenho... espera aí... chamar de “retardada” não é um pouco demais?"
 v_vir0477
-"I don’t have any feelings like that."
-I went and made myself as clear as possible.
+"Eu não sinto nada disso!"
+Eu fiz questão de negar de forma enfática.
 v_vir0478
-"You know how you call yourself ’half a person?’ In terms of that, I’m basically the same. There’s not a inch of love or romance in me."
+"Assim como tanto fala, eu também sou uma “meia pessoa”, sabia? Não tenho nada disso: amor, paixão... essas coisas."
 v_kru0216
 "Wilhelm..."
 v_vir0479
-"So yeah, quit making stupid assumptions, got it?"
+"Que seja, não fique tirando conclusões idiotas!"
 I had no idea why, but I went on to look away from her, and had to stifle a surge of feelings I didn’t like one bit.
 Claudia watched me intently and must have gotten some dumb ideas in her head, because what she said next was really weird, even for her.
 v_kru0217
@@ -3856,7 +3856,7 @@ v_kru0225
 "Wilhelm?"
 I scratched my head, thought "Ah, fuck it," and just said it.
 v_vir0485
-"Shut up, damn it. But yeah, I can’t deny that."
+"Cala a boca. Mas, realmente, não posso negar."
 At that moment, I grew aware of the fact that I was lacking and that what she was talking about was perfect to fix that flaw.
 I’d robbed hundreds and killed thousands, but could any of that really be called something that I truly 
 made mine?
