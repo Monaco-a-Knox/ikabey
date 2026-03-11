@@ -3804,7 +3804,7 @@ Mas, naquela hora, eu a chamei de idiota por ficar pensando essas coisas
 v_vir0476
 "Não fica se achando, retardada. Sim, tu e aquele merda me tiram do sério, mas não é por um motivo estúpido desses."
 v_kru0215
-"Que culpa eu tenho... espera aí... chamar de “retardada” não é um pouco demais?"
+"Que culpa eu tenho... Espera aí... não é um pouco demais chamar assim?"
 v_vir0477
 "Eu não sinto nada disso!"
 Eu fiz questão de negar de forma enfática.
@@ -3814,83 +3814,83 @@ v_kru0216
 "Wilhelm..."
 v_vir0479
 "Que seja, não fique tirando conclusões idiotas!"
-I had no idea why, but I went on to look away from her, and had to stifle a surge of feelings I didn’t like one bit.
-Claudia watched me intently and must have gotten some dumb ideas in her head, because what she said next was really weird, even for her.
+Não sei explicar o porquê, mas eu acabei desviando o olhar ao dizer isso, e precisei reprimir um sentimento vexatório que surgiu dentro de mim.
+Não sei como ela interpretou isso, mas a Claudia ficou me olhando e atentamente atentamente e falou algo completamente inesperado.
 v_kru0217
-"Then I shall be the one to give you those feelings."
+"Se é assim, eu devo oferecer esse sentimento a você."
 v_vir0480
 "Hã?"
-Unable to process what she just said, I looked up and saw her aim a faint smile at me.
-Claudia looked as though she finally found whatever she’d been searching for.
-Her silver hair glistened in the moonlight as her bright white skin became a bit flushed.
-At that moment, she looked like a rose to me.
+Incapaz de processar o que ela tinha dito, eu cheguei levantar o rosto involuntariamente e dei de cara com o sorriso tênue daquela idiota.
+Parecia como se ela tivesse encontrado a resposta pela qual sempre esteve procurando.
+A luz do luar refletiu em seus cabelos prateados enquanto sua pele branca ficava levemente corada.
+Naquela hora, eu a vi como uma rosa.
 v_kru0218
-"You and I are both Noah’s children. We’re two half-persons... That means that if we share what we have, we should be able to become whole and evolve as people."
+"Nós somos filhos de Noé. Duas pessoas pela metade... Então, poderíamos partilhar o que cada um possui e nos tornarmos completos."
 v_kru0219
-"You will teach me of light, while I will teach you of love. We shall thoroughly show each other how dear and splendid such things are."
+"Você me ensina sobre a luz, e eu ensino sobre o amor. Vamos compartilhar um com o outro o quão queridas e maravilhosas essas coisas são."
 v_kru0220
-"That would be such a beautiful balance. Don’t you agree?"
+"Não acha que daria um belo equilíbrio?"
 v_vir0481
-"Wait, so..."
-She was actually saying that she’d make me fall for her. It was definitely something to chuckle at, and that was exactly what I did.
+"...Quer dizer, então você..."
+Ela faria eu me apaixonar? Sério? Isso é coisa que faria qualquer um rir, e foi exatamente isso que eu fiz.
 v_kru0221
-"Is it that funny? Am I not good enough?"
+"É tão engraçado assim? Eu não sou boa o suficiente?"
 v_vir0482
-"Hold on, didn’t you say that it’s sinful or some shit?"
+"Tipo... não acabou de dizer que era pecado?"
 v_kru0222
-"I did, but I just realized that 
-being loved
- is perfectly acceptable. I just have to avoid reciprocating."
+"Disse... mas percebi que 
+ser amada
+ é perfeitamente aceitável. No fim das contas, basta evitar que se torne recíproco."
 v_vir0483
-"You little..."
-Her playful manner of speaking combined with the conceit in her words actually left me somewhat baffled.
+"Desgraça..."
+Esse jeito dela brincar com as palavras e falar presunçosa de si chegou a me deixar atônito.
 v_kru0223
-"Becoming your first love sounds simply wonderful. It seems like an excellent way to make it up to you."
+"Por isso, acredito que se tornar o seu primeiro amor é algo maravilhoso. Não é uma boa forma de pagar minha dívida com você?"
 v_kru0224
-"I 
-would
- be your first, yes?"
+"A verdade é que 
+ainda
+ não teve um primeiro, teve?"
 v_vir0484
 "............"
 v_kru0225
 "Wilhelm?"
-I scratched my head, thought "Ah, fuck it," and just said it.
+“Que merda, hein?” ― Tudo que consegui foi resmungar enquanto coçava a cabeça.
 v_vir0485
 "Cala a boca. Mas, realmente, não posso negar."
-At that moment, I grew aware of the fact that I was lacking and that what she was talking about was perfect to fix that flaw.
-I’d robbed hundreds and killed thousands, but could any of that really be called something that I truly 
-made mine?
-For example, pushing Claudia down and raping her right then and there would have been child’s play to me.
-But there wouldn’t be a bit of love in that. It would be an unaesthetic destruction ― completely unlike that of Lorde Heydrich’s.
-Despite claiming to be one of His Claws and Fangs, all I did was break whatever came in sight.
-It was clumsy. There was no emotion to it. Hell, you could even compare it to a cow eating its feed and shitting it out.
-Because of that, I figured that I would never really have anything until I understood my own kind of love.
-Upon thinking that, I felt as though Helga started to giggle. Over the course of my life, she was the only one I’d sworn to kill and actually followed through on.
-And honestly, she was also the only one I felt I 
-had
- to kill.
-That made me wonder whether that meant I loved her, and in order to get the answer, I knew I had to kill Claudia.
-Since the night I’d killed my mother, she was the only person who had a soul and death that seemed valuable to me.
-If Helga was the one who’d brought about my rebirth, Claudia was the first one I wanted to sink my vampiric fangs ― my love ― into.
-Thus, I would get her to bloom, make her wither, and then take her for myself. The meaning and necessity of that act was clearer to me than ever before.
-And that was exactly why...
+Foi nessa hora que eu me dei conta do que me faltava, e aquilo que a Claudia estava dizendo era perfeito para suprimir esse vazio.
+Eu matei e roubei centenas de almas, mas dava mesmo para dizer que fiz delas 
+minhas?
+Por exemplo, seria muito fácil estuprar a Claudia ali. Não tinha qualquer impedimento.
+Mas não haveria amor. Não haveria qualquer traço de beleza nesse tipo de destruição ― completamente diferente do Lorde Heydrich.
+Embora eu me declarasse as Presas e Garras dele, tudo o que eu fazia era destruir o que aparecia pela frente e me livrar de qualquer obstáculo.
+Era algo hediondo; não tinha como classifica como “sentimento”. Nada mais do que um processo de alimentação e excremento animal.
+Por isso, eu entendi que nunca teria algo realmente meu enquanto não compreendesse o que o amor significava para mim.
+Pensando nisso, eu senti como se a Helga estivesse rindo de mim em algum canto. É verdade, até hoje, ela foi a única que eu jurei convictamente que mataria e realmente o fiz.
+E também foi a única que eu 
+senti que precisava 
+matar.
+Isso me fez pensar se eu a amava e, para descobrir a resposta, eu sabia que precisaria matar a Claudia.
+Desde a noite em que renasci com o sangue dos meus pais, ela foi a única cuja a alma e último suspiro pareciam ter algum valor para mim.
+Se a Helga foi aquela que me permitiu uma nova vida, a Claudia foi a primeira em quem eu desejei afundar minhas presas de vampiro ― meu amor.
+E, para isso, eu precisava fazê-la florescer, murchar e tomá-la para mim. O significado e necessidade disso ficou mais claro do que nunca.
+Justamente por isso...
 v_vir0486
 "E quanto a 
 você?
 Nunca teve um primeiro amor?"
-...She disgusted and pissed me off to no end. Just like with Mercurius, there was something about her that I just couldn’t understand.
-The documents given to me by Samiel had made it even more obvious.
+Ela me dava novo e tirava do sério. Assim como o Mercurius, tinha algo nela que eu simplesmente não conseguia assimilar.
+Os documentos que a Samiel me entregou deixaram isso ainda mais evidente.
 v_kru0226
 "Infelizmente, não. Afinal, é pecaminoso."
 v_vir0487
 "Porque vai morrer?"
 v_kru0227
 "............"
-She was at a loss for words, and her shoulders shook ― a brief, yet obvious display of surprise and panic.
-However, there wasn’t a single hint of fear in any of her mannerisms.
+Ela ficou sem palavras, seus ombros tremeram ― uma breve e evidente demonstração de pânico e surpresa.
+Mas, no fim, não tinha qualquer demonstração de medo em seu olhar.
 v_kru0228
 "Todos morrem um dia."
-A bright smile adorned her face as she said that. Not a single tear rolled down her cheek.
+Ela abriu o sorriso reluzente; não escorreu uma lágrima.
 v_vir0488
 "Mas você vai morrer muito antes dos outros."
 Eu falei isso olhando nos olhos dela.
@@ -3898,47 +3898,47 @@ Claudia Jerusalem tinha menos de um mês de vida restando.
 Aqueles documentos eram o prontuário dela, e esse o diagnóstico.
 v_kru0229
 "...Que problemão. O que devo fazer? Então sabia? Isso não se faz."
-And yet, she was acting like a child caught red-handed in an act of mischief.
-Despite being on the verge of death, she didn’t express a hint of negativity. It made her seem somewhat... transparent.
+Apesar disso, ela agiu como uma criança pega no flagra.
+Embora estivesse com os dias contados, ela não demonstrou qualquer sinal de negatividade. Ela parecia... transparente.
 v_kru0230
-"Como bem disse, eu não viverei muito mais. Mas pense nisso, Wilhelm."
+"Como bem disse, eu não viverei muito mais. Mas, pense nisso, Wilhelm."
 v_kru0231
 "As almas que você acumula são mesmo “consumidas”?"
 v_kru0232
-"Elas desaparecem e deixam de existir depois de usadas? Eu não acho que seja assim que funcione."
+"Elas desaparecem e deixam de existir depois de usadas? Eu não acho que é assim que funciona."
 v_vir0489
 "O que tá querendo dizer?"
 v_kru0233
 "Basicamente..."
 Ela fez uma pausa e olhou para a lua. Ela gesticulou como se estivesse observando algo inestimável ― como se lá estivesse a terra que ela almejava.
 v_kru0234
-"...Eu acredito que almas que foram amadas use bliss as guidance to take them to a better place."
-And if that was true, the loved souls wouldn’t vanish even if they were used as magic fuel.
+"...Eu acredito que almas que foram amadas usam dessa felicidade como um farol que as guia até o local que consideram sendo seus santuários."
+Ela acreditava que as almas amadas não desapareceriam, mesmo se fossem usadas como combustível da feitiçaria.
 v_kru0235
-"Mas se eu acabar amando você, pode ser que eu não consiga partir nessa jornada."
+"Mas, se eu acabar amando você, pode ser que eu não consiga partir nessa jornada."
 v_kru0236
-"Arrependimentos e desejos não realizados regrets and wishes would keep me tied to this plane. And I might become something unlike myself... or perhaps something inhuman."
+"Arrependimentos e desejos não realizados vão permanecer, e eu posso acabar deixando de ser a pessoa que sou..."
 Igual a Helga.
-Claudia had no way of knowing this, but she was basically saying that she didn’t want to become a being within me that lived for my love while constantly bathing in blood.
+Não tinha como ela saber disso, mas ela estava basicamente falando que não queria continuar existindo dentro de mim repetindo seu amor enquanto eu me banhava de sangue.
 v_kru0237
 "Isso seria muito pecaminoso."
 v_kru0238
 "Se tornarei uma maldição que o faria sofrer."
 v_kru0239
 "Por isso não permitirei.."
-She would make me fall for her and just be satisfied from the joy of having done that.
-She believed that saving me would bring salvation to herself.
+Ela queria mostrar que quem iria se apaixonar era eu e me contentaria com essa alegria.
+Salvando a mim, ela estaria salvando a si mesma.
 v_kru0240
-"Therefore, I’d prefer it if you didn’t try resisting this. It would be silly of you to do that, really. I will be satisfied with just giving you what you lack."
+"Por isso, prefiro que não tente alimentar um sentimento estranho de rivalidade. Se eu for capaz de dar a você aquilo que lhe falta... será suficiente."
 v_kru0241
-"I won’t be around for long, after all... So, before my life fades away, I would like you to tell me it was worth something."
-There wasn’t a hint of hesitation in her words.
-However, I could neither understand, nor tolerate someone who spoke as if death was a given.
-She wasn’t struggling to overcome it, and didn’t even seem to want to. That really bothered me.
-After all, that’s what I was ― and still am ― doing. My intention was to become a creature unknown to death.
-I would be a true ancestor ― the indestructible rose of Lorde Heydrich’s Valhalla.
+"De qualquer forma, minha vida é curta... Eu gostaria que pudesse dizer que minha vida ordinária teve algum valor antes que expire."
+Eu não percebi qualquer traço de hesitação nela ao tomar essa decisão.
+Mas eu também não conseguia entender nem tolerar qualquer um que falasse como se a morte fosse uma premissa inevitável.
+Por que ela não fazia nada para tentar superar a morte? Por que não lutava pela vida?
+Afinal, é isso que fazia ― e ainda faço ― um ser que desconhece a morte.
+Me tornar um verdadeiro ancestral ― a indestrutível rosa do Valhalla do Lorde Heydrich.
 v_kru0242
-"I must say, though, this has been quite a bland conversation. I know that I propagated it myself, but you lose points for this."
+"Embora... como posso dizer... essa é uma conversa bem deselegante. Sei que vale para mim também, mas você perdeu alguns pontos Wilhelm."
 v_kru0243
 "Por exemplo, notar a sutil mudança em uma dama?"
 v_vir0490
@@ -3952,22 +3952,22 @@ Após ouvir tudo, Dinah o inqueriu. Wilhelm, que estava sentado à sua frente, a
 v_vir0491
 "Sim, pensando agora, era mais do que óbvio. A luz do sol era um veneno para o corpo dela e, mesmo assim, ela andava na rua todos os dias desde que era uma pirralha."
 v_vir0492
-"Can’t say I know much about medical stuff, but it was pretty damn weird that she was even alive, really. ’Metastasis’ is the word for it, right? It started with the skin, but then it passed into her muscles, bones, organs... It spread so much that no one could do shit to save her.
+"Não entendo muito de medicina, mas era um completo mistério ela ainda estar viva naquela época. Chamam de “metástase”, né? Começa pela pele, depois passa para os músculos, ossos, órgãos... Se espalha tanto que não tem o que fazer.
 v_vir0493
-Her fate was basically sealed. It was a fucking miracle that she was even able to walk, talk, and eat."
+Nessas condições, só resta jogar a tolha. Ela ainda ser capaz de andar, falar e comer só podia ser algum milagre."
 v_din0034
-"Weren’t there any visual cues that tipped you off?"
+"Não tinha nada aparente que chamou sua atenção?"
 v_vir0494
-"None. Sure, it would’ve been easy to tell if her nose had fallen off or some shit, but there was nothing that obvious. Though, for all I know, she might’ve been hiding it."
+"Nada. Claro, ficaria na cara se o nariz dela tivesse caído ou algo assim, mas não tinha qualquer indício evidente. Na real, pode ser que ela estivesse escondendo."
 v_vir0495
-"She never wore clothes that showed much skin, and most of her body was covered in bandages. I did help her change them every now and then, but she probably tried to hide the worse off parts from my eyes.
+"Ela basicamente nunca deixava a pela exposta e, tirando o rosto, tudo visível era coberto por ataduras. Eu cheguei a ajudar ela a se trocar algumas vezes, mas ela deve ter feito algo para esconder as piores partes.
 v_vir0496
-She was a woman. And a nun to boot. Wasn’t strange for her to act bashful, so I didn’t think much of it.
+Era uma mulher, e também uma freira. Nunca pensei que aquela vergonha toda fosse algo suspeito. 
 v_vir0497
- Well, not like I can deny that I was dense."
-Spread out on the sofa, he laughed at his past self. But even if he’d been more perceptive back then and noticed it earlier, not much would have changed.
-After all, Wilhelm didn’t care if there was something he could do to help her ― he wouldn’t have done it regardless.
-Dinah already knew him well enough to understand that. With that in mind, she continued the interview.
+Bom, também não dá pra negar que eu fui tanso."
+Esparramando-se no sofá, Wilhelm riu do próprio passado. Mesmo que ele fosse mais perceptivo na época e tivesse percebido antes, provavelmente nada mudaria.
+Para ele, não era questão se havia ou não algo que pudesse ser feito ― ele não faria nada.
+Dinah também já havia entendido isso e apenas prosseguiu com a entrevista.
 v_din0035
 "Câncer, não é? Mas vocês não tinham alguma arte secreta que fosse capaz de retirá-lo?
 v_din0036
@@ -3988,11 +3988,11 @@ v_din0038
 v_din0039
 Ou bruxas não possuem nenhuma arte capaz de reverter um câncer em estado terminal?"
 v_vir0502
-"Hã? Vou saber? Pergunta isso pra ela. I’d love to see her screech about it.
+"Hã? Vou saber? Pergunta isso pra ela. Aposto que ela vai fazer escândalo, e isso eu adoraria ver.
 v_vir0503
-Ela é do tipo, she can be a seriously low caliber person sometimes. Supondo que pudesse, ela não faria de graça."
+Ela é meio medíocre em certas coisas, sabe? Supondo que pudesse, ela não faria de graça."
 v_din0040
-"I assume she would have demanded the rights to Claudia?"
+"Imagino que ela exigiria ter direitos sobre a Claudia?"
 v_vir0504
 "Pode apostar. Iria fazer dela seu novo brinquedo."
 v_din0041
@@ -4008,8 +4008,8 @@ Seria inapropriado considerar isso como uma “aposta”, mas nesse caso... Qual
 v_vir0506
 "Probabilidade? Não tem isso, não..."
 v_din0044
-"Já entendi que não é do tipo I can already tell you aren’t the type to think things through, but still..."
-From what he’d told her, Dinah assumed that bringing Claudia to fights and exposing her to violence wasn’t nearly enough to instill a fear of death in her, and so she figured Wilhelm had reconsidered his course of action.
+"Já entendi que não é do tipo que pensa muito a fundo nas coisas, mas..."
+Com base no que lhe foi dito, Dinah concluiu que levar Claudia junto para brigas e expo-la à violência não era suficiente para instigar nela o medo da morte, o que a fez concluir que Wilhelm havia reconsiderado o plano inicial.
 Isso porque ela esteve enfrentando a morte desde muito jovem.
 Um ataque frontal não iria a abalar.
 v_din0045
