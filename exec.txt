@@ -3871,7 +3871,10 @@ senti que precisava
 matar.
 Isso me fez pensar se eu a amava e, para descobrir a resposta, eu sabia que precisaria matar a Claudia.
 Desde a noite em que renasci com o sangue dos meus pais, ela foi a única cuja a alma e último suspiro pareciam ter algum valor para mim.
-Se a Helga foi aquela que me permitiu uma nova vida e, como um vampiro, a Claudia foi a primeira em quem eu desejei afundar meus [caninos](amor).
+Se a Helga foi aquela que me permitiu uma nova vida e, como um vampiro, a Claudia foi a primeira em quem eu desejei afundar meus 
+caninos
+amor
+.
 E, para isso, eu precisava fazê-la florescer, murchar e tomá-la para mim. O significado e necessidade disso ficaram mais claros do que nunca.
 Justamente por isso...
 v_vir0486
@@ -4564,7 +4567,10 @@ v_rut0073
 nada
  sobre a luz."
 v_rut0074
-"Afinal, trata-se do seu antônimo, não? Sim, é por isso que deseja por uma [noite](escuridão) sem fim... Que homem mais superficial."
+"Afinal, trata-se do seu antônimo, não? Sim, é por isso que deseja por uma 
+noite
+escuridão
+ sem fim... Que homem mais superficial."
 v_vir0554
 「――Desgraça!"
 Nesa hora eu fiquei puto. Na mesma hora que levantei, prestes a explodir como pólvora, uma gargalhada irrompeu.
