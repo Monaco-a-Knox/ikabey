@@ -3798,9 +3798,9 @@ v_kru0214
 "Ah... que homem mais pecador é você!"
 v_vir0475
 "Hã...?"
-Eu realmente fiz muitas coisas que poderiam ser consideradas tons “pecados”, então ela tinha razão em me chamar assim e dar sermão.
+Eu realmente fiz muitas coisas que poderiam ser consideradas “pecados”, então ela tinha razão em me chamar assim e dar sermão.
 Contudo... nada do que fiz está relacionado ao que ela estava pensando... Acho que cheguei a mencionar... não, na real, não tenho certeza.
-Mas, naquela hora, eu a chamei de idiota por ficar pensando essas coisas
+Mas, naquela hora, eu a chamei de idiota por ficar pensando essas coisas.
 v_vir0476
 "Não fica se achando, retardada. Sim, tu e aquele merda me tiram do sério, mas não é por um motivo estúpido desses."
 v_kru0215
@@ -3820,12 +3820,12 @@ v_kru0217
 "Se é assim, eu devo oferecer esse sentimento a você."
 v_vir0480
 "Hã?"
-Incapaz de processar o que ela tinha dito, eu cheguei levantar o rosto involuntariamente e dei de cara com o sorriso tênue daquela idiota.
+Incapaz de processar o que ela tinha dito, eu cheguei a levantar o rosto involuntariamente e dei de cara com o sorriso tênue daquela idiota.
 Parecia como se ela tivesse encontrado a resposta pela qual sempre esteve procurando.
 A luz do luar refletiu em seus cabelos prateados enquanto sua pele branca ficava levemente corada.
 Naquela hora, eu a vi como uma rosa.
 v_kru0218
-"Nós somos filhos de Noé. Duas pessoas pela metade... Então, poderíamos partilhar o que cada um possui e nos tornarmos completos."
+"Nós somos filhos de Noé. Duas pessoas pela metade... Então, poderíamos partilhar o que cada um possui e alcançar a plenitude."
 v_kru0219
 "Você me ensina sobre a luz, e eu ensino sobre o amor. Vamos compartilhar um com o outro o quão queridas e maravilhosas essas coisas são."
 v_kru0220
@@ -3843,7 +3843,7 @@ ser amada
  é perfeitamente aceitável. No fim das contas, basta evitar que se torne recíproco."
 v_vir0483
 "Desgraça..."
-Esse jeito dela brincar com as palavras e falar presunçosa de si chegou a me deixar atônito.
+Esse jeito dela brincar com as palavras e falar toda cheia de si chegou a me deixar atônito.
 v_kru0223
 "Por isso, acredito que se tornar o seu primeiro amor é algo maravilhoso. Não é uma boa forma de pagar minha dívida com você?"
 v_kru0224
@@ -3863,7 +3863,7 @@ minhas?
 Por exemplo, seria muito fácil estuprar a Claudia ali. Não tinha qualquer impedimento.
 Mas não haveria amor. Não haveria qualquer traço de beleza nesse tipo de destruição ― completamente diferente do Lorde Heydrich.
 Embora eu me declarasse as Presas e Garras dele, tudo o que eu fazia era destruir o que aparecia pela frente e me livrar de qualquer obstáculo.
-Era algo hediondo; não tinha como classifica como “sentimento”. Nada mais do que um processo de alimentação e excremento animal.
+Era algo hediondo; não tinha como classificar como “sentimento”. Nada mais do que um processo de alimentação e excremento animal.
 Por isso, eu entendi que nunca teria algo realmente meu enquanto não compreendesse o que o amor significava para mim.
 Pensando nisso, eu senti como se a Helga estivesse rindo de mim em algum canto. É verdade, até hoje, ela foi a única que eu jurei convictamente que mataria e realmente o fiz.
 E também foi a única que eu 
@@ -3872,7 +3872,7 @@ matar.
 Isso me fez pensar se eu a amava e, para descobrir a resposta, eu sabia que precisaria matar a Claudia.
 Desde a noite em que renasci com o sangue dos meus pais, ela foi a única cuja a alma e último suspiro pareciam ter algum valor para mim.
 Se a Helga foi aquela que me permitiu uma nova vida e, como um vampiro, a Claudia foi a primeira em quem eu desejei afundar meus [caninos](amor).
-E, para isso, eu precisava fazê-la florescer, murchar e tomá-la para mim. O significado e necessidade disso ficou mais claro do que nunca.
+E, para isso, eu precisava fazê-la florescer, murchar e tomá-la para mim. O significado e necessidade disso ficaram mais claros do que nunca.
 Justamente por isso...
 v_vir0486
 "E quanto a 
@@ -3894,7 +3894,7 @@ Ela abriu o sorriso reluzente; não escorreu uma lágrima.
 v_vir0488
 "Mas você vai morrer muito antes dos outros."
 Eu falei isso olhando nos olhos dela.
-Claudia Jerusalem tinha menos de um mês de vida restando.
+Claudia Jerusalem tinha menos de um mês de vida restante.
 Aqueles documentos eram o prontuário dela, e esse o diagnóstico.
 v_kru0229
 "...Que problemão. O que devo fazer? Então sabia? Isso não se faz."
@@ -3918,7 +3918,7 @@ v_kru0235
 "Mas, se eu acabar amando você, pode ser que eu não consiga partir nessa jornada."
 v_kru0236
 "Arrependimentos e desejos não realizados vão permanecer, e eu posso acabar deixando de ser a pessoa que sou..."
-Igual a Helga.
+Igual à Helga.
 Não tinha como ela saber disso, mas ela estava basicamente falando que não queria continuar existindo dentro de mim repetindo seu amor enquanto eu me banhava de sangue.
 v_kru0237
 "Isso seria muito pecaminoso."
@@ -3938,14 +3938,14 @@ Por que ela não fazia nada para tentar superar a morte? Por que não lutava pel
 Afinal, é isso que fazia ― e ainda faço ― um ser que desconhece a morte.
 Me tornar um verdadeiro ancestral ― a indestrutível rosa do Valhalla do Lorde Heydrich.
 v_kru0242
-"Embora... como posso dizer... essa é uma conversa bem deselegante. Sei que vale para mim também, mas você perdeu alguns pontos Wilhelm."
+"Embora... como posso dizer... essa seja uma conversa bem deselegante. Sei que vale para mim também, mas você perdeu alguns pontos, Wilhelm."
 v_kru0243
 "Por exemplo, notar a sutil mudança em uma dama?"
 v_vir0490
 "Cala a boca."
 Naquele momento, eu soube exatamente o que precisava fazer.
 Bastava fazer com que ela dissesse um coisa ― que queria morrer. E só havia uma maneira de fazer isso.
-Meu objetivo não estaria completo até colocasse isso em prática.
+Meu objetivo não estaria completo até que eu colocasse isso em prática.
 v_din0033
 "...Câncer?"
 Após ouvir tudo, Dinah o inqueriu. Wilhelm, que estava sentado à sua frente, assentiu com um sorriso amargo.
@@ -3960,7 +3960,7 @@ v_din0034
 v_vir0494
 "Nada. Claro, ficaria na cara se o nariz dela tivesse caído ou algo assim, mas não tinha qualquer indício evidente. Na real, pode ser que ela estivesse escondendo."
 v_vir0495
-"Ela basicamente nunca deixava a pela exposta e, tirando o rosto, tudo visível era coberto por ataduras. Eu cheguei a ajudar ela a se trocar algumas vezes, mas ela deve ter feito algo para esconder as piores partes.
+"Ela basicamente nunca deixava a pele exposta e, tirando o rosto, tudo visível era coberto por ataduras. Eu cheguei a ajudar ela a se trocar algumas vezes, mas ela deve ter feito algo para esconder as piores partes.
 v_vir0496
 Era uma mulher, e também uma freira. Nunca pensei que aquela vergonha toda fosse algo suspeito. 
 v_vir0497
@@ -3971,7 +3971,7 @@ Dinah também já havia entendido isso e apenas prosseguiu com a entrevista.
 v_din0035
 "Câncer, não é? Mas vocês não tinham alguma arte secreta que fosse capaz de retirá-lo?
 v_din0036
- Com poderes mágicos até doenças incuráveis não deveriam ser problema? Não é assim que funciona?"
+ Com poderes mágicos, até doenças incuráveis não deveriam ser problema? Não é assim que funciona?"
 v_vir0498
 "Sim, mas pensa que, por exemplo, esse gravador... Consegue construir ele sozinha do zero?"
 v_vir0499
@@ -3982,9 +3982,9 @@ v_din0037
 "Porque não havia ninguém com essa ânsia?"
 v_vir0501
 "É... Ninguém tinha disposição pra isso."
-A Távola Redonda Obsidiana era uma aglomerado de soldados e fracassados em busca de poder durante os tempos de guerra. Era óbvio que nossas almas seguissem pelo caminho da destruição.
+A Távola Redonda Obsidiana era um aglomerado de soldados e fracassados em busca de poder durante os tempos de guerra. Era óbvio que nossas almas seguissem pelo caminho da destruição.
 v_din0038
-"Mas a Rusalka Schwägerin não havia dominado a magia por contra própria? Então ela não poderia ter salvado a Claudia?
+"Mas a Rusalka Schwägerin não havia dominado a magia por conta própria? Então ela não poderia ter salvado a Claudia?
 v_din0039
 Ou bruxas não possuem nenhuma arte capaz de reverter um câncer em estado terminal?"
 v_vir0502
@@ -4000,16 +4000,16 @@ v_din0041
 v_vir0505
 "Pra começar, eu não estava nem aí pra Claudia."
 No fim, era assim mesmo.
-O vampiro desejava fazê-la se apegar à vida e matá-la no momento em que implorasse que deseja viver.
+O vampiro desejava fazê-la se apegar à vida e matá-la no momento em que implorasse que desejava viver.
 v_din0042
 "O tempo que restava era uma espada de dois-gumes, não era? Exercia grande influência sobre o coração da Claudia, mas também limitava suas chances e não o permitir errar.
 v_din0043
-Seria inapropriado considerar isso como uma “aposta”, mas nesse caso... Qual a probabilidade?"
+Seria inapropriado considerar isso como uma “aposta”, mas, nesse caso... Qual a probabilidade?"
 v_vir0506
 "Probabilidade? Não tem isso, não..."
 v_din0044
 "Já entendi que não é do tipo que pensa muito a fundo nas coisas, mas..."
-Com base no que lhe foi dito, Dinah concluiu que levar Claudia junto para brigas e expo-la à violência não era suficiente para instigar nela o medo da morte, o que a fez concluir que Wilhelm havia reconsiderado o plano inicial.
+Com base no que lhe foi dito, Dinah concluiu que levar Claudia junto para brigas e expô-la à violência não era suficiente para instigar nela o medo da morte, o que a fez concluir que Wilhelm havia reconsiderado o plano inicial.
 Isso porque ela esteve enfrentando a morte desde muito jovem.
 Um ataque frontal não iria a abalar.
 v_din0045
@@ -4019,7 +4019,7 @@ Apesar de ter nascido albina, a luz da lua não era suficiente para satisfazê-l
 v_din0047
 Ela buscava por um santuário na luz.
 v_din0048
-Embora se queimasse, sentisse dor e temesse sol, a felicidade que Claudia experimentou era ainda maior, por isso ela não se importava. Imagino que seja por isso que ela se considerava uma “meia pessoa”."
+Embora se queimasse, sentisse dor e temesse o sol, a felicidade que Claudia experimentou era ainda maior, por isso ela não se importava. Imagino que seja por isso que ela se considerava uma “meia pessoa”."
 v_vir0507
 "Deve ter sido por causa disso. Só depois que eu também comecei a pensar dessa forma."
 Ela suprimiu a dor com prazer e paralisou seu medo com a alegria. Mesmo havendo uma diferença em grau e contexto, esse tipo de mentalidade não chega a ser algo incomum.
@@ -4029,9 +4029,9 @@ v_din0049
 v_din0050
 Imagino que isso deva tê-la feito pensar que havia algo de errado consigo, afinal nem fazendo algo assim ela sentia medo."
 v_din0051
-"E por isso ela chegou a conclusão de que ser filha de Noé significava ser uma meia pessoa ― alguém que faltava com muitas coisas.
+"E por isso ela chegou à conclusão de que ser filha de Noé significava ser uma meia pessoa ― alguém que faltava com muitas coisas.
 v_din0052
-Não dá para dizer que era normal, mas no caso dela, não faltava, sobrava. 
+Não dá para dizer que era normal, mas, no caso dela, não faltava, sobrava. 
 v_din0053
 Ela se equivocou sobre isso."
 Foi justamente isso que fez com que Wilhelm percebesse que a alma de Claudia Claudia detinha de um poderoso brilho. À época, não passava de uma intuição, mas ele não estava errada em acreditar nisso.
@@ -4043,9 +4043,9 @@ Posso estender um pouco mais minha análise?"
 Wilhelm deu de ombros e sinalizou para que ela continuasse. Dinah o agradeceu e bebeu o que ainda restava do seu Kiss in the Dark.
 Após molhar a garganta, ela continuou sua fala.
 v_din0056
-"Acredito que antes e depois que conheceu a Claudia, ela estava em um estado de certa negatividade.
+"Acredito que, antes e depois que conheceu a Claudia, ela estava em um estado de certa negatividade.
 v_din0057
-Ela provavelmente não se envolveu com a guerra e, já peço perdão, indivíduos perigosos como você porque ela queria experimentar de um medo “comum”.
+Ela provavelmente não se envolveu com a guerra e, já peço perdão, indivíduos perigosos como você, porque ela queria experimentar de um medo “comum”.
 v_din0058
 É possível que ela tenha entrado em pânico ao perceber que sua vida estava chegando ao fim. O tempo era curto e, mesmo que estivesse em busca do desespero, ela não queria experimentá-lo pela “metade”.
 v_din0059
@@ -4071,7 +4071,7 @@ Dinah o questionou enquanto esboçou um tênue sorriso.
 v_din0066
 "Se arrepende de ter dito isso?"
 v_vir0508
-"Não. Foi um deslize daminha parte, mas não disse nenhuma mentira.
+"Não. Foi um deslize da minha parte, mas não disse nenhuma mentira.
 v_vir0509
 Apesar dos pesares, eu diria que as coisas aconteceram como era pra ser."
 Claudia se tornaria o primeiro amor de Wilhelm e, preenchendo nela esse vazio, ela também poderia se dar por satisfeita.
@@ -4099,11 +4099,11 @@ v_vir0516
 "É uma questão de prioridades. Qualquer animal prioriza a sobrevivência. Tem um monte de gente por aí dizendo que não se importaria de morrer se seu sonho fosse realizado, mas não tem um realmente disposto a morrer, e nem deveria ter.
 v_vir0517
 É como eu penso. E, por isso, eu jurei não deixar a Claudia morrer quando estivesse satisfeita."
-Ele pretendia fazê-la dizer que não queria morrer. Ir às lagrimas implorando pela vida. E, nesse instante, a mataria.
+Ele pretendia fazê-la dizer que não queria morrer. Ir às lágrimas implorando pela vida. E, nesse instante, a mataria.
 v_vir0518
 "Eu percebi que se pudesse fazê-la florescer assim... sim, eu poderia amá-la.
 v_vir0519
-Voltando as minhas chances de conseguir... Eu sabia que as probabilidades jogavam contra, mas eu tinha certeza que conseguiria."
+Voltando às minhas chances de conseguir... Eu sabia que as probabilidades jogavam contra, mas eu tinha certeza que conseguiria."
 v_din0068
 "Como?"
 Questionado, Wilhelm esboçou um sorriso autodepreciativo.
@@ -4122,196 +4122,196 @@ v_din0070
 v_vir0524
 "Sério? Valeu. Vai lá."
 Wilhelm assobiou em tom descontraído enquanto Dinah levantava e se dirigia ao balcão.
-In a moment shorter than the blink of an eye, in a slumber deeper than the oceans, I saw a dream.
-There was neither peace nor bliss. Even the feeling of discomfort it could potentially have given me had died and decayed aeons ago.
-After all ― I already knew everything.
-I had repeated this moment for what might have been an eternity, and I knew it would continue forevermore. I was already tired of it, and the present moment, devoid of anything fresh, tired me even further.
-To me, all of creation was akin to the flow of mercury.
-It recurred in a single place, bearing the same form, without an end or a purpose in sight. Hoping to find a shift in focus, I had attempted all that could come to mind, yet I never managed to change anything. Ever-unchanging and ever-present, the foreknowledge continued to ridicule my struggle.
-An unknown phenomenon, a new development... All of existence seemed to be devoid of anything I had yet to experience.
-Ravaged by a profound sense of resignation, despair, and madness, my ever-repeating, coagulated universe was closed away from all else. I yearned for someone to destroy it, but no one below me was capable of stopping the emanation of my foreknowledge.
-This law, weaved from mercury, was viper-like and undying. Throned in all the vertices, it was utterly unmatched, leaving it without an enemy to name.
-Thus, I wished to discover a match for myself ― an equal worthy of Lordeing over creation as I did.
-I wanted them to end me ― to bring me salvation in the form of the unknown.
-Earnest and eager, I madly hoped for someone like that to step forward.
-I could not let myself die until that wish of mine became reality.
-Passing cycle after cycle, I wandered my world while dreaming of my desired conclusion.
-That was my lowly day-to-day life.
-I had yet to find a single sign of salvation, yet I was still unable to end my struggle.
-Trying and testing all I could perceive, I continued accumulating nothing but foreknowledge.
-One day, I was visited by a guest. He arrived like a shade and presented me with a question.
+Durante um efêmero momento, mais breve que um piscar de olhos, eu tive um sonho, mergulhado nas profundezas da sonolência.
+Lá não havia descanso, tampouco alegria. Até mesmo o desconforto que poderia ter me afetado já havia há muito tempo necrosado.
+Isso porque eu já sabia tudo.
+Eu já havia repetido este momento por uma eternidade, e compreendia que ele perpetuaria ao infinito. Já estava cansado dele, e ainda mais exaurido do presente, desprovido de qualquer frescor.
+Para mim, toda criação era como o fluxo do mercúrio.
+Um retorno sem-fim, sem qualquer valor agregado, girando sem fim ne propósito. Na esperança de uma mudança inédita, eu tentei todas as escolhas que fui capaz de conceber, mas, ainda assim, nada mudou. A presciência permanece imutável, zombando dos meus esforços.
+Um fenômeno desconhecido, um desenvolvimento inédito... Parecia que não existia nada que eu já não tivesse experimentado.
+Tomado por uma resignação profunda, desespero e loucura, o meu recorrente e coagulado universo permanece estagnado. Por mais que eu deseje sua destruição, ninguém é capaz de interromper a emanação da minha presciência.
+Esta Lei, tecida de mercúrio, é imortal, tal qual uma serpente e, para o meu desgosto, sentada no ápice de todas as vertentes, não há nada digno de ser seu oponente.
+Portanto, desejo encontrar alguém que esteja no mesmo nível ― uma entidade igual a mim; alguém capaz de se tornar um novo soberano.
+Queria que pudesse colocar um fim em minha existência ― conceder-me a salvação por meio do desconhecido.
+Eu orei ensandecimento, do fundo da minha alma, que alguém assim surgisse.
+Morrer estava fora de cogitação até que este meu desejo se concretizasse.
+Repetindo... repetindo... repetindorepetindorepetindo――vagando pelo mundo, sonhando com minha tão desejado exício.
+Este era o meu deplorável cotidiano.
+Ainda não me deparara com um único vislumbre da salvação, entretanto já não conseguia mais me conter.
+Enquanto tentava tudo que estava à minha frente, eu segui apenas acumulando mais presidência.
+Certo dia, um visitante veio até mim como uma sombra e questionou-me.
 v_mrk0036
-"Ah, so that is your business with me. You seek an answer."
+"Compreendo. Então é sobre isso que busca tratar comigo. Quer que eu lhe providencie uma resposta."
 v_rut0028
-"Indeed. However, I’m not expecting much of anything. That isn’t something you can give me.
+"Exatamente, embora não tenha muitas expectativas. Afinal, não é algo que possa responder.
 v_rut0029
-This is merely my day-to-day life, magician. A phenomenon as natural as waking, eating, excreting, sleeping, and repeating it all again."
+Isto nada mais é do que meu cotidiano, feiticeiro. Nada mais do que a repetição de um fenômeno natural: despertar, comer, defecar, dormir e tudo repetir."
 v_mrk0037
-"Oh? ’Natural”, you say? Not physiological?"
+"Hoh, então não é algo fisiológico??"
 v_rut0030
-"Yes, ’natural”. That comparison is merely idiomatic. I actually have no need to eat, excrete, or sleep."
+"Não. É “natural”. A analogia foi meramente idiomática; não se apegue ao significado. A verdade é que eu não me alimento, defeco nem preciso dormir."
 v_rut0031
-"There were times when I tried to understand and mimic concepts I felt were close to me. For example, the bloodsucking, lowly creature-spewing, ground-dwelling nachzehrer. Those who were buried too early... Moving cadavers and the like.
+"Houve um tempo em que tentei compreender e reproduzir conceitos que senti estarem ao meu alcance. Por exemplo, chupar sangue, lowly creature-spewing, ground-dwelling nachzehrer. Foram enterradas cedo demais. Coisas como movimentar cadáveres.
 v_rut0032
-I’m capable of behaving like them, but it was a hollow experience when I tried. It’s not a mask or skin I wish to don, and that is why I don’t.
+Sou capaz de agir como elas, mas minha experiência em si foi vazia. Não é como uma “pele” que eu deseje vestir, e a verdade é que tampouco posso me cobrir com ela.
 v_rut0033
-I don’t know what garment I should be wearing."
+Não sei com que veste deveria me trajar."
 v_mrk0038
-"And that is why you seek an answer. I share your sentiment. Deeply so. It must have been excruciating."
+"Por isso está em busca de uma resposta? Partilho profundamente desse sentimento. Imagino que deva ser excruciante."
 v_mrk0039
-"You claim you expect nothing, but that is outright false. You strongly desire to know.
+"Mencionou não ter expectativas, mas essa afirmativa é claramente falsa. Deve estar morrendo de vontade de descobrir.
 v_mrk0040
-The world has many philosophers, sages, master artists, military geniuses, and even saints. Among them, you can also find questionable sorts claiming to be magicians.
+Há inúmeros filósofos, sábios, mestres das artes, gênios do militarismo e até mesmo santos neste mundo. Em meio a eles, pode-se encontrar até mesmo charlatões que se intitulam feiticeiros.
 v_mrk0041
-Many of them speak of themselves as ― or are told to be ― paragons of wisdom, and you present this question to all of those you meet. If that is not a pilgrimage for salvation, nothing is.
+Muitos tendem a se referirem a si próprios ou por terceiros como referências de sabedoria, e você refaz esse questionamento a todos que encontra. Se esta jornada não é uma peregrinação em busca da salvação, o que mais poderia ser?
 v_mrk0042
-Oh, indeed, I know of your travels. Your records date back to at least a whole millennium."
+Sim, conheço tais itinerários. Seus registros datam de um milênio atrás."
 v_mrk0043
-"You are the eternal vagrant who pays visits to all the wisest of their generation, presents them your question, grants death to all those unable to answer, and then resumes his journey. 
+"É perpétuo errante que vai ao encontro dos sábios de cada era para inqueri-los com a mesma questão. Incapazes de responderem, concede-lhes a morte e retoma sua jornada. 
 v_mrk0044
-And now, you have arrived before me. Such a coincidence.
+E agora, chegaste até mim. Mas que coincidência, devo dizer.
 v_mrk0045
-I happen to be quite an Ahasver-like wanderer myself, after all.
+Acaba que sou também sou uma espécie de Ahasver.
 v_mrk0046
-It is uncertain which one of us is the basis of the legend. I might have been applied to your myth, or it might be vice-versa. Regardless, it is more than certain they have mixed."
+Embora seja incerto qual de nós seja a origem. Pode ser que eu tenha sido enquadrado em sua lenda, assim como o contrário também é plausível. Bom, ao menos é certo que acabaram por se matizarem."
 v_rut0034
-"And? What of it? Even if your words are the truth, the situation remains the same, and my nature unshaken.
+"E? Aonde quer chegar? Mesmo que esteja falando a verdade, em nada muda minha situação, tampouco minha natureza.
 v_rut0035
-You will be unable to answer, I will grant you death, and I shall continue wandering again.
+No fim, será incapaz de responder, eu lhe concederei a morte e, assim, retomarei minha jornada.
 v_rut0036
-I’ll keep presenting my question, never getting an answer, and killing time and time again. I think nothing of it at this point. I feel it’s akin to a habit, almost.
+Continuarei a inquirir, perguntar e questionar, sem nunca me ser concedida uma resposta enquanto continuo a matar. Eu já nem mais penso a respeito. Parece até que já se tornou um hábito.
 v_rut0037
-I define myself as that kind of phenomenon."
+Eu me defino como um fenômeno dessa natureza."
 v_mrk0047
-"And yet you are unaware what to call yourself? Then let me ask 
-you
- a question. Why do you grant death?
+"Contudo, não sabe como chamá-lo? Sendo assim, permita que 
+eu
+ o questione: por que concede a morte?
 v_mrk0048
-To ask and to cause death ― I fail to see the reason to link those concepts.
+Questionar, e então matar; tenho dificuldade em associar tais conceitos.
 v_mrk0049
-Is your first memory that of disappointment? Do you envy those who possess death because you do not?"
+Sua primeira memória é a decepção? Inveja aqueles que detêm da morte porque é incapaz de morrer?"
 v_rut0038
-"No. I have no such sentiments."
+"Não, eu não possuo esse tipo de sentimento."
 v_rut0039
-"I merely felt that I had to.
+"Apenas sinto que é o que devo fazer.
 v_rut0040
-I became certain that I was before a phenomenon that had to die.
+Eu tomo ciência de que estou diante de um fenômeno que precisa morrer.
 v_rut0041
-Thus, I am no exception. You appraised me as immortal, but that is off the mark. If I were to trace the same steps as them, I, too, would perish.
+Tal qual, também não sou uma exceção. Elogiaste-me por ser como um imortal, mas devo dizer que equivocou-se nesse ponto. Se eu refizesse os mesmos passos que eles, eu também acabaria por perecer.
 v_rut0042
-Now, magician. Bearer of wisdom. You said that all of creation is nothing but a flow of mercury and claimed that all of it is foreknowledge to you.
+Ó feiticeiro, oráculo do conhecimento. Afirmou que toda criação nada mais é do que o fluxo do mercúrio e disse ter conhecimento prévio sobre tudo.
 v_rut0043
-If that is truly so, then do show that your travels have provided the answer I seek.
+Se é realmente o caso, apresente uma comprovação. Demonstre que suas viagens aos confins lhe proporcionaram a resposta pela qual busco.
 v_rut0044
-Prove to me that you 
-already know
- it."
+Prove que você 
+já sabe
+."
 v_rut0045
-"Answer me this. What in the world am I?"
+"Responda-me: o que eu sou, afinal?"
 v_mrk0050
-"That could not be more simple."
-We were alike, so I understood him. This entity and I were 
-very close
- in nature.
-I finally recalled that beings like him used to exist at some point, and supposed that this was my responsibility to take.
+"A resposta não poderia ser mais simples."
+Somos similares, portanto eu o compreendia. A natureza dele era 
+extremamente próxima 
+da minha.
+Sim, eu finalmente comecei a recordar que a existência de seres como ele costumavam existir antigamente, tal qual havia uma responsabilidade com a qual eu precisava cumprir.
 v_mrk0051
-"You mentioned nature and what is natural, did you not?
+"Mencionou a natureza e o que a definia, correto?
 v_mrk0052
-You came to know things you felt were close to you, mimicked them, yet found it hollow.
+Tomou conhecimento daquilo que sentia proximidade, buscou reproduzi-las, entretanto deparou-se com o vazio.
 v_mrk0053
-That is where the answer lies, and I must say, there is nothing complicated about it.
+É aqui que reside a verdade; não há nada de complicado.
 v_mrk0054
-A parent cannot wear the clothes of his child, after all. Be more self-aware. You have the order in reverse."
-My answer would also be a test to this dear child of mine.
-I would see if the truth I presented him would make him paint an unknown that could be my salvation.
-I would test his caliber and see if he was worthy of becoming a performer on my stage.
-After all, it was still rather barren, devoid of actors, and I wished to see if he was worthy of standing on it.
-Earnest and eager, I madly yearned for and pled for him to be my savior.
+Um pai não pode vestir as roupas do filho. Seja mais consciente sobre si mesmo. Está invertendo a ordem."
+“Muito bem, permita-me testá-lo, amável criança.”
+“Diante da verdade que lhe apresentei será capaz de pintar o desconhecido que irá me salvar.”
+“Tens o que é preciso para tornar-te meu intérprete?”
+“Meu palco ainda permanece sem seu protagonista, e desejo descobrir se é capaz do papel.”
+“Com total afinco e sinceridade, eu lhe imploro torne-se meu salvador, e entoo então o resultado...”
 v_mrk0055
-"You are the dark.
+"Você é a escuridão.
 v_mrk0056
-Matusalém, you are the father of darkness and all the children of the 
-night."
-Oh, what a laughable, pitiful entity I was.
-His expression, stiff with shock, was one that I 
-already knew.
-How trifling. How dull. My universe was still an ever-recurring flow of eternal mercury.
-Please, someone... anyone, annihilate this foreknowledge.
-Where are you, O actor of miracle...? I beg of you, come and close the curtains on my journey.
-I was in a daydream. A lucid one, at that. It had color, sound, smell ― the whole arrangement.
-It came out of nowhere and showed me stuff I didn’t care to see.
-Following the events at Katyn, I’d started experiencing them pretty damn frequently.
-This was one of the dreams.
+Matusalém, és o pai da escuridão e progenitor de todas as crianças da 
+noite."
+“Oh, como pude fazer um papel tão ridículo?”
+“Sua expressão enrijecida e atônita ― exatamente igual aquela que eu 
+já conhecia.”
+“Tão fastidioso e enfadonho. Meu universo permanece como o recorrente fluxo do eterno mercúrio.”
+“Alguém, eu imploro... acabe com esta presciência.”
+“Onde encontra-se o milagroso interprete que há de pôr fim à minha errância.”
+Foi um devaneio. Um sonho lúcido. Nele havia cor, som e cheiro.
+Teve início do nada e começou a me mostrar coisas que eu não me importava.
+Eu comecei a passar por essa experiência com frequência depois do que aconteceu em Katyn.
+E esse também configurava um.
 v_hrg0039
-"Ugh, what a stupid woman. Feigning ignorance and innocence as if it actually matters."
+"Ahh...  que mulher mais idiota, hein? Fica se fazendo de sonsa e inocente."
 v_hrg0040
-"Don’t you agree, Wil? She annoys you, doesn’t she? You’re fed up with her, right?"
+"Não concorda, Wil? Sério, ela não é um saco? Dá pra acreditar?"
 v_vir0525
-"I am, but don’t expect me to join in on your whining."
-We were in a bloodstained garden of roses. This red world was the manifestation of my mindscape.
-Helga was grumbling on and on about Claudia. Ridicule, disgust, hatred, scorn ― she felt only negative things about the nun. The two were hopelessly incompatible.
+"Concordo, mas não fica achando que vou me juntar aos seus resmungos."
+Estávamos no jardim de rosas tingidas de sangue. A Helga não parava de reclamar naquele mundo vermelho que representava meu imaginário.
+O motivo você já deve saber. Ela estava debochando da Claudia com desprezo e repulsa. Falando como se fossem existências incompatíveis ― falando como se fosse algo imundo.
 v_vir0526
-"You wanna keep spouting this shit? Fine, but keep me out of it."
+"Pode ficar aí vomitando seus xingamentos sozinha, só não me mete nessa."
 v_vir0527
-"I mean, regardless of whether you’re here or not, I―"
+"Não importa se tá bem na minha frente ou não, eu――"
 v_hrg0041
-"But that woman is just too hopeless. She’s completely intoxicated, too full of herself, and not to mention selfish."
+"Mas aquela mulher não tem jeito. Completamente intoxicada, toda cheia de si, sem contar que só se preocupa consigo mesma."
 v_hrg0042
-"I mean, really, to be loved is bliss, but to love is sinful? What kind of nonsense is that? Disgusting. It’s just unfair and cowardly."
+"Ser amada é uma bênção, mas amar é pecado? Que baboseira é essa? É asqueroso. Isso é coisa de gente covarde."
 v_hrg0043
-"I’m not wrong, am I? After all, she wants to be fulfilled and die satisfied all by herself, not caring what others think. She doesn’t intend to be sullied, suffer, or show any of her ugliness."
+"Não é? Tipo, ela quer se satisfazer sozinha e morrer sem se importar com os outros. Não quer ser maculada, sofrer nem mostrar a própria feiura."
 v_hrg0044
-"There’s just no determination there. Not a bit. She doesn’t want to shed any blood, yet she tries to take what she wants. She’ll leave all the scars she can and then escape all by herself."
+"Não tem determinação. Nada, nadinha. Quer meter a mão no que procura, mas não está disposta a derramar sangue. Vai deixar todas as cicatrizes que conseguir e dar no pé sozinha."
 v_hrg0045
-"If we’re talking about curses, then that’s a perfect example. And now she’s playing with my Wil... Oh, I won’t let her. I want to kill her, but I don’t want her here, either."
+"Se estamos falando de maldição, esse é o melhor exemplo. E ainda fica brincando com o meu Wil... Ah, imperdoável. Eu quero matá-la, mas não quero ela aqui."
 v_hrg0046
-"She’s a hindrance. Just an obstacle, I say! I won’t let her become a rose. Disappear, vanish! Get out of our lives!"
+"Só atrapalha. Sim, ela só serve para atrapalhar! Não vou deixar que se torne uma rosa. Suma! Suma! Desapareça da nossa frenteeeeee!"
 v_vir0528
-"I swear, you’re such a..."
-How the fuck did I end up dealing with two dumb bitches who couldn’t hold a proper conversation? Helga’s hate of Claudia was bordering on deep-seated grudge level.
-I did agree with her on some points, but listening to her talk about it wasn’t my idea of a good time. Hell, I even found her a bit dangerous.
-After all, the fact that she strongly intended to reject taking in Claudia was a huge problem for me.
+"Sério, você é mesmo..."
+O que me restava fazer estando sozinho com alguém que sequer conseguia manter uma conversa decente? O desprezo da Helga pela Claudia se aproximava de um profundo rancor.
+Eu até concordava com ela em alguns pontos, mas ficar ouvindo ela falar não era minha praia. Pelo contrário, chegava a atiçar meu senso de perigo.
+Afinal, o fato dela rejeitar intensamente a ideia de eu absorver a Claudia era algo que poderia acabar me causando problemas.
 v_hrg0047
-"Hey, Wil, you feel the same way, don’t you?"
-I had no choice. It wasn’t like me, and I definitely didn’t want to do it, but I had to soothe the hysterical bitch before me.
+"Ei, Wil, você também se sente assim, não sente?"
+Por isso, eu não tinha outra escolha. Não era do meu feitio fazer isso, mas eu precisava acalmar aquela histérica.
 v_vir0529
-"You said you won’t make her into a rose? So the ones blooming here are the souls I took?"
+"Disse que não vai transforar ela numa rosa, né? Então essas que estão florescendo aqui são as almas que eu usurpei?"
 v_hrg0048
-"Hm? Oh, yes. And it’s my job to take care of them."
+"Hm? Ah, sim. É meu trabalho tomar conta de todas elas."
 v_hrg0049
-"I water them with blood, talk to them, make them pretty... It’s hard work, but I do my best because I want to please you. Plus―"
+"Eu as rego com sangue, converso com elas e as deixo apresentáveis. É um trabalho bem difícil, sabia? Eu faço meu melhor porque quero vê-lo feliz, por isso――"
 v_vir0530
-"Well, ain’t that nice. I appreciate it, so let’s just move on to the next question."
-I was able to divert her attention, so I just had to keep control of the conversation before she started babbling again. Not to mention the fact that there actually was something I wanted to ask.
+"Mesmo? Valeu. Eu agradeço por isso, então vamos mudar de assunto."
+De alguma forma, eu consegui mudar o rumo da conversa; agora era só manter a conversa sobre controle antes que ela começasse a tagarelar de novo. Afinal, eu realmente tinha algo para perguntar.
 v_vir0531
-"Where do they all go? I mean, after I use them up."
+"Para onde elas vão? Quero dizer, depois que eu as uso."
 v_vir0532
-"I know they’re being drained, and I can feel when their numbers are rising or dropping, but I’ve never seen it happen, so it’s not really tangible to me."
+"Não resta dúvida que são drenadas, e consigo sentir quando as almas aumentam ou diminuem, mas nunca vi com meus próprios olhos, então acaba não sendo algo muito concreto."
 v_vir0533
-"Do the roses just wilt? Do you throw them away? If so, then where?"
-Claudia had talked about where souls go, and it made me curious, too.
-Of course, I wasn’t being sentimental, and it wasn’t like I was planning to do anything with that knowledge, but I wondered about it because it had never really crossed my mind before.
-There was nothing more to it, and yet...
+"As rosas que eu uso ressecam? Tu descarta elas? Se sim, onde?"
+Eu estava interessado porque a Claudia já tinha falado sobre o destino das almas.
+Não que eu estivesse sendo sentimental quanto a isso, tampouco faria algo a respeito quando soubesse. Eu só estava curioso porque nunca tinha parado pra pensar nisso.
+Só isso mesmo, mas...
 v_hrg0050
-"I dunno. I’m not interested in that, and it’s not like it matters, right?"
+"Sei lá. Não me interessa e também não importa, importa?"
 v_hrg0051
-"Whenever you seek me out, I start eating them, but I don’t know where my stomach leads to."
+"Sempre que busca por mim, eu começo a come-las aqui, mas não faço ideia onde minha barriga se conecta."
 v_hrg0052
-"If you’re curious, why not tear me open again? You know, like you did back then."
-As she stuck out her chest toward me, I heaved a long sigh.
+"Se está tão curioso assim, por que não me abre de novo? Sabe, igualzinho fez daquela vez."
+Só me restou suspirar frente a Helga, que estufava o peito enquanto falava.
 v_vir0534
-"...No. Sounds like a fucking pain, really. Get away from me."
+"...Não. Seria um saco fazer isso. Some logo daqui."
 v_vir0535
-"Anyway, I see how it is. So you don’t know what’s going on in your stomach."
-Stuff eaten by a normal animal would eventually get shat out, become soil, and repeat, but the natural cycle didn’t apply to this place.
-Souls were a vague thing to begin with. Trying to find something certain about them seemed like a complete waste of time.
+"Mas então é assim? Não sabe o que acontece dentro da sua barriga, é?"
+Se fosse um ser vivo de verdade, tudo que comesse viraria merda, seria expelido, se tornaria adubo e o processo se repetiria. Mas esse tipo de ciclo não se aplicava àquele lugar.
+De qualquer forma, tudo a respeito da alma é incerto e ambíguo... é perda de tempo ficar procurando por uma resposta definitiva.
 v_vir0536
-"They might vanish, leave, or become something else entirely..."
+"Podem desaparecer, sumir ou até se transformar em outra coisa..."
 v_vir0537
-"Or maybe they just return to where they were."
-The fact that the nature of souls was uncertain made all those ideas as plausible as each other. And if there was another thing to say about all this...
+"Ou, talvez, voltem para onde vieram."
+Por ser algo tão incerto, todas as possibilidades acabavam sendo plausíveis. E se era assim, então havia mais uma coisa a ser dita...
 v_vir0538
-"This is pretty damn sinful."
+"Isso é um puta pecado."
 I wasn’t buying what the church was selling, nor did I like talking about it, but if their god actually existed, and he was the one who decided where souls went, we were basically intercepting the flow.
 I had no idea what happened to them after we consumed them, but as long as we kept them inside ourselves, they couldn’t go anywhere else.
 Then... if you looked at it from a different perspective, it seemed like a way to become a god. After all, we created small-scale worlds that deviated from the established laws. They were the places we sought, the afterlives we believed in, our "better places" ― sanctuaries.
@@ -4323,304 +4323,304 @@ Como eu poderia
 não 
 rir? I mean, it felt both stupid as hell and actually plausible. With Mercurius being the one who set it up and Lorde Heydrich being the one who was putting it into practice, it just didn’t seem all that weird.
 v_vir0540
-"Activation, Formation, and Criação, Hã? Man, lining them up sure does make it look like that’s the case."
+"Ativação, Formação e Criação? Sim, realmente, quando coloca lado a ladoit look like that’s the case."
 v_vir0541
 "So what, are we all actually a bunch of minor gods? If that’s true, then you’re actually not too far off the mark, Claudia."
 God was inside each of us ― beyond the light we were seeking. Despite not being taught the idea by anyone, she had a philosophy that suited us.
 v_hrg0053
-"Hey, Wil, what’s so funny?"
+"Ei, Wil, o que é tão engraçado?"
 v_vir0542
-"Nothing that matters to you."
+"Não liga. Não tem a ver com você."
 However, there was a certain truth that she’d missed ― cravings were split into Transcendences and Hegemonies.
 Hegemonies like myself and Lorde Heydrich expanded as we consumed other lights.
 We were like war, in a sense. And war crushed all who did nothing but waste time on lip service.
 v_vir0543
 "E por isso você é minha, Claudia."
-I would never allow her to escape. I’d do everything to take her.
-Helga was complaining again, but I didn’t give two shits about that.
+Eu não permitiria que ela me escapasse. Eu faria de tudo para usurpá-la.
+A Helga parecia estar inconformada com alguma coisa, mas eu não estava nem aí pra ela.
 As a Hegemony, all I had to do was move forward and crush everything in my path.
-There was no need for me to consider what this bitch or that nun thought.
+Não tinha qualquer motivo para eu levar em consideração o que as duas pensavam sobre isso.
 v_bat0200
 "Bey. Bey..."
-Someone started calling my name.
-The voice drew my consciousness out of the rose garden.
+Foi quando me dei conta que havia alguém do meu lado, chamando.
+Aquela voz me trouxe minha consciência de volta do jardim de rosas.
 v_bat0201
-"Bey, can you hear me? Why are you spacing out?"
+"Bey, tá me ouvindo? Tá viajando?"
 v_vir0544
-"...Shut up. Quit squeaking in my ear, you damn midget."
+"...Cala a boca! Não fica pentelhando no meu ouvindo, baixinha."
 v_vir0545
-"Unlike you, I have lots going on."
+"Diferente da sua cabeça vazia, tem muita coisa passando pela minha."
 v_bat0202
-"What? Just who do you think you are?!"
-Before Beatrice could get in my face, Babylon stopped her.
+"O que disse?! Justo quem falando isso, hein?!"
+A Babylon se meteu entre nós para conter a Beatrice antes que ela partisse pra cima de mim.
 v_riz0156
-"Leave it at that, you two. This isn’t a place for your nonsense."
+"Vamos parando por aqui. Não é lugar para ficarem se bicando."
 v_riz0157
-"Ludwig, you should be mindful, too. I would appreciate it if you didn’t do anything to make our pulses go out of control."
+"Ludwig, já deve ter entendido como funciona, então peço também tome cuidado. Agradeço se não fizer nada que teste nossos limites."
 v_riz0158
-"Though, that doesn’t mean that I want you to be subservient."
+"Embora eu não esteja pedindo que seja bajulador."
 v_rut0046
-"Well, I’ll consider your situation and try to use discretion."
-The man’s "not my business" attitude made me click my tongue, while Beatrice acted troubled and Babylon heaved a sigh.
+"Bom, levarei em conta sua posição e me guiarei a partir dela."
+Eu estalei a língua diante daquela atitude dele “não é da minha conta”... a Beatrice fez uma cara complicada e a Babylon suspirou.
 v_riz0159
-"Let’s go, then."
-We ignored our sentiments as the door before us opened up.
-We’d returned from Katyn, and it was time to report to our Lorde what had happened.
+"Então, vamos indo?"
+E assim, deixando de lado como cada um ali estava se sentindo, nós abrimos a porta a nossa frente.
+Nós tínhamos retornado de Katyn e precisávamos reportar o resultado.
 v_rin0022
-"I see. So those are the facts. Well done, Babylon, Valkyria, Bey. I am pleased that you’ve all returned safe and sound. "
+"Compreendo. São estes os fatos? Bom trabalho, Babylon, Valquíria, Bey. O mais importante e que todos tenham retornado incólumes. "
 v_rin0023
-"You should now take a well-deserved rest."
+"É melhor que recuperem-se da viagem."
 v_riz0160
-"Thank you for the kind words."
-We kneeled before Lorde Heydrich, told Him all about what happened, and received His gratitude. Around us, I saw Malleus, Samiel, Spinne, Machina... All of us, actually.
-Well, to be precise, Cristof still wasn’t here, but the state of the castle was about the same as it was before we left for Katyn.
+"Apreciamos imensamente vossa gentileza."
+Nós nos ajoelhamos diante do trono, relatamos ao Lorde Heydrich todos os acontecimentos do início ao fim e recebemos sua gratidão. Entre nós estavam a Malleus, a Samiel, oSpinne, o Machina... todo mundo reunido lá.
+Na real, sendo mais preciso, o Cristof não estava presente, mas tudo no castelo estava exatamente como ante de partirmos rumo a Katyn.
 v_rin0024
-"Although, I must say, you seem quite displeased, Bey."
+"Embora, vós aparentais estar insatisfeito, Bey."
 v_rin0025
-"Did you find the experience lacking?"
+"Seja franco: faltou alguma coisa?"
 v_vir0546
-"Yes... I can’t deny that. It felt somewhat sloppy."
+"Sim... Então, a verdade é que algumas coisas não me desceram."
 v_vir0547
-"I’m not quite fine with what happened there."
-I wasn’t enough of an idiot to act all triumphant despite having nothing to show off.
-That’s why I answered honestly. Sure, I liked receiving praise from Lorde Heydrich, but I wasn’t able to feel all that much joy in that particular case.
+"Não dá pra dizer que sai de lá satisfeito."
+Eu não era idiota de ficar agindo todo triunfante sem ter nada concreto para mostrar.
+Por isso, respondi à pergunta com sinceridade. Claro que eu gosto de receber elogios do Lorde Heydrich, mas não posso dizer que fiquei muito feliz naquela ocasião.
 v_vir0548
-"It was unsatisfying, and I really don’t feel comfortable about it. The outcome was so vague that it just doesn’t sit right with me."
+"Não posso dizer que estou satisfeito, nem me sinto confortável quanto a isso. Acabou que o desfecho não deixou tudo esclarecido."
 v_rin0026
-"So, the journey to Katyn gave you absolutely nothing?"
+"Então, vós afirma que Katyn não lhe rendeste nada?"
 v_vir0549
-"No, I wouldn’t go that far, but..."
-I made some sort of progress with Claudia, but it was a personal matter that had nothing to do with the mission.
-I couldn’t really report something like that, so I was at a loss on what to say next. Suddenly, Lorde Heydrich began chuckling.
+"Não... não foi bem isso."
+Eu cheguei a fazer algum progresso em relação à Claudia, mas isso era algo pessoal que não dizia respeito à missão em si.
+O Lorde Heydrich esboçou uma risada ao ver que eu estava sem saber o que dizer porque não podia reportar isso a ele.
 v_rin0027
-"No need for this, Lieutenant. Lessening yourself does not suit you. Not to mention the fact you brought me more than enough to be proud of."
+"Não é necessário. Lieutenant. Lessening yourself does not suit you. Afinal de contas, os frutos da batalha já são mais que suficientes."
 v_rin0028
-"You there. Your name is “Ludwig”, yes?"
+"Diga-me: “Ludwig” é vosso nome, correto?"
 v_vir0550
 "............"
-At that moment, we were all overwhelmed by a shared tension. Everyone present felt that Lorde Heydrich’s voice had a quality to it that normally wasn’t there.
+Nessa hora, todo mundo ali foi tomado pela mesma tensão. Todos sentiram que havia algo incomum misturado ao tom de voz do Lorde Heydrich.
 It felt like joy and curiosity, but He was just so immense of an entity that it was hard to tell.
-To a normal person, a single chuckle from this man was equal to a tsunami or an avalanche. Some could even lose their very selves in it. His majesty would not be matched by hundreds of beasts.
-Because of that, I expected the man to panic or be dumbfounded, but...
+Para uma pessoa normal, uma mera risada descontraída dele era como um tsunami ou uma avalanche. Alguns chegariam a ser completamente engolidos por ele e perder a própria identidade. Sua imponência era a de um rei de todas as feras.
+Por causa disso, eu estava imaginando que ele entraria em pânico ou acabaria atônito...
 v_rut0047
-"Indeed. I am Ludwig van Rosenkranz. So you’re Reinhard Heydrich, eh?"
+"Precisamente. Meu nome é Ludwig van Rosenkranz. E você, presumo, é Reinhard Heydrich?"
 v_vir0551
-"You bastard!"
-Samiel, Schreiber, and I all slightly rose up, ready to kill him right then and there.
-The lack of respect in his tone made our blood boil.
+"―――Desgraça!"
+Eu, a Samiel e o Schreiber chegamos a nos levantar, prontos para matar ele.
+Aquele desgraça foi logo chamar ele de “você”.
 His impudence was so great that just about everyone in the room looked at him like they couldn’t believe what they were seeing. The only exceptions were Mercurius, Lorde Heydrich, and Ludwig himself.
 The man looked around with a vexed expression and chuckled maliciously.
 v_rut0048
-"Please, could you not ruin official business with nonsense like that? I’m not his underling."
+"Poderia permanecer em silêncio? Não fique se exaltando por qualquer coisa, é deprimente. Eu não sou subordinado a ele."
 v_rut0049
-"I wouldn’t mind showing respect to someone who commanded this nation’s armies, but this man has long since discarded that role. To my knowledge, he is officially dead."
+"Eu não me importaria de demonstrar respeito a um general das forças armadas, mas parece que ele já abriu mão do cargo. Pelo que constam os registos, ele já foi oficialmente declarado como morto."
 v_rut0050
-"That makes him just an individual, and you ― his private army. Thus, my behavior here is most appropriate, is it not?"
+"Assim sendo, tanto, ele e vocês que o obedecem, não são mais do que um indivíduo qualquer e seu exército particular. Tal qual, a maneira como me dirijo a ele me parece ser apropriada. Por acaso estou errado?"
 v_rin0029
-"Indeed it is."
-We were on the verge of unleashing hell upon him, but Lorde Heydrich stopped us.
+"Correto."
+Nós estávamos prontos para parati pra cima dele, mas uma única palavra do Lorde Heydrich nos conteve.
 v_rin0030
-"None of what he said is wrong. I am but an individual, so he, who does not work under me, has no reason to revere me."
+"Nada do que ele disse está equivocado. No momento, sou apenas um indivíduo, portanto ele, que não responde a mim, não tem motivo para prestar reverência."
 v_rin0031
-"He and I are equals, and I wish to have words with him. At ease, all of you."
-Of course, we had no choice but to listen. Still, I groaned as I kneeled again.
-We more or less had learned what Ludwig was like back at Katyn. That was exactly why Babylon had told him to tone it down, and I seriously didn’t expect him to keep it up in this situation.
+"Ele e eu somos iguais. Quero prosseguir a conversa e peço que contenham-se."
+Ela fala e nós ficamos quietos... eu me ajoelhei novamente enquanto me queixava.
+Nós meio que já tínhamos entendido qual era a do Ludwig ainda em Katyn. Justamente por isso que a Babylon pediu para ele maneirar, mas não imaginei se comportaria da mesma maneira na frente do Lorde Heydrich.
 Lorde Heydrich was just such a huge entity to me that I thought no one could act tough before Him, but apparently I was wrong.
-I’d felt that this was my mistake. As I gritted my teeth in shame, Ludwig talked again, still half-courteous, half-rude.
+Foi um erro da nossa parte. As I gritted my teeth in shame, Ludwig talked again, still half-courteous, half-rude.
 v_rut0051
-"And? What are we supposed to talk about?"
+"Então? Sobre o que eu deveria falar?"
 v_rut0052
-"You’ve heard all there is to say about Katyn from your underlings. I’m only here to show the minimal amount of deference."
+"Já ouviu tudo o que tinha para ouvir sobre Katyn a partir dos seus subordinados. A razão de eu estar aqui é apenas para demonstrar uma deferência mínima."
 v_rut0053
-"Germany and the Vatican are allied, so I thought of accompanying your group while you confirmed my identity."
+"Alemanha e Vaticano mantêm uma relação de aliança e pensei em acompanhá-los até que pudessem confirmar minha identidade."
 v_rut0054
-"But now that I know it wasn’t an official military operation, but the act of a mere private army, I don’t see why I should be bound here."
+"E agora que sei que não se trata de uma operação militar oficial, mas atos de um exército pessoal, não entendo a necessidade de estar aqui."
 v_rin0032
-"That is most true. Will you be leaving, then?"
+"Realmente. Presumo que já esteja de partida, então?"
 v_rut0055
-"When I leave, how I leave, and whether I actually leave or not is up for me to decide."
+"Quando eu parto, sob quais circunstâncias, e até mesmo se pretendo partir ou não, cabe somente a mim decidir."
 v_rin0033
-"Do you not have a duty to report it to the Holy See?"
+"Não tens o dever de reportar à Cúria?"
 v_rut0056
-"Even if I do, you haven’t the right to force me to do that."
+"Mesmo que tenha, não cabe a você me forçar a tal."
 v_rin0034
 "Entendi."
-Lorde Heydrich gave a composed nod, making Samiel ― who was to my side ― walk out in front. She, too, was furious over Ludwig’s attitude, but was able to hold back her anger so well that it didn’t even show.
+O Lorde Heydrich assentiu com serenidade, fazendo com que a Samiel, que estava ao meu lado, desse um passo à frente. Ela também estava irritada com a postura do Ludwig, mas sequer dava para perceber de tão bem que ela conseguiu esconder.
 v_rin0035
-"We received a telegram about you three days back, so the investigation has already been completed. Go ahead, Samiel."
+"Recebemos um telegrama sobre vós há três dias, portanto a investigação sobre vossa identidade já foi finalizada. Não foi, Samiel?"
 v_ero0034
-"Yes, sir! The Vatican operative, Ludwig van Rosenkranz, does, indeed, exist. However, his role is exclusively behind the scenes."
+"Sim senhor! Confirmamos a existência de um funcionário da Cúria Romana chamado Ludwig van Rosenkranz. Contudo, encontra-se alocado em um departamento que opera por debaixo dos panos."
 v_rin0036
-"So you, too, are treated as non-existent. If you choose to disappear right now, you could break free out of your dim world. Well, I suppose that’s not of any consequence."
+"Ou seja: vós também oficialmente não existe. Portanto, se optasse por desaparecer sem deixar rastros,  If you choose to disappear right now, you could break free out of your dim world. Well, I suppose that’s not of any consequence."
 v_rin0037
-"We also have no duty to report you to your superiors. If you wish to be free of them, do go ahead. I already made it clear we would not bind you."
+"Também não temos o dever de relatar a vossos superiores. Se desejas libertar-te, fique à vontade. Já disse que não pretendo prendê-lo aqui."
 v_rin0038
-"Whatever the case, you have no intention to leave, do you?"
+"Todavia, vós não demonstrais qualquer intenção de partir, correto?"
 v_rut0057
-"Oh? And why do you think that?"
-Ludwig squinted his eyes in an intrigued manner as Lorde Heydrich quickly gave him an answer.
+"Hoh? E por que acha isso?"
+Ludwig respondeu ao Lorde Heydrich enquanto estreitava o olhar, como se estivesse se divertindo.
 v_rin0039
-"You knew everything from the very start."
+"Acredito que tenha percebido logo de cara."
 v_rin0040
-"All the talk of alliances and connections was nothing but a façade. You were well aware that we’re not an official unit, yet you joined our forces and obediently traveled here. Why? Simply because you wanted to."
+"Toda aquela conversa sobre aliança e conexão não passou de uma formalidade, correto? Mesmo ciente de que não éramos uma unidade oficial, vós os acompanhaste obedientemente por ser justamente o que queríeis."
 v_rin0041
-"I know not of your purpose, but if you are here of your own will, would you be willing to lend us some assistance?"
+"Desconheço por quais propósitos, mas se vós encontrais aqui por volição, significa que estais disposto a prestes alguma assistência?"
 v_rut0058
-"What kind?"
-The man didn’t deny Lorde Heydrich’s words, which basically meant that he acknowledged them.
-I’d had no doubts about that to begin with. After all, he’d known what we were the very moment we encountered him.
+"De que tipo?"
+Ele não negou as palavras do Lorde Heydrich.... basicamente admitiu.
+Nesse ponto, eu também não tinha qualquer dúvida. Isso porque ele soube quem éramos no momento em que nos encontramos.
 v_vir0552
-"...Mercurius, Hã?"
-I looked at the magician, who was at the edge of my vision, and muttered his name. Ludwig knew Mercury, so, of course, the reverse was also true. The fact that Lorde Heydrich saw through his façade probably had something to do with that.
+"...Mercurius, é?"
+Eu murmurei o nome dele enquanto olhava para a sombra do feiticeiro que estava na extremidade do meu campo de visão. Ludwig conhecia o Mercúrio, portanto o contrário também se fazia verdadeiro. O fato do Lorde Heydrich ter visto através da fachada dele provavelmente tinha algo a ver com isso.
 v_rin0042
-"It is not of much consequence. I would like you to share how the anomaly at Katyn appeared to you."
+"É por isso? Não é nada demais. Eu gostaria que relatasse a anomalia de Katyn que apareceu diante de vós."
 v_rut0059
-"You’re unsatisfied with what you were given by your subordinates?"
+"Não está satisfeito com o relato dos seus subordinados?"
 v_rin0043
-"That is not the case, I assure you. I merely feel it unfair that you are the only one of those present at the scene who did not present his perspective."
+"Em momento algum disse isso. Meramente, acho injusto que seja o único a não apresentar vossa perspectiva."
 v_rin0044
-"I would not ask for this if my subordinates brought you against your will, but since that is not the case, I do not believe you would mind speaking your thoughts. This is a matter of courtesy."
+"Seria outra história se meus subordinados o tivessem arrastado até aqui a contragosto... não sendo o caso, imagino que haver qualquer problema. É meramente uma questão de civilidade."
 v_rin0045
-"I welcome you as I would a guest, and would like to commune with you as a host. Would that be sinful, Ludwig?"
+"Estou a vos receber, portanto gostaria de conversar de conversar convosco na posição de convidado. Isso configura-se como pecado, Ludwig?"
 v_rin0046
-"If possible, I would like to be on good terms with you."
-The request of the mighty Gold made the man momentarily close his eyes.
+"Se assim for possível, espero que possamos manter uma relação amigável."
+Aos pés do olhar do Ouro, ele fechou os olhos por um instante...
 v_rut0060
-"...Very well. That is most reasonable, yes."
-Ludwig gave in, shrugged, and lightly nodded. The nerve to show such an attitude to Lorde Heydrich still pissed me off. It just didn’t seem sane to me.
-Regardless, he proceeded to tell us how he perceived the mysterious anomaly at Katyn.
+"...Entendi. A lógica está correta."
+Ele deu de ombros como se estivesse resignando e assentiu com a cabeça. Sério, com quem ele achava que estava falando para demonstrar aquela atitude? Aquilo me fez questionar se ele tinha algum juízo... de qualquer forma, o Lorde Heydrich respondeu à pergunta.
+Ele seguiu descrevendo o que seus olhos testemunharam a respeito da anomalia de Katyn, que ainda permanecia sem conclusão para nós.
 v_rut0061
-"You probably know more about the massacre itself than I do, so I’ll skim over that. All that matters is that it left behind an immense amount of blood and corpses."
+"Vocês devem saber mais sobre o massacre de Katyn do que eu, então vou pular essa parte. Em suma, muito sangue foi derramado naquelas terras e uma montanha de cadáveres se formou."
 v_rut0062
-"That awakened the slumbering arcane in the area. The rivers of blood seeped into the earth and reached the place it slept."
+"Como resultado, o arcano que estava adormecido ali despertou. O rio de sangue que penetrou na terra chegou ao seu local de descanso."
 v_rut0063
-"It formed a link between the underground and surface, causing it to activate every rainy night with a full moon. Those massacred at Katyn became walking corpses and wandered around, seeking more dead. That was what the magic was set up to do."
+"Isso formou uma conexão entre “cima e baixo”, fazendo com que fosse ativado em noites chuvosas de lua cheia. As vítimas do massacre de Katyn se tornaram zumbis que começaram a vagar em busca de novos mortos. Assim foi incorporado o ritual."
 v_rin0047
-"Hm, that outlook is exactly the same as that of my subordinates."
+"Hm, até aqui é exatamente igual ao que os demais já relataram."
 v_rin0048
-"Tell me, then, Ludwig. What do you make of this magic?"
+"Pois bem, Ludwig. Diga-me o que pensa sobre esta magia?"
 v_rin0049
-"To be specific, what do you believe was its goal?"
+"Especificamente, qual acredita ser o objetivo dela?"
 v_rut0064
-"Just simple nourishment."
+"Puramente nutrição."
 v_rut0065
 "A anomalia em Katyn era um vampiro."
-Ludwig spoke his conclusion as if it were absolute.
+Ele falou como se fosse algo óbvio e não houvesse nenhuma outra explicação.
 v_rin0050
 "Oh? Um vampiro, é?"
-Lorde Heydrich and the rest began looking at me. It felt weird, but I had nothing to say about it.
-After all, the anomaly was, indeed, much like a vampire from legend.
+O Lorde Heydrich, e todo mundo mais ali, direcionou o olhar para mim. Aquilo foi estranhamente desconfortável, mas eu não tinha nada de especial acrescentar.
+Isso porque as características da anomalia era realmente muito similares às dos vampiros dos contos.
 v_rin0051
 "Você acredita em vampiros?"
 v_rut0066
-"Not the fantastical beasts, no. I have no mind for foolish stories about giant bat monsters or knights punished for cursing God."
+"Se está falando dos seres fantasiosos, não. Não tenho a mínima intenção de ficar falando sobre essas romantizações ingênuas, como monstros em forma de morcegos gigantes e cavaleiros amaldiçoados e punidos por Deus."
 v_rut0067
-"However, the very existence of the concept brings some to try and emulate it. If something drains blood, uses it to wield undead that consume the living, and makes the number of corpses under its command grow... then it can only be called a vampire."
+"Mas, uma vez que o conceito exista, é factível o surgimento daqueles que tentam emulá-lo. Se é capaz de chupar sangue, controlar os mortos e se multiplicar sem parar enquanto se alimenta... então só me resta chamá-lo de vampiro."
 v_rut0068
-"This world is full of such things... Mere imitations, I assure you."
-He chuckled. Ludwig’s words were definitely directed at me.
+"O mundo está repleto dessas “pseudos” que surgem a partir de derivações."
+Ele riu ao dizer isso. Aquilo claramente foi direcionado a mim.
 v_rin0052
-"Restrain yourself, Bey. As I said, I wish to talk with him."
+"Contenha-se, Bey. Acredito ter dito que eu queria conversar com ele."
 v_rin0053
-"In fact, outlooks that counter your own should be lent an ear. And do keep in mind that, if you are an imitation, then so am I."
+"Pelo contrário, deve-se dar ouvidos àqueles com opiniões divergentes das suas. Se sois és uma imitação, então eu também me enquadro."
 v_rin0054
-"The only tangible difference is whether we drain blood and souls. By his logic, I, too, am much akin to a vampire."
-Lightly shaking His shoulders, Lorde Heydrich chuckled. I had no idea how well Ludwig knew us, but it was clear that nothing about us was fazing him.
+"Embora o modo como drenamos sangue e almas possa divergir. Baseando-se na lógica dele, não há como negar que também me assemelho a um vampiro."
+O Lorde Heydrich esboçou um sorriso descontraído enquanto tremia levemente os ombros. Era incerto o quanto o Ludwig sabia sobre nós, mas ficou claro que nada parecia perturbá-lo.
 v_rin0055
-"Now, I wish to hear more. Why did the vampire at Katyn suddenly vanish?"
+"Então, quero ouvir o resto. Por que o vampiro de Katyn desapareceu repentinamente?"
 v_rin0056
-"You claimed that its goal was to nourish itself. If that was the case, then surely it intended to revive."
+"Vós afirmastes que vosso objetivo era nutrir-vos. Sendo o caso, suponho que o objetivo final era a ressurreição."
 v_rin0057
-"However, that did not happen. The burial chamber only had a corpse that was decaying. Am I correct, Babylon and Valkyria?"
+"Todavia, isso não se concretizou. A câmara subterrânea continha apenas uma casca vazia em decomposição. Correto, Babylon? Valquíria?"
 v_riz0161
-"Yes. We saw it with our own eyes."
+"Sim. Confirmamos com nossos próprios olhos."
 v_bat0203
-"However, we are unaware of anything that could have caused it."
+"Embora nós não tenhamos feito qualquer coisa que pudesse ter resultado nisso."
 v_rin0058
-"And that is exactly why this is odd. Just as Bey said, the outcome is far too vague. What do 
-you
- make of this?"
-As everyone looked at him, Ludwig lightly hung his head and sighed.
+"Justamente por isso que é tão misterioso. Tal qual o Bey disse, o desfechou não esclareceu tudo. Em relação a isso, o que 
+vós
+ tem a dizer?"
+A atenção de todos se concentrou no Ludwig, que pendeu levemente a cabeça e suspirou.
 v_rut0069
-"I don’t know anything, either."
+"Eu também desconheço."
 v_rut0070
-"But I have something you could call a theory."
-He raised his face and looked at Mercurius, who was wearing a thin smile.
-They seemed to have a moment of eye contact, but then Ludwig looked back at Lorde Heydrich.
+"Contudo, se insiste, posso apresentar uma hipótese próxima de uma teoria."
+Ele ergueu o rosto e direcionou o seu olhar à figura tremulante do Mercurius, que estampava um tênue sorriso no rosto.
+Por um instante, pareceu que os dois tinham feito contato visual. Em seguida, o Ludwig voltou ao olhar para o Lorde Heydrich e falou.
 v_rut0071
-"It might’ve seen the light."
+"Posso ter avistado uma luz."
 v_rut0072
-"After all, that is what’s been purifying vampires since time immemorial. There was light in there back then, and it wasn’t me or your subordinates."
+"Desde os tempos ancestrais, é ela quem purifica os vampiros. Havia uma luz ali naquela hora, e não partia de mim, nem de seus subordinados."
 v_bat0204
-"Then... was it...?"
+"Então... quer dizer...?"
 v_vir0553
-"You saying it was Claudia?!"
-My voice was hoarse. I just couldn’t believe what he implied.
-Claudia was an ordinary person. No miracle could have granted her the power to rend magical darkness.
-I howled at him to stop spouting bullshit, but the shithead just shook his head, looking annoyed as hell.
-I felt like there was even a bit of pity in his eyes.
+"Tá dizendo que foi a Claudia?!"
+Eu elevei a voz inconscientemente. Não tinha como ser possível.
+Ela era uma pessoa comum. Nenhum milagre que fosse poderia ter dado a ela a capacidade de dispersar uma escuridão proveniente da magia.
+Por isso, eu berrei, mandando ela parar de falar merda, mas o desgraçado só balançou a cabeça, como se estivesse incomodado.
+E não parou aí: ele ainda falou, olhando pra mim com uma cara de pena.
 v_rut0073
-"What do you think you understand about her? You know 
-nothing
- of the light."
+"O que acha que sabe sobre ela? Você não sabe 
+nada
+ sobre a luz."
 v_rut0074
-"It’s a mere antonym to you, is it not? Oh, so that’s why you desire an endless, dark night... How shallow."
+"Afinal, trata-se do seu antônimo, não? Sim, é por isso que deseja por uma [noite](escuridão) sem fim... Que homem mais superficial."
 v_vir0554
-"You shit!"
-That was when I snapped. I exploded like gunpowder and stood up, but there was another explosion at the same time ― one of laughter.
+「――Desgraça!"
+Nesa hora eu fiquei puto. Na mesma hora que levantei, prestes a explodir como pólvora, uma gargalhada irrompeu.
 v_mrk0057
 "Hehaha! Hahahahahahahahah!"
-Its source was Mercurius.
-With his arms on his stomach, he twisted his body and laughed as if maddened. The sight filled me with an indefinable repugnance and sent chills down my spine, and I was sure I wasn’t the only one who felt that way.
-We all stared at the mercurial magician in absolute silence. Not even Ludwig and Lorde Heydrich were an exception to that.
-After a needlessly long bout of laughter, Mercurius began talking.
+Mercurius.
+Ele tava se contorcendo todo, segurando a barriga e rindo feito maluco. Ver aquilo me deixou tomado de desgosto e fez calafrios correrem pela espinha, e tenho certeza que eu não fui o único que se sentiu assim.
+Tanto o Ludwig quanto o Lorde Heydrich... todos nós ali encaramos o feiticeiro mercurial, em absoluto silêncio.
+Apenas um tempo rindo, ele continuou...
 v_mrk0058
-"Splendid. Most wonderful. ’The prayer of the pure maiden banished the darkness...’ That is so quixotic I cannot help but find it magnificent. I applaud you from the bottom of my heart."
+"Esplêndido. Esplêndido. “As preces da virgem purificaram a escuridão...” É tão quixotesco que só me resta admirar. É preciso ovacioná-lo."
 v_mrk0059
-"For all we know, that might actually be the truth behind what occurred there. I shall not hesitate to accept that answer."
+"Até onde sabemos, é possível que seja essa a verdade por trás dos fatos. Não hesitarei em concordar."
 v_mrk0060
-"After all, there is not a man in existence who does not wish to sleep within the embrace of a goddess... Kheheheheh."
+"Que homem não desejaria dormir com o abraço da deusa... Kufufufufu."
 v_mrk0061
-"Hahahahah! Hahahahahahahahahahah!"
+"Hahahahah! Hahahahahahahahahahah―――!"
 v_vir0555
 "............"
-He resumed laughing. The sound echoed throughout the hall. Despite the loudness, there was no excitement in it, making it feel heavy enough to stick to and burden the very soul.
-The density and depth of the emotions hidden within him were abnormal. I had no idea what incurred the reaction, but he was actually showing a hint of his true self.
-For all I knew, this might’ve had something to do with his craving. I was barely able to bear just thinking about it.
+Aquela risada dele ecoou de novo. Apensar do barulho, Despite the loudness, there was no excitement in it, making it feel heavy enough to stick to and burden the very soul.
+A densidade e profundidade das emoções ocultas nelas era anormal. Não faço ideia do que gerou essa reação nele, mas o Mercurius estava expondo sua verdadeira face.
+Por isso, pensei que aquilo pudesse estar relacionado com a ânsia dele... Eu não aguentei nem pensar muito sobre isso.
 v_rin0059
 "Carl."
-The moment I was on the verge of puking my guts out, Lorde Heydrich ended it all.
+O Lorde Heydrich a interrompeu bem na hora que eu estava prestes a vomitar.
 v_rin0060
-"Leave it at that. You are making us all uneasy."
+"Vamos parar por aqui. Está enojando a todos."
 He lightly waved His hand in a slightly exasperated manner, restoring the mood to what it was before the laughter. Everyone heaved a sigh of relief, as if they’d momentarily forgotten how to breathe.
 v_mrk0062
-"Oh, how impolite of me. Apologies for my misconduct. Now, I must ask, why not end it here?"
+"Ah, mil desculpas. Peço perdão pela minha grosseria. Contudo, não concorda que já basta?"
 v_mrk0063
-"Their minds and bodies might be unable to bear more of this. You have gotten the answers you sought, so it might be best to finish this worthwhile gathering before it sours."
+"Mais do que isso e as mentes e corpos não serão capazes de suportar. Já ouviu o que queria, logo é propício de encerramos esta valiosa reunião."
 v_rin0061
-"That is true. I must say, you’re not exactly the best person to speak that, but this exchange has brought forth more than enough points of interest."
-He nodded, looked us all over, and began concluding the gathering.
+"Tens razão. Pode não ter sido muito significativo para vós, mas, para mim, muitos pontos interessantes foram trazidos à tona."
+O Lorde Heydrich assentiu, olhou para cada um de nós, e encerrou o encontrou, assim como o Mercurius sugeriu.
 v_rin0062
-"Thank you for your time. You are free to go and rest."
+"Agradeço pela presença de todos. Vós estão livres para descansar."
 v_rin0063
-"Prepare for the time meant to come. Know that what awaits you is war."
+"A hora há de chegar, e o que vos aguarda é a guerra."
 v_mix0004
-"Sir, yes, sir!"
-There was nothing to argue against there. We all nodded, regained control of our emotions, and followed His order.
-The conclusion felt a bit forced, but anyway, that was the end of our meeting. With this, the case of the anomaly at Katyn was settled.
-Personally, I wasn’t sure if I could believe that ― or perhaps I just didn’t want to.
-Things weren’t as clear as I preferred them to be, so I couldn’t feel like I was released of it just yet.
+"――Sim senhor!"
+Não havia nada a dizer ali. Todos assentiram, controlaram suas emoções e seguiram às ordens.
+O final foi meio forçado, mas, de qualquer forma, a reunião chegou ao fim. Com isso, o caso da anomalia de Katyn foi concluído.
+Embora eu não tivesse tanta certeza disso.. ou, talvez, eu não quisesse pensar dassa forma.
+Naquela época, mesmo sem ter certeza dos fatos, eu ainda estava relutante quanto a isso...
 v_rut0075
-"You never change, do you, Mercury?"
-As I was leaving, I saw Ludwig, who was still in the hall, talking to Mercurius.
+"Você nunca muda nada, Mercúrio."
+Eu já estava de saída quando avistei o Ludwig falando com o Mercurius.
 v_mrk0064
-"And you seem to have changed a lot, Matusalém."
-The man didn’t hesitate to reply.
-Lorde Heydrich, however, merely looked down on the two freaks with a golden smile on His visage.
+"E você aparenta ter mudado muito à sua própria maneira, Matusalém."
+O Mercurius respondeu.
+Do seu trono, o Lorde Heydrich ficou olhando cima as duas excentricidades enquanto esboçava um sorriso áureo.
 v_rsr0016
 "Esse foi um encontro bem estressante. Não fique trazendo estranhos pra cá."
 v_syp0019
-"Concordo. My nerves are already quite frail, so I would appreciate it if you didn’t do anything to wear them down any further, Lieutenant."
+"Concordo. Tenho nervos frágeis e apreciaria se não fizesse nada que os desgastassem ainda mais, primeiro-tenente."
 v_vir0557
 "Calem a boca. Não venham reclamar comigo. Isso tudo também me incomoda."
 Depois disso, nós percorremos um longo caminho em direção aos portões do castelo.
@@ -4970,7 +4970,7 @@ v_kru0280
 v_vir0589
 "Verdade."
 Eu assenti, de maneira honesta.
-Palavras vindas da mulher mais ávida por alegria que conheci, e que viveu sua vida em busca da sublimação. Não há como negar.
+Palavras vindas da mulher mais ávida por alegria que conheci, e que viveu sua vida em busca da plenitude. Não há como negar.
 v_vir0590
 "Se chegar ao ponto de só pensar nisso, acho que eu mesmo me mataria."
 Efetivamente falando, a Claudia estava indo em direção à morte, mas não estava cansada da vida. Ela estava sendo queimada pelo seu desejo excessivo pela 
@@ -5977,7 +5977,7 @@ E assim nos tornaríamos o primeiro amor um do outro ― essa era a conclusão p
 Eu queria descobrir o que significava amar, para que assim pudesse personificar o amor pela destruição. Mas, para isso, era preciso uma Claudia apegada à vida ― qualquer outra não me serviria. Usando das palavras da Helga: “precisa me mostrar seu lado imundo se quiser que eu fique excitado”.
 Eu a mataria quando se tornasse amável, e assim a Claudia também conseguiria aquilo que queria: a satisfação de ter me ensinado ao amor e a alegria em ser amada. Isso a faria reluzir por um breve instante.
 É claro, não tinha qualquer garantia de que daria certo. Se ela dissesse que não gostaria de se tornar como a Helga, poderia acabar resistindo e distorcendo o resultado.
-A sublimação da Claudia poderia facilmente ser corrompida em algo demoníaco, e eu não conseguiria um brilho tão intenso quanto gostaria.
+A plenitude da Claudia poderia facilmente ser corrompida em algo demoníaco, e eu não conseguiria um brilho tão intenso quanto gostaria.
 Contudo, isso era algo que eu não estava disposto a abrir mão.
 Para me apaixonar por ela, ela precisava se apaixonar por mim.
 v_vir0658
@@ -6788,7 +6788,7 @@ v_rut0178
 v_rut0179
 "Ao longo de uma longínqua eternidade, este corpo não foi mais do que uma profunda escuridão. Doravante, meu par não pode ser alguém símil ao fugaz brilho lunar.
 v_rut0180
-Um sol perpétuo, puro e cristalino que resplandeça como a encarnação de um louvor à vida. Minha alma gêmea precisa conhecer a escuridão, permitir minha existência e ser detentora de uma resplandecência absolutamente sublime. Somente alguém com tais qualidades seria adequada a mim."
+Um sol perpétuo, puro e cristalino que resplandeça como a encarnação de um louvor à vida. Minha alma gêmea precisa conhecer a escuridão, permitir minha existência e ser detentora de uma resplandecência absolutamente plena. Somente alguém com tais qualidades seria adequada a mim."
 Por isso, ele assim declarou, como se estivesse a realizar um juramento, tal qual um santo ofertando suas preces.
 v_mrk0126
 "Então, o que de mim deseja é meu auxilio em sua busca?"
@@ -8959,7 +8959,7 @@ v_kru0464
 "Por favor, me usurpe, Wilhelm. Esse sentimentos são perfeitamente compatíveis."
 v_kru0465
 "If I’m not being one-sided, anyway."
-If both parties loved each other, then they were equal, meaning that the sins would be canceled out and they would be elevated.
+Se as partes partilham um amor mútuo, logo são iguais, anulando o pecado e alcançando a plenitude.
 When separate, the sadness of losing the woman you love and the regret of leaving behind the man you love would become curses, but when together, they both became a light.
 A minus and minus made a plus, and thus, according to her, there was nothing to lament.
 v_vir0892
