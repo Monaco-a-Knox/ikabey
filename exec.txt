@@ -2446,7 +2446,7 @@ Por quê? Eu já disse. Tipos Fusão não conseguem raciocinar direito quando es
 Foi o suficiente para fazer a feitiçaria despertar, abraçar nosso intento pela guerra e nos conscientizarmos de nossas ânsias.
 v_hrg0012
 "Wil, Wil, meu amado Wilhelm..."
-A Dádiva das Trevas que fluía dentro de mim ―― a rosa diabólica disse para drenar tudo ao meu redor até a morte.
+A Dádiva das Trevas que fluía dentro de mim ― a rosa diabólica disse para drenar tudo ao meu redor até a morte.
 v_hrg0013
 "Eu te amo taaanto! Não precisa de outra mulher além de mim!"
 v_vir0377
@@ -4052,7 +4052,7 @@ Ela provavelmente não se envolveu com a guerra e, já peço perdão, indivíduo
 v_din0058
 É possível que ela tenha entrado em pânico ao perceber que sua vida estava chegando ao fim. O tempo era curto e, mesmo que estivesse em busca do desespero, ela não queria experimentá-lo pela “metade”.
 v_din0059
-“Desde que eu possa experimentar algo ordinário durante esta vida, não me importo que seja no momento da morte” ―― algo nessa linha? O estado em que ela se encontrava nessa época acabou sendo conveniente para você."
+“Desde que eu possa experimentar algo ordinário durante esta vida, não me importo que seja no momento da morte” ― algo nessa linha? O estado em que ela se encontrava nessa época acabou sendo conveniente para você."
 v_din0060
 "Mas essa não era realmente ela. A garota chamada Claudia Jerusalem sempre buscou pela luz."
 Ela queria dar, e não receber. Subir, e não cair...
@@ -6365,114 +6365,114 @@ v_vir0822
 ............
 v_kru0537
 "Que tempo bom. Mais um dia ensolarado."
-I woke up and started my day by opening the window and taking in a deep breath. After inhaling enough of the sun’s scent and light, I sent out a prayer of gratitude and hope.
-This was a habit of mine I’d acquired before I even had awareness of the world around me. It also came with a daily scolding, as well.
-"What do you think you’re doing, Claudia?"
-"Why must you do this, child?"
-"How many times do I have to tell you to stop?"
-The mother and sister figures back at the monastery I’d grown up in told me similar words every single day. I must’ve been quite a problem child for them.
-There was little bliss to be found in a garden of women living in honorable poverty, not to mention that the times were harsh.
-Defeat in the previous war left behind many widows and orphans who had nowhere to go, and as one of the few places that took them in, monasteries everywhere were filled to the brim. In all honesty, there was no leeway whatsoever.
-To live as a nun, you had to be of use, even as a child. "He who does not work, neither shall he eat" was one of our basic tenets, and a hoyden like me, who did nothing but make it harder for everyone, was just a nuisance.
-It was even worse because I also had a disability. Those merely injured or ill could perhaps be healed, but my condition was incurable. I was born with it, and I was certainly impaired by it in several ways.
+Logo que acordei, eu abri a janela e respirei fundo. Após inalar bastante da luz e aroma do sol, eu fiz minha oração de cada dia de gratidão e esperança.
+Esse é um hábito que acabei adquirindo muito antes de me conscientizar do mundo ao meu redor. Por consequência, também acabei sendo rotineiramente repreendida por isso.
+“O que acha que tá fazendo, Claudia?!”
+“De novo isso?!”
+“Eu já não disse para parar com isso?!”
+As irmãs e figuras maternas que tive no convento onde cresci me davam sermão sobre isso diariamente. Imagino que eu deva ter dado muito trabalho a elas.
+Não havia muita prosperidade em um espaço destinado a mulheres, conhecido pela simplicidade e austeridade... Sem contar que os tempos eram outros.
+A derrota na guerra fez surgir muitas viúvas e órfãos que não tinham mais para onde ir, e os conventos, que eram um dos poucos refúgios disponíveis, estavam todos lotados. Sendo bem franca, não havia espaço.
+Para viver lá como uma freira, até mesmo as crianças precisavam trabalhar. É como dizer “Quem não trabalha, não como”... e uma maria-rapaz como eu, que só sabia dar mais trabalho, acabava sendo vista como um fardo.
+Sem contar que eu ainda tinha uma condição debilitada. Aquelas que apenas tinham ferimentos ou estavam doentes poderiam se recuperar, enquanto o meu caso não tinha cura. Uma limitação congênita a aparente.
 v_kru0538
-"But I feel pretty good recently. I think I’m finally getting used to it.
+"Mas tenho me sentindo muito bem ultimamente. Acho até que já estou me acostumando."
 v_kru0539
-I don’t even fall asleep as quickly as before. Honest. Oh, heavens no, I’m not lying."
-Direct sunlight was enough to disturb my health. I was even at risk of going blind at one point, and if the nuns had to take care of someone like that, they wouldn’t have gotten a moment’s rest.
-And since I was a problem child, I didn’t even control myself when given less work than the rest.
+Eu já não caio mais no sono tão rápido como antigamente. É verdade! Poxa, claro que não estou mentindo."
+A exposição direta ao sol, mesmo que por pouco tempo, fazia mal à minha saúde. Teve um tempo que cheguei a correr o risco de perder a visão, e ter que cuidar de alguém como eu acabava impedindo as freiras de descansar a até dormir.
+E sendo uma criança problemática, eu acabava dando ainda mais trabalho por não saber me conter.
 v_kru0540
-"Yes, yes. I will be fine. Let’s go work and do our very best."
-I liked running around in the light. It hurt and was hard to bear sometimes, but I found the sense of fulfillment so splendid that I prioritized it over the negatives.
-I couldn’t thank the other nuns enough. Despite all they said, they always allowed and tolerated my selfishness.
-If they only thought of efficiency, they would’ve thrown me into a room with no windows.
-Then they could’ve kept me there, confining me until I died under the pretense that they were nursing me.
-Doing so would’ve prolonged my life and lessened the burden on everyone there. It was objectively the best decision they could’ve made for all involved parties.
-But they didn’t do that. Though they were considerate of the location of the window and furniture, they generally didn’t bind me whatsoever. Whenever I could but stand and walk, I would frolic around in the light.
-Perhaps they’d merely figured that my idiocy was as incurable as my illness, but even so, I could only thank them, for they didn’t take the day away from me.
-I, Claudia Jerusalem, was a child of the night ― an albino ― and as such, I was very weak to sunlight.
-I was well aware that I could only tolerate half of the world everyone else experienced, but even so, I didn’t want to give up.
-If those who could live in the light told me to keep away because I was different, I might’ve ended up as an ill-tempered girl.
-I might’ve hated them and cursed the light.
-However, it didn’t come to that, and I couldn’t be more grateful for it.
-Some might’ve thought that the nuns had merely let me act on my stupidity because they wanted me to die as quickly as possible, but I wasn’t cynical enough to look at it that way.
-Many had asked me why I was so fixated on the light despite the effect it had on me.
-And I always had more or less the same answer.
+"Bom, é isso. Não precisa se preocupar. Vamos dar tudo de nós no trabalho hoje."
+Eu gostava de correr sob a luz do sol. Podia ser sofrido e doloroso, mas eu considerava o sentimento de realização tão maravilhoso ao ponto de priorizá-lo em relação à dor.
+Agradecimento nenhum é suficiente para expressar minha gratidão às freiras. Apesar de tudo o que falavam de mim, elas sempre permitiam e tolerava esse meu egoísmo.
+Se elas pensassem somente na eficiência, teriam jogado alguém como eu em um quarto sem janelas.
+Sem poder sair de lá, elas poderiam me confinar até morrer enquanto fingiam que estavam cuidando de mim.
+Isso poderia prolongar minha vida e aliviar o peso sobre os ombros delas. Considerando tudo de um ponto de vista objetivo, essa opção seria a ideal para ambas as partes.
+Mas não foi o que elas fizeram. Embora tivessem um mínimo de cuidado em relação à posição e disposição de janelas e móveis, elas não tentavam limitar meus movimentos. Sempre que eu tinha condições de ficar de pé e caminhar, eu sempre buscava a luz do sol.
+Talvez elas tenham percebido que não havia cura para idiotice e simplesmente tenham desistido, mas, mesmo assim, eu sou grata a elas por não terem me privado da luz do dia.
+Claudia Jerusalem é uma criança da noite. Por ser albina, a luz do sol é minha fraqueza.
+Eu sabia que só era capaz de suportar metade do mundo que os demais aproveitavam, mas, mesmo assim, eu me recusava a desistir.
+Se as pessoas que viviam sob a luz dissessem que eu não poderia estar ali por ser diferente, eu poderia acabar desenvolvendo uma personalidade distorcida.
+Acabar odiando elas e amaldiçoando a luz.
+Mas isso não aconteceu, e, por não ter acontecido, eu sou grata a elas.
+“Ela é uma idiota e não nos dá ouvidos, então é melhor deixar que morra de uma vez” ― eu simplesmente não consigo interpretar dessa forma.
+“Por que é tão obcecada com a luz e não se preocupa consigo mesma?”
+Muitas pessoas já me fizeram essa pergunta, a qual eu costumo responder assim:
 v_kru0541
-"Do I have to have a reason?
+"Preciso de um motivo?
 v_kru0542
-Isn’t it an obvious desire for a human to have?"
-Those words came from the bottom of my heart. As true as they were, though, I understood that they were contradictory. In fact, very few of those who’d heard them ever agreed.
-After all, my words were about human instinct, and if that was truly my reason, I, as an animal, wouldn’t insist on doing something that slowly drained my life.
-That would be the normal way to look at it, and besides, in the realm of faith, suicide was taboo, so I ended up seeming like a truly broken, sinful individual.
-Thus, I thought it over again and re-examined myself in an attempt to find out where this 
+Não é algo pelo qual todo ser humano anseia?"
+Palavras verdadeiras, do fundo do meu coração. Ao mesmo tempo, eu estou ciente dessa contradição. A verdade é que, até hoje, quase ninguém aceitou essa resposta.
+Isso porque minhas palavras estavam atreladas aos instintos humanos, e se a razão era essa, eu, como um ser vivo, não deveria insistir em algo que estava drenando minha vida.
+Ao menos, essa seria a maneira normal de encarar as circunstâncias, sem contar que o suicídio é um tabu no mundo da religião. Isso fazia eu ser vista como louca, alguém imersa em pecados.
+Por isso, eu pensei e repensei sobre mim em uma tentativa de descobrir a origem dessa 
 ânsia
 oração
- prayer ― this craving that burned me so ― actually originated.
-It was true that I was being foolish, but I didn’t want to wallow in self-deprecation after being treated as such. I wished to believe that my desire was something to be proud of, so I wanted to gain clarity about how it came to be.
-After a bit of thought, I considered that it was, indeed, instinct. Young children were often afraid of the dark, and I, too, had my heart captured by what was bright.
-But things began seeming a bit strange from there on. I was in no position to say this, but my preferences mattered little to reality.
-My condition could be called a type of allergy, after all. No matter how much a child loved bread, he would’ve avoided wheat if it endangered his life. I, however, didn’t hold myself back or make any compromises.
-Part of it was probably my youthful stubbornness and jealousy of everyone else, but why would I continue even after growing old enough to make reasonable judgments?
-Was it perhaps because I wanted to somehow return the favor to the nuns who brought me up and allowed me to act selfish?
-Or perhaps I wanted to show them that I was fine and deserved to be treated as an adult?
-I did indeed feel both of those sentiments, and there was no falsehood behind those words.
-But even so, I knew that, deep inside me, there was some other motive.
-It was a distant memory from a time I couldn’t recall, but the event itself was something I couldn’t forget. The sight from back then was burned into my soul, living with me to this day.
+ que ardia dentro de mim.
+Eu estava sendo tola, e isso é um fato que não tenho como negar, mas eu não queria me rebaixar e me depreciar por conta disso. Eu queria acreditar que esse meu desejo era algo na qual eu precisava ter orgulho, e deixar claro onde residia o meu ideal.
+Após considerar um pouco, a princípio, eu conclui que se tratava de instinto. Crianças pequenas costumam ter medo do escuro, e o normal para mim era buscar a luz que capturou meu coração.
+Mas foi aí que as coisas começaram a ficar um pouco estranhas. Embora eu não esteja em posição de dizer isso, minhas preferências pouco importavam frente à realidade.
+Minha condição poderia ser rotulada como uma espécie de alergia. Por mais que uma criança goste de pão, o normal seria não comer se a ingestão de farinha for prejudicial à sua vida. Então, por que eu não conseguia me controlar e abrir mão?
+Parte disso provavelmente é decorrente da minha teimosia juvenil e inveja dos demais... mas por que continuou mesmo após ter crescimento e me tornado capaz de entender o problema?
+Talvez por querer retribuir, mesmo que com o mínimo, a todas no convento que me criaram e aturaram meus caprichos?
+Ou talvez porque eu quisesse mostrar a elas que estava bem e gostaria de ser tratada como adulta?
+Ambos os sentimentos são verdadeiros e partem do coração.
+Mas eu sabia que, bem no fundo, havia outro motivo.
+Uma memória distante que não consigo esquecer, ainda que de um tempo distante que não consigo mais lembrar. O cenário daquela época permanece queimado na minha alma até hoje.
 v_kru0543
 "Nossa... Que lindo!"
-I saw a blue, pale, boundless, endlessly clear sky with a flock of birds flying under it. The scene moved my heart.
-Their wings were crystalline, and I couldn’t help but find their free, noble existence to be precious.
+Ver os pássaros batendo suas asas sob céu azul claro, estendendo-se a perder de vista... é uma cena que comoveu meu coração.
+Suas asas eram cristalinas; tudo em que conseguia pensar era o quão livres e veneráveis eram suas existências.
 v_kru0544
-"They’re like angels."
-Vague, but with a certain yearning, 
-that
- was the very ideal I’d weaved.
-The truth behind the feelings I’d painted and aimed for had a wing-like shape.
-I wished to become akin to an angel, which that blue sky suited more than anything else.
+"São como anjos."
+Embora vago, ainda que com certa admiração, 
+aquele
+ era o ideal que eu gostaria de tecer.
+A verdade por trás dos sentimentos que pintei e almejei tinha o formato de uma asa.
+Eu queria me tornar como um anjo; aquilo que mais combinava com aquele céu azul.
 v_kru0545
-"I solemnly pledge myself before God and in the presence of this assembly..."
+"Diante daqueles ali reunidos, eu prometi solenemente a Deus..."
 v_kru0546
-"...to pass my life in purity and to practise my profession faithfully.
+"Que viveria minha vida na pureza e exerceria minha missão fielmente.
 v_kru0547
-I will abstain from whatever is deleterious and mischievous, and will not take or knowingly administer any harmful drug.
+Irei me abster de tudo que seja venenoso ou prejudicial, não farei uso de qualquer droga maléfica, mesmo estando ciente de seus efeitos, não os recomendarei a ninguém.
 v_kru0548
-I will do all in my power to maintain and elevate the standard of my profession...
+Farei tudo ao meu alcance para preservar e elevar os padrões do meu dever.
 v_kru0549
-...and will hold in confidence all personal matters committed to my keeping and all family affairs coming to my knowledge in the practice of my calling.
+No cumprimento do meu dever, tudo e qualquer coisa que eu souber sobre a vida pessoal de terceiros permanecerá comigo e não revelarei a ninguém.
 v_kru0550
-With loyalty will I aid the physician in his work, and as a missioner of health, I will dedicate myself to devoted service for human welfare."
-The pledge I solemnly etched upon my heart was my pride and desire.
-I swore to become an all-loving apostle of 
+De coração aberto, ajudarei os médicos em seus ofícios e dedicarei minha vida à felicidade daqueles que foram confiados aos meus cuidados."
+Esse juramento, solenemente cinzelado no meu coração, era o meu orgulho e desejo.
+Eu jurei me tornar um apóstolo do 
 vida
 sol
-. I promised to always be ready to serve, regardless of how many sought me.
-Even if light would lead me to death, I wanted my heart to always bear this wing-like mark.
-I wished to be blessed by the endless blue.
-Thus, no matter what became of my body, I never felt like it was torture. I fervently believed that it wasn’t deleterious, mischievous, or harmful, and I didn’t want to act against the pledge.
-My bliss was proof of the light’s good nature. The joy it filled me with overcame the pain and made me forget the fear.
-For others’ sake, for my sake, and for the sake of all those who were suffering, I wished to walk a path shining with light.
-I would become wings that could take to the sky ― my ideal.
-Into the pale, blue, boundless horizon and beyond the world itself.
-And exactly because I wished to fly, I wished to feel what it meant to be truly burned by the 
+, amada por todos, procurada por todos e a servir a todos.
+Mesmo que me conectasse à morte, eu queria que meu coração estampasse essas asas.
+Ser abençoada pelo interminável céu azul.
+Por isso, independentemente do que acontecesse com meu corpo, eu nunca pensei nisso como uma tortura. Nunca pensei nisso como um veneno, algo prejudicial, muito menos algo maligno... e não acredito que tenha ido contra meu juramento.
+A prova disso era a minha felicidade. A alegria que preenchia meu peito fazia com que eu superasse toda dor e esquecesse meus medos.
+Pelos outros, por mim mesma, e pelo bem de todos que estavam sofrendo, eu queria percorrer um caminho iluminado pela luz.
+Tornar-me asas e levantar voo em direção ao céu ― rumo ao meu ideal.
+Em direção ao céu azul-claro que se estendia a perder de vista... e para além do próprio mundo.
+E, justamente por causa desse meu desejo de voar, eu queria sentir o que significava ser queimada pelo 
 luz
 amor
- light ― the love ― that only angels experienced.
-I believed that only then would I find the true significance of my life.
-After all...
-Those who were angelic were defined by...
+ que somente os anjos podiam experimentar.
+Eu acreditava que, somente nesse momento, eu poderia encontrar o verdadeiro significado da minha vida.
+Isso porque...
+A definição daqueles que podem ser considerados anjos...
 v_kru0551
 "Wilhelm..."
-With you in my mind, I continued to dream.
-You were the only other child of Noah I’d ever met.
-I saw my ideal in you, and I felt the hand of fate at work as we spent time together.
-I dreamed, day in and day out.
-I couldn’t explain it well, but I was very certain of one crucial fact.
-You would someday become a true miracle.
+Pensando em você, eu voltei a sonhar.
+O primeiro e único albino que conheci, além de mim; outro filho da noite.
+Eu vi em você o meu ideal e senti que nosso encontro era obra do destino.
+Continuei a sonhar todos os dias.
+Embora eu não consiga explicar muito bem, eu estava convicta disso.
+Eu tinha certeza de que um dia você se tornaria um milagre.
 v_kru0552
-"You wish to find your sanctuary... do you not?"
-We were akin to one-winged angels.
-You were my other wing, and I revered the light because I wanted to become yours.
+"Deseja encontrar seu santuário... não quer?"
+Nós éramos como anjos de uma só asa.
+Você era minha outra asa, e eu reverenciava a luz porque queria me tornar a sua.
 v_vir0707
 "............"
 And so, I woke up to find myself spread out on the ground. There were wounds all over me and I could barely even move a muscle.
@@ -6577,7 +6577,7 @@ v_vir0716
 "Tô de volta. Tá aí, imbecil?"
 I acted menacing, like I was picking a fight or something, but what I got was a belated expression of surprise.
 v_kru0360
-"Huh, wha...? O que aconteceu com você, Wilhelm?"
+"Ei, hã...? O que aconteceu com você, Wilhelm?"
 v_vir0717
 "...Hã?"
 What the hell, she was actually acting the same as always. It was so anticlimactic it filled me with relief and exasperation, though primarily the latter. Claudia exaggeratedly covered her mouth and looked at me with bewilderment.
@@ -6743,10 +6743,10 @@ Como esperado
 , nos encontramos novamente."
 A fala do indivíduo denotava certa hospitalidade direcionada a mim.
 Não, mais precisamente, ele não estava se dirigindo a mim, mas 
-ao individuo que eu estava hospedando. 
+ao indivíduo que eu estava hospedando. 
 Eu estava meramente tendo um vislumbre de suas memórias.
 v_rut0168
-"Sim, já faz uns duzentos anos anos, Mercúrio. Agora é “Cagliostro”, correto?"
+"Sim, já faz uns duzentos anos, Mercúrio. Agora é “Cagliostro”, correto?"
 v_rut0169
 "Parece ter se divertido muito na corte. Aquele tal de St. Germain era você, não? Também era assim na época do 
 Paracelso
@@ -6754,22 +6754,22 @@ Hohenheim
 . Gosta mesmo de aparecer a troco de nada.
 v_rut0170
 Transformou em um hábito ignorar a própria idade e atiçar o caos à sociedade mundana? Bom, de certa forma preciso agradecer, afinal permitiu que eu pudesse encontrá-lo sem esforço."
-Este foi um sonho que tive, não como Claudia Jerusalem, mas através da visão dele.
-Um sonho sobre vagar pelo mundo ao decorrer de tantos anos ao ponto atingir a exaustão.
+Este foi um sonho que tive, não como Claudia Jerusalem, mas por meio da visão dele.
+Um sonho sobre vagar pelo mundo ao decorrer de tantos anos a ponto de atingir a exaustão.
 Eu estive sonhando com isso a semana inteira, e esse era mais um desse sonhos.
 v_mrk0121
 "Devo reconhecer que trata-se de um hábito. Demandaria muito tempo para explicar essa minha natureza, mas ao menos posso revelar que devo estar sempre na busca de experimentar algo que seja potencialmente novo para mim.
 v_mrk0122
-Minha relação convosco está diretamente atrelada a tal. Meu desejo era que a pouco influência que exerci sobre você pudesse revelar-me um cenário a mim desconhecido.
+Minha relação convosco está diretamente atrelada a tal. Meu desejo era que a pouca influência que exerci sobre você pudesse revelar-me um cenário a mim desconhecido.
 v_mrk0123
 Portanto, diga-me, Matusalém: qual a razão que o fez buscar por mim."
-Foi lhe ensinado que tipo de ser ele era; compreendeu que sua errância perpetuaria até o fim dos tempos e tomou conhecimento de que o fim estava para chegar muito em breve.
-Tal qual, ele buscou por um significado na vida ―  na qual poderia apontar com digno de sua existência e alcançar a plenitude.
+Foi-lhe ensinado que tipo de ser ele era; compreendeu que sua errância perpetuaria até o fim dos tempos e tomou conhecimento de que o fim estava para chegar muito em breve.
+Tal qual, ele buscou um significado na vida ―  no qual poderia apontar como digno de sua existência e alcançar a plenitude.
 Nesse sentido, ele se parecia comigo.
 v_rut0171
 "Razão? Algo deveras simples. Finalmente descobri a forma do sonho pelo qual anseio.
 v_rut0172
-Mercúrio, venho até ti para informar-lhe e pedir por certa cooperação. Apesar de minha longevidade, não estou familiarizado com o poder dos feiticeiros. 
+Mercúrio, venho até ti para informar-te e pedir por certa cooperação. Apesar de minha longevidade, não estou familiarizado com o poder dos feiticeiros. 
 v_rut0173
 Não busco nada grandioso. Meramente desejo que conceda a mim um pouco de conhecimento relacionado aos triviais detalhes do manuseio."
 v_mrk0124
@@ -6777,16 +6777,16 @@ v_mrk0124
 Ele estava em busca de algo, e a magia nada mais era do que um meio para seus fins. Por outras palavras, a magia era 
 absolutamente necessária  
 para a completa realização de seu desejo.
-Mas do que tratava? Que tipo de salvação ele buscava?
+Mas do que se tratava? Que tipo de salvação ele buscava?
 A resposta era muito simples e concisa.
 v_rut0174
-"Uma companhia. Eu desejo por uma parceira.
+"Uma companhia. Eu desejo uma parceira.
 v_rut0175
-Por outras palavras, uma entidade que possa atuar como minha oposição. Não consigo suportar a nosso de que permanecerei só até o fim, sem nunca encontrar alguém com quem possa me relacionar."
+Por outras palavras, uma entidade que possa atuar como minha oposição. Não consigo suportar a noção de que permanecerei só até o fim, sem nunca encontrar alguém com quem possa me relacionar."
 v_rut0176
-"Busco salvar e ser salvo pela confirmação de que existi pelo bem dessa pessoa.
+"Busco salvar e ser salvo pela confirmação de que existo pelo bem dessa pessoa.
 v_rut0177
-A escuridão, por si só, não detêm de sentido nem propriedade. Somente com a existência da luz que a escuridão torna-se substancial."
+A escuridão, por si só, não detém de sentido nem propriedade. Somente com a existência da luz que a escuridão torna-se substancial."
 v_mrk0125
 "E oposto também se faz verdadeiro."
 v_rut0178
@@ -6797,20 +6797,20 @@ v_rut0180
 Um sol perpétuo, puro e cristalino que resplandeça como a encarnação de um louvor à vida. Minha alma gêmea precisa conhecer a escuridão, permitir minha existência e ser detentora de uma resplandecência absolutamente plena. Somente alguém com tais qualidades seria adequada a mim."
 Por isso, ele assim declarou, como se estivesse a realizar um juramento, tal qual um santo ofertando suas preces.
 v_mrk0126
-"Então, o que de mim deseja é meu auxilio em sua busca?"
+"Então, o que de mim deseja é meu auxílio em sua busca?"
 v_rut0181
 "Não se trata disso. Como bem disse, a casualidade atrelando luz e sombra é forte e profunda ― a correlação das leis da natureza.
 v_rut0182
-E tendo em vista que eu trilho meu caminho senciente, eventualmente há de sermos naturalmente atraídos. Não tenho dúvidas quanto a isso.
+E, tendo em vista que eu trilho meu caminho senciente, eventualmente há de sermos naturalmente atraídos. Não tenho dúvidas quanto a isso.
 v_rut0183
-O que quero de você é uma forma de prolonga a vida de minha companhia."
+O que quero de você é uma forma de prolongar a vida de minha companhia."
 Minha respiração chegou a cessar no momento em que ouvi a resposta.
 Será que seria ele...?
 Então a “luz” que mencionou seria...
 v_rut0184
 "Isso porque meu desejo não é apenas encontrar minha companheira. Quero passar todo tempo que me resta ao lado dela até o último dia.
 v_rut0185
-O mundo morrerá muito em breve. Esse é um fato consumado. Contudo, é equivocado aplicar a percepção de tempo humana quanto falamos sobre nossas medidas temporais.
+O mundo morrerá muito em breve. Esse é um fato consumado. Contudo, é equivocado aplicar a percepção de tempo humana quando falamos sobre nossas medidas temporais.
 v_rut0186
 Expressões como “só mais um pouco” ou “só um instante”... podem facilmente perdurar por mais de um milênio. Afinal, já se passaram duzentos anos desde nossa última conversa.
 v_rut0187
@@ -6822,7 +6822,7 @@ v_mrk0128
 v_mrk0129
 Justamente em decorrência da sua própria natureza longeva, você acaba por encontrar dificuldade em compreender o básico, tal qual um passarinho que desconhece os meios e esforços que envolvem voar pelo céu.
 v_mrk0130
-Deténs de uma ancianidade natural, de modo que desconhece como aqueles com vidas tão breves atingem a longevidade."
+Deténs de uma ancianidade natural, de modo que desconheces como aqueles com vidas tão breves atingem a longevidade."
 v_rut0188
 "Precisamente? Então? O que me diz?"
 Eu estava interessada na resposta, mas não queria ouvi-la.
@@ -6833,15 +6833,15 @@ v_mrk0131
 v_mrk0132
 Esqueceste nosso primeiro encontro? Você mencionou algo naquele dia.
 v_mrk0133
-“Houve um tempo que tentei compreender e reproduzir conceitos que sentia estarem próximos de mim.” 
+“Houve um tempo em que tentei compreender e reproduzir conceitos que sentia estarem próximos de mim.” 
 v_mrk0134
 Só precisa fazer o mesmo mais uma vez."
-Por exemplo, nachzehrer ― reles criaturas sanguessugas que rastejam pela solo. Aqueles enterrados com tamanha antecedência... cadáveres ambulantes e afins.
+Por exemplo, nachzehrer ― reles criaturas sanguessugas que rastejam pelo solo. Aqueles enterrados com tamanha antecedência... cadáveres ambulantes e afins.
 Ah... ele só pode estar se referindo a uma única coisa...
 v_rut0189
 "Está dizendo para cobrir-me novamente com uma pele falsa?"
 v_mrk0135
-"Dizem que os idosos devem ser guiados pelas crianças. Embora nada mais do que ilusões nascidas da adoração pela escuridão divina, não devemos menospreza-las.
+"Dizem que os idosos devem ser guiados pelas crianças. Embora nada mais sejam do que ilusões nascidas da adoração pela escuridão divina, não devemos menosprezá-las.
 v_mrk0136
 Também são filhos de Matusalém. E, justamente por isso, não é absurdo que meu conhecimento superficial deixe a desejar.
 v_mrk0137
@@ -6854,22 +6854,22 @@ mudar
  sua alma gêmea e se tornará completo. E assim, meramente descartar sua pele, talvez até oferecendo-a pelo trabalho bem feito."
 Uma secura imensurável ― a conversa deles fez com que minha garganta secasse.
 Algo que eu queria beber desesperadamente me veio à mente, eu eu senti que poderia acabar perdendo o controle.
-Meu pescoço esquentou e palpitou violentamente. Ali encontrava-se todas as respostas.
+Meu pescoço esquentou e palpitou violentamente. Ali encontravam-se todas as respostas.
 Eu o arranhei involuntariamente antes de arrancar as bandagens que o cobriam.
 v_kru0392
 "Tá quente...!"
-Meu pescoço exposto  exposed neck had an inflamed, messy wound on it. Parecia como se tivesse sido mordido por uma fera. a way, it felt indecent, and it was the proof that fangs had pierced into me.
-It pulsated and wriggled like a second heart.
+Havia feridas grotescas no meu pescoço exposto. Pareciam mordidas de uma fera; rasgos na carne que chegavam a ser obscenos. Aquela era a prova de que caninos haviam sido cravados em mim.
+Pareciam um segundo coração, pulsando e se contorcendo em seu próprio ritmo.
 v_kru0393
 "Eu... Como...?!"
 Como demorei tanto para perceber tamanha anomalia?
-Talvez por que eu não quisesse preocupá-lo? Por que pensei que ele ficaria zangado? Ou talvez porque não pensei que fosse algo com que precisasse me preocupar?
+Talvez porque eu não quisesse preocupá-lo? Por que pensei que ele ficaria zangado? Ou talvez porque não pensei que fosse algo com que precisasse me preocupar?
 Não, não... eu definitivamente sabia. E, mesmo sabendo, mantive em segredo.
 v_kru0394
 "Eu tive um sonho..."
 E ainda estava sonhando.
 Sempre aguardei avidamente sua chegada e tinha aversão a despertar.
-Secretamente, mas com toda certeza, eu aceitaria as mudanças e aguardaria ansiosa pelo futuro que encontrava-se além.
+Secretamente, mas com toda certeza, eu aceitaria as mudanças e aguardaria ansiosa pelo futuro que se encontrava além.
 Por alguma razão, eu acreditava que esse sentimento que brotava dentro de mim e o incontrolável fluxo de emoções iriam guiar-me ao meu santuário.
 v_kru0395
 "Foi porque senti que poderia me aproximar de você."
@@ -6878,19 +6878,19 @@ Eu saí correndo às pressas para fugir de tamanho embaraço, embora soubesse qu
 indo
 na direção de algo mais.
 Eu estava sendo chamada. Podia ouvir uma voz dizendo “venha por aqui”.
-Diante dos meus expandia-se uma escuridão profunda a perder de vista.
+Diante de mim expandia-se uma escuridão profunda a perder de vista.
 Como se eu estivesse voando nos braços de alguém...
 v_rut0191
 "Muito bem. Se esse é o trajeto mais racional, não hei de contraria.
 v_rut0192
 Pelo bem de minha amada, não hesitarei em ser maculado. Algum problema? Por qual razão está rindo?"
 v_mrk0139
-"Por nada... apenas me dei conta do quão parecido somos. Outro dia desses eu encontrei minha deusa, sabia? E a ela jurei oferecer tudo de mim.
+"Por nada... apenas me dei conta do quão parecidos somos. Outro dia desses eu encontrei minha deusa, sabia? E a ela jurei oferecer tudo de mim.
 v_mrk0140
 A conclusão pela qual buscamos é ligeiramente divergente. Contudo, não vamos nos apegar aos detalhes, pois irei apoiá-lo de qualquer forma."
 v_mrk0141
-"Pois bem, lhe presentearei com isto. A celebratory gift for the one who will soon appear and become Matusalém’s bride."
-I couldn’t tell what it was that he gave him.
+"Pois bem, lhe presentearei com isto. Para aquela que, em breve, tornar-se-á a noiva de Matusalém..."
+Eu não consegui discernir o que havia sido entregue a ele.
 v_mrk0142
 "É bom que aceite. Tenho certeza de que cairá bem nela."
 v_rut0193
@@ -6905,10 +6905,10 @@ A pulsação ao redor do meu pescoço estava me arrastando para a escuridão.
 v_kru0398
 "Está superestimando meu valor! Não preciso disso...!"
 Eu apenas amo a luz, quero ser banhada por ela e tê-la concedida a mim.
-That was all there was to it.
-I pled for him to return me to what I was.
-Yet the answer to that materialized itself as dark wings that embraced the entirety of my being.
-Even the subtle pain running in my neck.
+Era assim que eu pensava.
+E implorava para que ele me permitisse voltar a ser assim.
+Mas sua resposta se materializou como asas da escuridão, envolvendo-me por completo.
+Até mesmo a tênue dor que corria pelo meu pescoço...
 v_rut0195
 "Vamos andar juntos até o dia em que tudo termine."
 Eu lentamente desapareci naquele redemoinho torrencial de escuridão. 
@@ -6925,7 +6925,7 @@ v_vir0740
 Só um lugar me veio à mente. Eu dei meia-volta e comecei a correr em direção à igreja.
 Em termos de distância, não levaria nem 3 minutos. Não iria demorar para alcançá-la.
 Por isso, a parte importante era o que viria depois. Eu precisava pensar no que faria depois que a encontrasse.
-Sendo mais específico, precisava pensar no que eu queria fazer, estabelecer um plano de ação e ir até o fim. E depois de considerar rapidamente, uma única coisa me veio à mente.
+Sendo mais específico, precisava pensar no que eu queria fazer, estabelecer um plano de ação e ir até o fim. E, depois de considerar rapidamente, uma única coisa me veio à mente.
 v_vir0741
 "Você não é porra de uma santa? Não vou deixar que vire algo assim."
 What circumstances and thoughts made her go for my blood didn’t matter to me one bit. That wasn’t the first thing I had to care about.
@@ -7214,7 +7214,7 @@ v_vir0755
 "Ghhh, ghah...!"
 It was a downright explosive feeling of resurrection. I quickly raised my upper body up from the floor.
 v_bat0206
-"Are you awake?"
+"Está acordado?"
 v_vir0756
 "Gh... You’re..."
 The first thing I saw was Beatrice. I was still in the cathedral, just as I remembered, and this woman was looking at me with evident displeasure in her expression.
@@ -9706,8 +9706,8 @@ I couldn’t see it as a convenient turn of events. Beatrice only came because s
 If I told her what happened, she would’ve probably killed me. But honestly, I wasn’t too averse to going wild against her.
 At the very least, it was way more tasteful than having to worry about dying to the fucking cold or a bear.
 v_vir0973
-"Hey! Right here! Get over here, you shitty little bitch!"
-I raised my voice and shouted while trying to bear the pain shooting through my body.
+"Ei! É por aqui, aqui! Vem logo, baixinha de merda!"
+Eu elevei a voz e gritei enquanto tentava suportar a dor que se amplificava por todo o meu corpo.
 E então...
 v_vir0974
 "E aí, Cristof. Há quanto tempo? Fiquei sabendo de umas coisas."
