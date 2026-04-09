@@ -14,7 +14,7 @@ Para informações detalhadas sobre como traduzir jogos que utilizem a engine Ma
 
 # Progresso
 
-Cerca de 50%
+Cerca de 60% - Expectativa de fazer 70%
 
 Ao todo, são 6154 linhas de texto em si totalizando 740MB
 
