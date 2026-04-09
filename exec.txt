@@ -6475,107 +6475,107 @@ Nós éramos como anjos de uma só asa.
 Você era minha outra asa, e eu reverenciava a luz porque queria me tornar a sua.
 v_vir0707
 "............"
-And so, I woke up to find myself spread out on the ground. There were wounds all over me and I could barely even move a muscle.
-At the very least, I was certain I was still alive, but I had no memory of what’d happened after that moment during the fight.
-I actually didn’t mind all that much. After all, it meant that I’d climaxed so hard that I’d completely forgotten everything. Even if my head didn’t remember what happened, my body sure did. The pain and wounds all over it were more than enough proof of what went down.
-Just that once, I really didn’t care how the battle turned out. Instead, I just wanted to burn my soul. Nothing else mattered. It was pretty damn clear that I went all out and did whatever I wanted, so everything else was an afterthought.
-After all, I knew I’d have plenty more chances to settle the score with those assholes, so I figured I could just leave it for later and be satisfied with the knowledge that I’d succeeded.
-The moment I thought that...
+E então, quando me dei conta, eu estava esparramado no chão. Meu corpo todo estava repleto de ferimentos e não conseguia nem me mexer direito.
+Ao menos, eu tinha certeza de que ainda estava vivo, mas não conseguia lembrar nada do que havia acontecido.
+Bom, a verdade é que eu também não me importava. Afinal, para ter esquecido completamente, eu devo ter atingido o clímax. Mesmo que a cabeça não lembrasse, meu corpo lembrava, e a prova disso era a dor das feridas e fadiga.
+Pouco importa como aquela luta terminou ou quem venceu. Naquele dia, o que eu queria era queimar almas e só. Estava mais do que visível que eu havia feito o que queria, e todo o resto era completamente insignificante.
+Afinal, eu ainda teria inúmeras oportunidades para acertar as contas com aqueles dois, por isso resolvi deixar essa história pra depois e me dei por satisfeito, tendo cumprido meu objetivo.
+Era o que eu pensava, até que...
 v_mrk0100
-"Despertas-te, Bey?"
+"Despertaste, Bey?"
 v_vir0664
 "............"
-A man’s voice stopped me from enjoying the pleasant remnants of my exaltation and pulled me back to reality. Not caring about the pain, I jumped back up on my feet.
+A voz de um homem jogou um balde de água fria que me impediu de aproveitar os vestígios da êxtase e me trouxe de volta à realidade. Eu levantei na hora, sem ligar pra dor.
 v_vir0708
-"Ghah... You shit."
+"Ghah... Desgraça!"
 v_mrk0101
-"Oh my. Why force yourself so? I must say, you are in quite an awful state. Merely looking at you pains me dearly."
+"Ora, não extrapole seus limites. Está em um estado bem lamentável, sabia? Sinto dor só de olhar para você."
 v_mrk0102
-"I do understand that you might wish to expire in the castle, but the preparations for that have yet to be completed. Thus, if you were to die here, it would be in vain."
+"Compreendo que morrer no castelo é seu desejo mais profundo, contudo os preparativos ainda não foram concluídos. Portanto, sendo bem direto: não morra em vão."
 v_mrk0103
-"There is no guarantee that you would become akin to Machina, and even if you did, your state would be unstable. This place, after all, exists only because of His Excellency the Gold’s Criação."
+"Não posso garantir que se tornará como o Machina e, mesmo que isso ocorra, ficará instável. Afinal, tudo aqui existe solenemente devido à Criação da Vossa-excelência o Ouro."
 v_mrk0104
-"It would vanish if it were canceled, and it is not quite enough to be called immortality. In the first place, not even the Gold himself is in that realm yet."
+"Acabaria por desaparecer se fosse rescindida, e considerar como sendo “imortal” beiraria a ingenuidade. Afinal de contas, nem mesmo o próprio Ouro chegou a tal patamar ainda."
 v_mrk0105
-"As he is now, Reinhard Heydrich is but a man. Although this might sound irreverent of me, he is as prone to death and murder as we all are. And if that came to pass, his legion would fall with him."
+"No momento, Reinhard Heydrich não passa de um homem comum. Se me permite cometer tal blasfêmia, ele pode morrer ou ser morto como qualquer outro. E, no momento em que acontecer, sua Legião cairá junto dele."
 v_mrk0106
-"The immortality you seek is not so fleeting, no?"
+"Imagino que a imortalidade pela qual busca não é tão transtória a esse ponto?"
 v_vir0709
-"...Shut up."
-I somehow became able to open my mouth and speak, and the first thing I said was an attempt to end the exchange. I didn’t give a shit about absurd scenarios where Lorde Heydrich died, and I didn’t care about all the other small details, either.
+"...Cala a boca."
+Eu dei um jeito de abrir a boca e falar para interromper aquela conversa fiada logo de cara. “O Lorde Heydrich vai morrer?” Esse cenário é tão improvável que eu nem dei ouvidos, e também não estava nem aí para os pormenores.
 v_vir0710
-"I’m fucking fed up with you. Fuck off. Quit getting involved with me already."
-Nothing good could come from dealing with him. Worst case scenario, you’d get a curse for life.
+"Eu já tô de saco cheio de você! Some daqui, e para de ficar se metendo comigo."
+Nada do que ele falava prestava. O melhor que vai ganhar falando com aquele desgraçado é alguma maldição.
 v_vir0711
-"I’m not the loser you said I was. I’m a taker, and I get everything I want."
-When he’d given me the "Kaziklu Bey" alias, he’d also claimed that I would never gain anything ― that the people I desired would always slip out of my grasp.
-I didn’t like, accept, or acknowledge that. I even felt like he was just picking a fight back then...
+"Não sou o perdedor que tá insinuando. Estou do lado que afana e meto a mão em tudo que quero."
+“Você nunca colocará as mãos em nada. Tudo que desejar escapará do seu alcance.” ― Essa foi a maldição que ele me jogou quando me deu o nome de “Kaziklu Bey”.
+Nunca me desceu, nunca acreditei e nunca admiti. Naquela hora, eu achava que ele tava implicando comigo...
 v_mrk0107
-"How obstinate. Then again, only you may decide what you believe or not."
+"Tamanha teimosia. Todavia, é livre para acreditar ou não."
 v_mrk0108
-"But are you unaware that defining yourself as a ’taker’ means that you are aware of your hunger?"
+"Mas definir a si como alguém que “afana” não significa reconhecer que está ciente de sua fome?"
 v_mrk0109
-"Heed this, Bey. Those who take are those who have things taken from them. They 
-want
- precisely because they 
-lack
- so much."
+"Permita-me lhe dizer apenas uma coisa, Bey. Aqueles que afanam são os que seguem sendo afanados. Eles tanto 
+querem
+ justamente porque tanto lhes 
+falta
+."
 v_mrk0110
-"Those satisfied with what they have would never reach out for anything outside."
-He formed an implicative smile. I couldn’t tell whether it was an expression of ridicule or pity.
+"Aqueles satisfeitos com o que tem jamais alcançaram o que está além."
+Ele esboçou um tênue sorriso ao dizer isso. Eu não soube dizer se estava zombando de mim ou estava com pena.
 v_mrk0111
-"It is the nature of Hegemony. In a broad sense, this can be said for everyone else, including His Excellency the Gold himself."
+"É a natureza da Hegemonia. Generalizando, é algo que pode ser dito tanto de você quanto dos demais, e a Vossa Excelência, o Ouro, não é exceção."
 v_mrk0112
-"And that is why I am giving all I am to help us all break out of this plight. To that end, you must first acknowledge yourself. Nothing will begin until you do."
+"Tal qual, estou exaurindo todos os meios para ajudá-los a superarem esse carma. Portanto, o primeiro passo é reconhecer a si próprio. Nada terá início até que o faça."
 v_mrk0113
-"I cannot say I know what happened between you and the girl, but if you truly wish to take her, then I regret to inform you that you will never impress her as you are now."
+"Desconheço qualquer coisa que tenha acontecido entre você e aquela garota, mas, se realmente está cogitando afaná-la, lamento informar que nunca irá impressioná-la da forma como está."
 v_mrk0114
-"Nothing good can come from leaving your dearest alone for three whole days."
+"Nada de bom acontece quando deixa a mulher que está a fim sozinha por três dias."
 v_vir0712
-"Huh... What? Hold on!"
-One of the things he said made me open my eyes wide.
+"Hã...? Quê? Espera aí!"
+Essa foi a única coisa que prestei atenção e respondi arregalando os olhos.
 v_vir0713
-"Three days?"
+"Três dias?"
 v_mrk0115
-"Indeed. Were you unaware? A whole three days have passed since the three of you began playing your games here."
+"Correto. Não se deu conta? Já se passaram três dias desde que vocês começaram a brincar aqui."
 v_mrk0116
-"Growing ignorant of your surroundings when immersed is a truly bad habit to have. Your games continued up until the Gold made you cease approximately half a day ago. In a way, that is excellent proof of your compatibility with Gladsheim, but..."
-If I just stayed there, he’d have kept talking for hours on end. And so, I ignored my creaking body, stood up, and began walking away.
-Ignoring all his bullshit about her being my "dearest" or whatever, leaving the idiot alone for three whole days wasn’t good, so I had to return as quickly as possible.
+"Ignorar o mundo ao seu redor quando está imerso em algo é um péssimo hábito. A disputa de vocês seguiu até meio dia atrás, quando a Vossa Excelência, o Ouro, apareceu para dar um basta. Bom, ao menos essa é uma excelente comprovação da sua combatividade com Gladsheim, embora..."
+Se eu deixasse, ele iria ficar falando pra sempre, por isso ignorei o ranger do meu corpo, me levantei e saí andando.
+Deixando pra lá aquele papo furado de “mulher que estou a fim”, é fato que deixar aquela idiota sozinha por três dias era uma péssima ideia, e eu precisava voltar o quanto antes.
 v_mrk0117
-"Splendid. Most excellent. You have to be sincere with women. You never know what might happen, after all."
+"Esplêndido. Verdadeiramente esplêndido. É preciso ser sincero com mulheres. Nunca se sabe o que pode acontecer."
 v_mrk0118
-"His Excellency the Gold has finally decided to chase after Cristof. In fact, that was why he called for Machina and Schreiber, but there is no telling whether things will go as planned."
+"A Vossa Excelência o Ouro finalmente decidiu ir atrás do Cristof. Justamente por isso que ele veio convocar Machina e Schreiber, mas não há garantias de que sairá conforme planejado."
 v_mrk0119
-"Oh, truly, the future is as dark as always. Fhahah, hahahahahahah."
-I had no idea who he was talking to. I knew it was fucking nonsense, but I didn’t even feel like telling him to shut up.
-That aside, I was feeling somewhat uneasy. Counting the three days I’d spent fighting, it had been a week since Claudia’s mysterious recovery.
-Convenient numbers like that were always meaningful, especially when the calendar was involved.
-I wanted to laugh it off as superstition, but I was actually overcome by a sense of danger I found difficult to describe.
-I felt like I had to go to Claudia and see her as soon as possible.
-As if to get rid of the unpleasant laughter behind me, I dashed out of the arena and headed back to my place.
-But when I neared my destination, I noticed my legs suddenly grew heavy.
-No, it wasn’t because of the injuries. Sure, the price I paid for fucking around for three days straight was huge, and it wouldn’t heal easily, but there was another reason.
-Basically, as silly as it seems, I just had no idea what I was supposed to do upon seeing her. It would’ve been cool if she were as fine as always, but I had no idea what to do after that.
-The shitty memories I’d forgotten ’cause of the playtime began flowing back to me. The last time we met, she was mad at me. So what, was I supposed to apologize to her or something?
-Fuck that. I didn’t do anything wrong. 
-She
- was the one who’d misunderstood the situation, and it was 
-her
- fault for falling for some shitty acting.
-So, if anyone had to apologize here, it was her, without a doubt. But if I wanted to have her understand that, I’d have to explain what’d happened back then.
-But doing that would probably annoy me just as badly as having to apologize. It’d make me feel like I was making excuses, which’d piss me off something fierce.
-With all that in mind, I considered acting like nothing happened, but I felt like that attitude wouldn’t work. It would’ve made me seem like I was extremely conscious of it, which would’ve been pretty damn pathetic.
+"Ah, francamente... o futuro está sempre envolto pelas trevas. Fuhaha... hahahahahahah."
+O Mercurius fica o tempo todo tagarelando um monte de coisa redundante e eu fico pensando se ele sabe mesmo com quem tá falando, mas nem vontade de mandar calar a boca eu tive.
+Só que aquilo causou uma agitação estranha no meu peito. Somando os três dias que passei lutando, já tinha se passado uma semanada desde a recuperação misteriosa da Claudia.
+Números redondos assim sempre têm algum significado, especialmente quando envolvem o calendário.
+Eu queria rir por não passar de superstição, mas fui tomado por um senso de perigo que não sei como descrever.
+Simplesmente senti que precisava voltar o mais rápido possível e encontrar a Claudia.
+Com isso em mente, eu saí correndo como se estivesse tentando me livrar daquela risada desagradável às minhas costas.
+Mas minhas pernas pesaram de repente, quando já estava chegando ao meu destino.
+Não tinha nada a ver com os ferimentos. Claro, eu estava pagando o preço por passar três dias fazendo merda, e não era algo do qual eu iria me recuperar tão rápido, mas não foi esse o motivo.
+Por mais bobo que possa soar, eu não fazia ideia do que fazer quando desse de cara com a Claudia. Seria ótimo se ela estivesse a salvo como sempre, mas eu não sabia o que fazer depois.
+As memórias vergonhosas que eu tinha esquecido por ter me passado do ponto começaram a voltar. Ela estava irritada comigo na última vez que nos vimos, mas isso significa que eu deveria me desculpar?
+Até parece! Eu não fiz nada de errado. Foi tudo um mal-entendido da parte 
+dela
+. E é culpa dela por ficar reclamando 
+comigo
+ depois de cair naquele teatrinho imbecil.
+Por isso, se alguém precisa se desculpar, é ela, e somente ela. Mas, mas para fazer ela entender isso, eu teria que explicar o que aconteceu.
+Mas fazer seria tão vexatório quanto me desculpar. Ficaria parecendo que eu estava inventando desculpas, o que me deixaria irritado.
+Por isso, eu cogitei só aparecer como se nada tivesse acontecido, mas chegar com uma atitude dessas provavelmente não funcionaria, já que passei três dias fora. Pelo contrário, ficaria na cara que eu estava incomodado com a situação, e isso seria patético.
 v_vir0714
 "Ah, merda..."
-There didn’t seem to be a good way to handle the situation. Hell, the very fact I was thinking it through was perfect proof of just how shitty this whole thing was. The problem was fucking stupid, but that was exactly what made it so hard to solve.
+Eu estava em uma posição em que simplesmente não tinha saída. Afinal, só de ficar pensando nisso tudo já mostrava que eu tava na merda. Um problema completamente idiota e, justamente por ser idiota que era tão difícil de resolver.
 v_vir0715
 "Foda-se. O que será, será."
-Screw thinking it through. I had no idea what’d happen, but I decided to handle things as they came.
-With that in mind, I walked up to the house and violently opened the door.
+Por isso, simplesmente desisti de pensar de pensar isso. Eu não sabia como acabaria, mas resolvi encarar conforme fosse se desenrolando.
+Com isso em mente, eu arrombei a porta da minha própria casa――
 v_vir0716
 "Tô de volta. Tá aí, imbecil?"
-I acted menacing, like I was picking a fight or something, but what I got was a belated expression of surprise.
+Em resposta aos berros de quem parecia estar ali para comprar briga, veio uma resposta surpresa, após um breve instante de silêncio.
 v_kru0360
 "Ei, hã...? O que aconteceu com você, Wilhelm?"
 v_vir0717
