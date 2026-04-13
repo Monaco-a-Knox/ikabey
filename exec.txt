@@ -6373,10 +6373,10 @@ Esse é um hábito que acabei adquirindo muito antes de me conscientizar do mund
 As irmãs e figuras maternas que tive no convento onde cresci me davam sermão sobre isso diariamente. Imagino que eu deva ter dado muito trabalho a elas.
 Não havia muita prosperidade em um espaço destinado a mulheres, conhecido pela simplicidade e austeridade... Sem contar que os tempos eram outros.
 A derrota na guerra fez surgir muitas viúvas e órfãos que não tinham mais para onde ir, e os conventos, que eram um dos poucos refúgios disponíveis, estavam todos lotados. Sendo bem franca, não havia espaço.
-Para viver lá como uma freira, até mesmo as crianças precisavam trabalhar. É como dizer “Quem não trabalha, não como”... e uma maria-rapaz como eu, que só sabia dar mais trabalho, acabava sendo vista como um fardo.
+Para viver lá como uma freira, até mesmo as crianças precisavam trabalhar. É como dizer “Quem não trabalha, não come”... e uma maria-rapaz como eu, que só sabia dar mais trabalho, acabava sendo vista como um fardo.
 Sem contar que eu ainda tinha uma condição debilitada. Aquelas que apenas tinham ferimentos ou estavam doentes poderiam se recuperar, enquanto o meu caso não tinha cura. Uma limitação congênita a aparente.
 v_kru0538
-"Mas tenho me sentindo muito bem ultimamente. Acho até que já estou me acostumando."
+"Mas tenho me sentido muito bem ultimamente. Acho até que já estou me acostumando."
 v_kru0539
 Eu já não caio mais no sono tão rápido como antigamente. É verdade! Poxa, claro que não estou mentindo."
 A exposição direta ao sol, mesmo que por pouco tempo, fazia mal à minha saúde. Teve um tempo que cheguei a correr o risco de perder a visão, e ter que cuidar de alguém como eu acabava impedindo as freiras de descansar a até dormir.
@@ -6421,7 +6421,7 @@ Mas eu sabia que, bem no fundo, havia outro motivo.
 Uma memória distante que não consigo esquecer, ainda que de um tempo distante que não consigo mais lembrar. O cenário daquela época permanece queimado na minha alma até hoje.
 v_kru0543
 "Nossa... Que lindo!"
-Ver os pássaros batendo suas asas sob céu azul claro, estendendo-se a perder de vista... é uma cena que comoveu meu coração.
+Ver os pássaros batendo suas asas sob céu-azul claro, estendendo-se a perder de vista... é uma cena que comoveu meu coração.
 Suas asas eram cristalinas; tudo em que conseguia pensar era o quão livres e veneráveis eram suas existências.
 v_kru0544
 "São como anjos."
@@ -6435,7 +6435,7 @@ v_kru0545
 v_kru0546
 "Que viveria minha vida na pureza e exerceria minha missão fielmente.
 v_kru0547
-Irei me abster de tudo que seja venenoso ou prejudicial, não farei uso de qualquer droga maléfica, mesmo estando ciente de seus efeitos, não os recomendarei a ninguém.
+Irei me abster de tudo que seja venenoso ou prejudicial, não farei uso de qualquer droga maléfica; mesmo estando ciente de seus efeitos, não os recomendarei a ninguém.
 v_kru0548
 Farei tudo ao meu alcance para preservar e elevar os padrões do meu dever.
 v_kru0549
@@ -6493,13 +6493,13 @@ v_mrk0101
 v_mrk0102
 "Compreendo que morrer no castelo é seu desejo mais profundo, contudo os preparativos ainda não foram concluídos. Portanto, sendo bem direto: não morra em vão."
 v_mrk0103
-"Não posso garantir que se tornará como o Machina e, mesmo que isso ocorra, ficará instável. Afinal, tudo aqui existe solenemente devido à Criação da Vossa-excelência o Ouro."
+"Não posso garantir que se tornará como o Machina e, mesmo que isso ocorra, ficará instável. Afinal, tudo aqui existe solenemente devido à Criação da Vossa Excelência o Ouro."
 v_mrk0104
 "Acabaria por desaparecer se fosse rescindida, e considerar como sendo “imortal” beiraria a ingenuidade. Afinal de contas, nem mesmo o próprio Ouro chegou a tal patamar ainda."
 v_mrk0105
 "No momento, Reinhard Heydrich não passa de um homem comum. Se me permite cometer tal blasfêmia, ele pode morrer ou ser morto como qualquer outro. E, no momento em que acontecer, sua Legião cairá junto dele."
 v_mrk0106
-"Imagino que a imortalidade pela qual busca não é tão transtória a esse ponto?"
+"Imagino que a imortalidade pela qual busca não é tão transitória a esse ponto?"
 v_vir0709
 "...Cala a boca."
 Eu dei um jeito de abrir a boca e falar para interromper aquela conversa fiada logo de cara. “O Lorde Heydrich vai morrer?” Esse cenário é tão improvável que eu nem dei ouvidos, e também não estava nem aí para os pormenores.
@@ -6521,7 +6521,7 @@ querem
 falta
 ."
 v_mrk0110
-"Aqueles satisfeitos com o que tem jamais alcançaram o que está além."
+"Aqueles satisfeitos com o que têm jamais alcançaram o que está além."
 Ele esboçou um tênue sorriso ao dizer isso. Eu não soube dizer se estava zombando de mim ou estava com pena.
 v_mrk0111
 "É a natureza da Hegemonia. Generalizando, é algo que pode ser dito tanto de você quanto dos demais, e a Vossa Excelência, o Ouro, não é exceção."
@@ -6580,163 +6580,163 @@ v_kru0360
 "Ei, hã...? O que aconteceu com você, Wilhelm?"
 v_vir0717
 "...Hã?"
-What the hell, she was actually acting the same as always. It was so anticlimactic it filled me with relief and exasperation, though primarily the latter. Claudia exaggeratedly covered her mouth and looked at me with bewilderment.
-I had no idea what, but something had her act weird.
+Mas que porra? Ela continuava agindo como se nada tivesse acontecido. Foi tão anticlimático que fiquei sem reação e senti um alívio por não conseguir acreditar naquilo. Já Claudia tapou a boca de forma exagerada e arregalou os olhos.
+Sério, o que ela achou que fosse...?!
 v_kru0361
 "Esses ferimento..."
 v_vir0718
 "Hm? Ah... isto?"
-And that was it. Finally understanding her, I lightly waved my hand and acted like it was nothing.
+Basicamente isso; depois de finalmente entender o problema dela, eu acenei de leve, indicando que não era nada demais.
 v_vir0719
-"Don’t mind it. This ain’t a big deal."
+"Nem esquenta. Isso não é nada."
 v_kru0362
-"Of course it is! What are you even saying?!"
+"Claro que é! O que está falando? Poxa!"
 v_kru0363
-"Come here, quick. And take off your clothes."
+"Venha aqui! Rápido! E tire as roupas."
 v_vir0720
-"Wait, I just told you that... Let me go, damn it!"
+"Sério, me escuta... Será que dá pra me esquecer――"
 v_kru0364
-"It’s fine, I can listen to you later. Treatment comes first. Understand?"
+"Vem logo! Conversamos depois. Primeiro vamos tratar isso. Entendeu?"
 v_vir0721
-"H-Hey, stop fucking pulling! It hurts!"
-I wanted to tell her that it’d heal and her treatment didn’t mean shit, but Claudia didn’t seem to be in a listening mood.
-Guess seeing my state gave her an itch she had to scratch. Anyway, she became pushy to the point of coercive and insisted on nursing me.
-I could’ve resisted it, but felt it stupid to do so. Situations like these were best handled by letting her do what she wanted.
-So, despite all my grumbling, I obediently played along.
+"E-Ei! Para de me puxar! Isso dói!"
+Eu queria dizer a ela pra deixar aquilo pra lá, que ia curar sozinho e o tratamento dela não serviria pra nada, mas não pareceu que a Claudia me daria ouvidos.
+Eu fiquei pensando se me ver daquele deu uma dose de adrenalina nela? De qualquer forma, ela tentou se impor sobre mim, insistindo que iria me tratar.
+No fim, eu percebi que seria idiota tentar resistir ali. Nessa horas, a melhor forma de lidar é deixar a pesar fazer o que quer.
+Por isso, apesar de reclamar, eu acabei me comportando...
 v_kru0365
-"Good grief... Just what do you think you’re doing?"
-Because of that, I ended up having to listen to her endless scolding. I was sitting on the floor, while Claudia held a first aid kit in her hand and just did her thing.
+"Francamente... O que acha que está fazendo?"
+Por causa disso, eu acabei sendo obrigado a ouvir os sermões intermináveis dela. Eu sentei no chão enquanto a Claudia segurava o kit de primeiros socorros com uma mão e fazia o trabalho com a outra e seguia falando.
 v_kru0366
-"You aren’t a child, so don’t just run away from home merely because you’re a bit embarrassed. Not to mention that you came back looking like this..."
+"Você não é mais criança, sabia? Será que poderia não fugir de casa só porque ficou envergonhado? E, quando finalmente volta, chega nesse estado..."
 v_kru0367
-"What were you doing these past three days? These aren’t your usual injuries. I even see some gunshot wounds."
+"Afinal, o que esteve fazendo nos últimos três dias? Esses ferimentos são claramente diferente do habitual. Tem até ferimento de tiro..."
 v_kru0368
-"Did you actually go to war?"
+"Não me diga que foi pra guerra, foi?"
 v_vir0722
-"...Well, that ain’t far off the mark."
-I thought of explaining it in detail, but she wouldn’t have understood. And it wasn’t wrong that I’d spent the past three days going through carnage unmatched by most wars.
-It left me with tons of wounds, and though they were gradually healing, they weren’t too pretty at that particular point in time, so it was perfectly reasonable for her to be shocked.
+"...Então, não foi muito diferente disso."
+Ela não entenderia mesmo se eu explicasse detalhadamente. E não era mentira que eu tinha passado os últimos três dias numa carnificina que deixava muita guerra no chinelo.
+E, como resultado, eu saí de lá repleto de ferimentos. Mesmo que eles fossem curando ao longo do tempo, era esperado que a Claudia ficasse espantada.
 v_kru0369
-"I’m at a loss for words. What kind of person goes to war to divert himself?"
+"Estou sem palavras, sabia? Onde já se viu ir à guerra por diversão?!"
 v_kru0370
-"I always knew that you were quite a hopeless person, but it seems I greatly underestimated the extent."
+"Sempre soube que você era um caso perdido, mas... nunca imaginei que chegasse nesse nível."
 v_kru0371
-"Good grief, I don’t even feel like scolding you anymore."
+"Sério... nem ânimo para dar sermão eu tenho mais."
 v_vir0723
-"You’re doing it right now."
-And I didn’t want her telling me I was hopeless. She probably read my mind and formed a self-deprecating smile.
+"Não tá dando agora?"
+“E olha quem dizendo que sou um caso perdido.” ― Ela chegou a esboçar um sorriso depreciativo, como se tivesse lido a minha mente.
 v_kru0372
-"I wanted to apologize when you returned."
+"Eu pretendia me desculpar quando retornasse."
 v_kru0373
-"The fact that you’re making it so troublesome is very vexing. People who don’t behave as you want them to are quite irritating, are they not?"
-That was definitely my line. She tied a bandage around me, making me groan.
+"É frustrante ver que continua resistindo. Pessoas que não agem como você espera são mesmo irritantes, não concorda?"
+Ela apertou as bandagens enquanto resmungava, e me deu vontade de falar “essa fala é minha”, mas acabei só gemendo de dor.
 v_vir0724
-"Huh. What? You wanna apologize?"
+"Hã? Como assim? Quer pedir desculpas?"
 v_kru0374
-"Yes... I feel like I was being too one-sided back at the church."
+"Sim... Sobre o que aconteceu três dias atrás... Sinto que também acabei sendo muito arbitrária."
 v_kru0375
-"This might sound like an excuse, but I wasn’t myself back then. In hindsight, I was rather rash."
+"Vai soar como uma desculpa esfarrapada, mas eu não estava plena naquele dia. Quando penso no que aconteceu, percebo o quanto me precipitei."
 v_kru0376
-"As a nurse, I’ve been taught to always be as impartial as possible, and yet I, well..."
+"Como enfermeira, aprendi a sempre ser o mais imparcial possível e, mesmo assim, eu..."
 v_kru0377
-"I sided with Louie far too much, and I can understand that it wasn’t pleasant for you."
-That name got a stronger reaction out of me, so Claudia continued with a hint of panic in her tone.
+"Fiquei do lado do Louie mais do que deveria, e entendo que isso desagradou você."
+Antes mesmo que eu reagisse ao ouvir aquele nome, a Claudia seguiu falando, apressada.
 v_kru0378
-"Ah, of course, I don’t mean that in a strange way. Like most people in that situation, you might’ve felt that you were suffering many injustices, and since I didn’t consider that, I..."
+"Ah, é claro, não estou falando em um sentido estranho. É uma reação natural; imagino que já tenha se sentido injustiçado muitas vezes... e eu não levei isso em consideração."
 v_vir0725
-"You weren’t fair, Hã?"
+"Não foi justa, é?"
 v_kru0379
-"Yes. I’m so sorry about that."
-I could feel her hang her head behind me, and it made me feel somewhat bad. I did think that she was the one who had to apologize, but despite getting what I wanted, I didn’t feel the least bit refreshed.
+"Não. Sinto muito."
+Eu pude sentir na pele o desânimo dela, o que acabou me deixando desconfortável. Eu pensava que quem precisava se desculpar era ela, e isso meio que acabou acontecendo, mas eu não cheguei a me sentir aliviado.
 v_vir0726
 "O que aquele desgraçado fez depois?"
 v_kru0380
 "Curioso?"
-I nonchalantly continued the conversation just to distract myself, but I didn’t want her answering my question with another question. And what the hell was up with her tone? It was full of some weird anticipation.
-Saying something back to her would’ve been a loss in my book, so I just silently radiated my anger. Claudia persisted for a moment, but then sighed in disappointment.
+Eu estava tentando ser indiferente e ela vem responder minha pergunta com outra pergunta. E, para piorar, ainda falou como se estivesse esperando por algo.
+Eu senti que responder seria como admitir a derrota, então só exalei minha raiva silenciosamente. Ela insistiu por um tempo, até que finalmente suspirou, desapontada.
 v_kru0381
-"He left rather quickly. Nothing happened between us after that."
+"Ele foi embora em seguida. Não chegou a acontecer nada entre nós depois daquilo."
 v_vir0727
-"That’s not what I’m asking."
+"Não perguntei."
 v_kru0382
-"I really wish you were, though."
-As if in protest, she tightened another bandage. This time, I endured it without groaning.
+"Eu queria que tivesse."
+Ela apertou outra bandagem, como se estivesse protestando. Dessa vez eu aguentei sem gemer.
 v_vir0728
-"That guy’s fallen for ya."
+"Aquele cara tá apaixonado por você."
 v_vir0729
-"No fucking clue what he sees in you, but that’s the damn truth, so..."
-Didn’t that mean that her goal had been fulfilled?
-As long as she became somebody’s love, she should’ve been fine. It didn’t have to be me.
-I went and asked her about that.
+"Não faz ideia do que viu de bom em você, mas não tenho mais dúvida disso..."
+Isso não significava que o objetivo dela tinha sido cumprido?
+Contanto que se apaixonasse por alguém, não faria diferença se fosse eu ou qualquer outro.
+Intrigado com isso, eu resolvi perguntar de uma vez.
 v_vir0730
-"Aren’t you satisfied?"
+"Não tá satisfeita?"
 v_kru0383
-"Irrelevant."
-And yet, she not only didn’t give me a proper answer, but also grew sulky.
+"Não lhe diz respeito."
+Ela não quis responder e ainda ficou toda emburrada.
 v_kru0384
-"Why are you even asking that? I struggle to understand."
+"Por que logo você quer saber? Estou com dificuldade de entender."
 v_kru0385
-"What would you have done if I answered ’yes, I am satisfied’?"
+"O que pretendia fazer se eu respondesse “sim”?"
 v_kru0386
-"Is it a turn of events you desire?"
-And again, she answered with another question. It pissed me off, so I radiated more anger, but she didn’t yield this time around.
-In fact, she was getting about as angry as me. It was a weird kind of stalemate.
+"É essa a reviravolta que deseja?"
+De novo respondendo com outra pergunta. Eu já estava de saco cheio disso e exalei ainda mais a minha raiva, mas, dessa vez, ela não cedeu.
+Pelo contrário, ela tava competindo pra ver quem ficava mais irritado. Isso acabou gerando um impasse esquisito.
 v_vir0731
-"Why the hell are you...?"
-Her behavior seemed so fucking pointless.
-I seriously didn’t mind if she was satisfied with just Ludwig’s love. Of course, she’d also have had to fall for him, too, but my plans wouldn’t have changed regardless.
-I had no interest in saintly starfishes that just laid down and accepted death. Sure, there was a difference in whether she lost her innocence to me or him, but the result would’ve been the same.
-In that case, it’d be less like a Romeo and Juliet kind of thing and more like a story where I came in like a paramour and burned their happy home to the ground. And honestly, that would be very "me."
-That was what went on in my head, and I tried to say that I didn’t care, but...
+"Qual é a sua, hein...?"
+Pra mim, aquilo não tinha o menor sentido.
+Eu não estava nem aí se ela estava satisfeita com o amor do Ludwig. Ainda faltaria ela se apaixonar por ele para ficar completo, mas isso não mudaria em nada o meu plano.
+Não curto mulheres passivas que deitam e aceitam a morte feito santas. A única diferença era se eu ou ele que iria tirar a inocência dela, mas o resultado final seria o mesmo.
+Se isso acontecesse, passaria longe de um “Romeu e Julieta” e se pareceria mais com uma história onde eu apareço como amante e acabo com a relação deles... e isso combinaria muito mais comigo.
+Era o que eu pensava, e eu pretendia dizer que não me importava, mas...
 v_vir0732
-"Nope. Wouldn’t like it."
-But my mouth went and said the exact opposite, for some dumb reason.
+"Não, isso não me desce."
+Minha boca se mexeu sozinha, traindo completamente os meus sentimentos.
 v_vir0733
-"You’re mine, Claudia."
-That was a line I’d said many times so far, but this time, there was something more to it.
+"Você é minha, Claudia."
+Essa é uma fala que eu já repeti várias vezes, mas dessa vez ela carregava algo diferente――
 v_vir0734
-"I salvaged your life, so you know who you gotta devote it to."
+"Eu salvei sua vida, e agora precisa se devotar a mim."
 v_vir0735
-"Your body, heart, soul ― give it all to me. 
-I’ll do the same.
+"De corpo, coração e alma――
+Eu farei o mesmo.
 "
-One thing was clear ― the nonsense I was speaking was my true feelings.
+Uma coisa era certa: essa bobagem refletia meus sentimentos mais verdadeiros.
 v_kru0387
-"............"
-I could feel her gasp behind me. She closed the fingers she’d placed on my back, which were lightly shaking.
-The sound of the heartbeat was too damn loud. It was impossible to tell whether it was mine or Claudia’s.
-My throat was dry. I felt hot, and yet I wasn’t leaking a single drop of sweat.
-The abnormalities I’d never experienced before were definitely unpleasant, and I wouldn’t have minded throwing away a few grand to make them go away, but at the same time, I felt like I wanted to feel them forever.
-The contradictory, incoherent emotions made me doubt my own sanity.
+"―――――"
+Deu pra sentir ela segurando a respiração. Ela fechou os dedos que estavam tocando minhas costas e deu para senti-los tremendo de leve.
+Dava para ouvir o coração batendo alto; mas não tinha como dizer se era o meu ou o da Claudia.
+Minha garganta ficou seca e começou a ficar cada vez mais quente, mas não escorreu uma única gota de suor.
+Essa sensação anômala, que até então eu desconhecia, foi extremamente desagradável e, ao mesmo tempo que eu pagaria para me livrar dela, eu também queria continuar aproveitando dela pra sempre.
+Eu cheguei a duvidar da minha própria sanidade diante de sentimentos tão contraditórios e incoerentes.
 v_kru0388
-"............"
-Claudia’s breathing was strangely loud. I felt a hint of dampness as she brought her mouth closer and...
+"......, ......! ......Ah."
+Em meio a tudo isso, dava para ouvir nitidamente a respiração descompensada da Claudia se aproximando das minhas costas e ficando cada vez mais úmida...
 v_vir0736
 "............"
-Her wet tongue traced one of my wounds.
-The hell’d she just do?
+Ela passou a língua em uma das minhas feridas.
+“Que porra tá fazendo...?!”
 v_kru0389
 "Ah..."
-She suddenly yelped and jumped away from me. I turned around and, for the first time ever, saw her scared expression.
+Ela gritou de leve e pulou pra trás, como se estivesse se esquivando. Quando me virei... eu vi em seu rosto uma expressão de medo pela primeira vez.
 v_kru0390
-"I... What...? What did I just...?"
-What did she just do? The answer was clear. And she probably knew that better than anyone.
-There was a hint of my blood around her mouth, so she could surely still feel its taste.
+"Eu... O que eu fiz...?"
+O que ela fez? Tava na cara! E ela sabia melhor do que ninguém.
+Tinha sangue meu nos lábios dela, e o gosto ainda devia estar na boca dela.
 v_kru0391
-"I... I’m sorry! I’m so sorry!"
-As if repenting for her sinfulness, Claudia wiped her mouth, turned around, and rushed out into the dark town, brushing against me in the process.
+"Eu... Sinto muito! Desculpa!"
+Como se estivesse lamentando por seus pecados, ela limpou a boca e se afastou de mim, correndo em direção à cidade escura.
 v_vir0737
-"Wait. What just happened? What the fuck?!"
-At that moment, I really hated my limited vocabulary. I would’ve liked to say something with at least bit of meaning behind it, but it wasn’t like words would’ve done much either, honestly.
-I couldn’t make sense of the situation, but it was obvious that this wasn’t that kind of scene. If I wanted to know the truth, I had to act.
+"Espera aí! O que foi isso? Qual é a tua?!"
+Eu mesmo fico irritado com o meu vocabulário limitado. Eu fico pensando se não poderia ter dito algo um pouco mais substancial, mas também não é como se palavras fossem mudar alguma coisa.
+Aquela situação não fazia o menor sentido, mas ao menos, era evidente que não era momento pra isso. Se eu quisesse alcançar a verdade, só me restava agir.
 v_vir0738
-"Fuck! If this is a joke, then I’m not laughing!"
-I roared, put on some clothes, dashed out of the house, and ran after Claudia.
-I was gonna catch her and ask why the fuck she started acting like a vampire.
-However, once I went out, I couldn’t see her anywhere anymore.
-That just gave me more questions. How could a sickly woman run so damn fast?
-The town was shrouded in a curtain-like darkness.
-For some reason, I felt like it was mocking me.
+"Porra! Não foi engraçado!"
+Eu berrei, me cobri com um casaco e saí correndo atrás da Claudia.
+Eu pretendia agarrar ela e perguntar que merda foi aquela; por que ela resolveu imitar um vampiro do nada?!
+Ao mesmo era o que eu tinha em mente, mas logo que saí pra rua, não consegui avistá-la em lugar nenhum.
+Impossível――como uma simples mulher, e ainda por cima doente, desapareceria assim? Aquilo só me deixou com ainda mais dúvidas.
+A cidade estava coberta por uma espécie de cortina de escuridão viscosa.
+Eu senti como se aquilo estivesse rindo de mim.
 v_mrk0120
 "Seja muito bem-vindo, Matusalém. 
 Como esperado
@@ -6756,7 +6756,7 @@ v_rut0170
 Transformou em um hábito ignorar a própria idade e atiçar o caos à sociedade mundana? Bom, de certa forma preciso agradecer, afinal permitiu que eu pudesse encontrá-lo sem esforço."
 Este foi um sonho que tive, não como Claudia Jerusalem, mas por meio da visão dele.
 Um sonho sobre vagar pelo mundo ao decorrer de tantos anos a ponto de atingir a exaustão.
-Eu estive sonhando com isso a semana inteira, e esse era mais um desse sonhos.
+Eu estive sonhando com isso a semana inteira, e esse era mais um desses sonhos.
 v_mrk0121
 "Devo reconhecer que trata-se de um hábito. Demandaria muito tempo para explicar essa minha natureza, mas ao menos posso revelar que devo estar sempre na busca de experimentar algo que seja potencialmente novo para mim.
 v_mrk0122
@@ -6764,7 +6764,7 @@ Minha relação convosco está diretamente atrelada a tal. Meu desejo era que a 
 v_mrk0123
 Portanto, diga-me, Matusalém: qual a razão que o fez buscar por mim."
 Foi-lhe ensinado que tipo de ser ele era; compreendeu que sua errância perpetuaria até o fim dos tempos e tomou conhecimento de que o fim estava para chegar muito em breve.
-Tal qual, ele buscou um significado na vida ―  no qual poderia apontar como digno de sua existência e alcançar a plenitude.
+Tal qual, ele buscou um significado na vida ―  o qual poderia apontar como digno de sua existência e alcançar a plenitude.
 Nesse sentido, ele se parecia comigo.
 v_rut0171
 "Razão? Algo deveras simples. Finalmente descobri a forma do sonho pelo qual anseio.
@@ -6788,7 +6788,7 @@ v_rut0176
 v_rut0177
 A escuridão, por si só, não detém de sentido nem propriedade. Somente com a existência da luz que a escuridão torna-se substancial."
 v_mrk0125
-"E oposto também se faz verdadeiro."
+"E o oposto também se faz verdadeiro."
 v_rut0178
 "Precisamente. Meu ciclo de vida só terá significado quando eu buscar, desejar e passar o resto dele com um filho da luz."
 v_rut0179
@@ -6853,7 +6853,7 @@ v_mrk0138
 mudar
  sua alma gêmea e se tornará completo. E assim, meramente descartar sua pele, talvez até oferecendo-a pelo trabalho bem feito."
 Uma secura imensurável ― a conversa deles fez com que minha garganta secasse.
-Algo que eu queria beber desesperadamente me veio à mente, eu eu senti que poderia acabar perdendo o controle.
+Algo que eu queria beber desesperadamente me veio à mente, e senti que poderia acabar perdendo o controle.
 Meu pescoço esquentou e palpitou violentamente. Ali encontravam-se todas as respostas.
 Eu o arranhei involuntariamente antes de arrancar as bandagens que o cobriam.
 v_kru0392
@@ -6878,7 +6878,7 @@ Eu saí correndo às pressas para fugir de tamanho embaraço, embora soubesse qu
 indo
 na direção de algo mais.
 Eu estava sendo chamada. Podia ouvir uma voz dizendo “venha por aqui”.
-Diante de mim expandia-se uma escuridão profunda a perder de vista.
+Diante de mim, expandia-se uma escuridão profunda a perder de vista.
 Como se eu estivesse voando nos braços de alguém...
 v_rut0191
 "Muito bem. Se esse é o trajeto mais racional, não hei de contraria.
