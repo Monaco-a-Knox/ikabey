@@ -6928,45 +6928,45 @@ Por isso, a parte importante era o que viria depois. Eu precisava pensar no que 
 Sendo mais específico, precisava pensar no que eu queria fazer, estabelecer um plano de ação e ir até o fim. E, depois de considerar rapidamente, uma única coisa me veio à mente.
 v_vir0741
 "Você não é porra de uma santa? Não vou deixar que vire algo assim."
-What circumstances and thoughts made her go for my blood didn’t matter to me one bit. That wasn’t the first thing I had to care about.
-Thing is, she’d ran away because she’d thought that it was shameful. Clearing up that misunderstanding was way more important.
-After all, if there was one thing I knew well since I was a brat...
+Não me interessava o que passou na cabeça dela para querer o meu sangue. Essa não era, nem de longe, primeira coisa que eu precisava esclarecer.
+O que importava é que ela ficou envergonhada e fugiu por causa disso, e a minha prioridade era resolver esse mal-entendido.
+Ao menos uma coisa eu já sabia desde que era um pirralho:
 v_vir0742
 "Humanos são imundos. Animais de merda."
 v_vir0743
 "E você também é."
-Claudia had to stop acting so fucking innocent. She was basically the apex of bothersome virgins.
-Why the fuck would anyone get flustered about a piece of shit doing something shitty? She did say something about not seeing herself as a big deal, but the sentiment clearly wasn’t strong enough. She was still bothered by appearances and all that crap.
+“Não vem bancar a inocente pra cima de mim! Porra de virgem irritante.”
+“A questão é que não tem sentido ficar envergonhada quando um pedaço de merda faz merda. Fica sempre dizendo que não tem com o que se envergonhar, mas isso não passa de uma maneira de tentar enganar a si mesma e manter as aparências.”
 v_vir0744
-"And that’s why 
-that
- was fucking enough to make you panic. Don’t get full of yourself, damn it!"
-I wouldn’t be disappointed if she showed me her dirtiest, most sinful sides.
-Fuck, if she really wanted to teach me love, then...
+"É justamente 
+por isso
+ que fica desesperada com qualquer coisinha! Aprenda qual é o seu lugar!"
+Eu não ficaria decepcionado se ela me mostrasse o seu lado mais imundo e pecador.
+Pelo contrário, se ela realmente queria me ensinar sobre o amor...
 v_vir0745
-"Quit putting on airs, you dumbass!"
-I had to tell her that no matter what. Mustering my determination, I arrived at the cathedral and kicked the door open.
+"Para de ficar se achando toda!"
+O principal era dizer isso a ela. Determinado, eu cheguei chutando as portas da catedral.
 v_vir0746
 "Claudia!"
-However, what I saw there was...
+E o que eu vi naquela hora...
 v_vir0749
 "............"
-There were two intertwining silhouettes before the altar.
-One of them was Claudia, staring blankly into space with dull eyes and a slightly twitching chin.
-The other was Ludwig, embracing and practically falling into her while burying his face in her neck.
+Havia duas silhuetas sobrepostas sob o altar.
+Uma delas pertencia a Claudia, com o queixo levemente erguido, encarando o vazio com um olhar sem vida.
+E aquela que a abraçava intensamente, caindo sobre ela e afundando a face em seu pescoço.
 v_vir0748
 "Desgraça..."
 O que ele estava fazendo com ela?
 v_kru0401
 "............"
-The scene was so simple and obvious that I actually found it hard to understand. I stood in place as Claudia’s body lightly shook.
-A droplet of blood leaked out of her neck and fell to the floor. It took only a moment, but it felt like an eternity.
+Eu fiquei parado ali, vendo o corpo da Claudia se contorcendo e demorei para entender o que estava acontecendo, mesmo a cena toda sendo tão explícita.
+Os poucos segundos até que aquela gota de sangue escorrendo pelo seu pescoço atingissem o chão pareceram uma eternidade.
 v_rut0196
-"Oh..."
-He slowly raised his face and looked me in the eye.
+"Ah..."
+Em meio a tudo isso, ele ergueu o rosto lentamente e me olhou nos olhos.
 v_rut0197
-"It’s you. Sure took you a while."
-He grinned, giving me a glimpse of his bloody fangs.
+"Ah, é você? Só foi chegar agora?"
+Ele esboçou um sorriso, exibindo um vislumbre dos seus caninos enquanto o sangue escorria pela boca.
 v_rut0198
 "Chegou tarde. Ela é minha agora."
 v_vir0747
@@ -6995,7 +6995,7 @@ With Claudia in his hand, Ludwig rose to the air.
 His cloak spread out like wings and melted into the dark in a way that I couldn’t even see where it began. His own face and hands, too, took on the color of darkness.
 He and it became one and the same. The surrounding dark was him ― much like a limb. It reminded me of a certain concept.
 v_vir0752
-"Uma Criação Transcedente...?"
+"Uma Criação Transcendente...?"
 For something like that, though, it had an absurdly large scale. As I gazed at him, floating in the air, it felt like I was just seeing a humanoid shape on an extremely huge giant.
 In fact, even that comparison was far too weak.
 v_rut0202
@@ -7214,139 +7214,139 @@ v_vir0755
 "Ghhh, ghah...!"
 It was a downright explosive feeling of resurrection. I quickly raised my upper body up from the floor.
 v_bat0206
-"Está acordado?"
+"Acordou?"
 v_vir0756
-"Gh... You’re..."
-The first thing I saw was Beatrice. I was still in the cathedral, just as I remembered, and this woman was looking at me with evident displeasure in her expression.
+"Gh... É tu...?"
+Quando acordei, quem estava ali era a Beatrice. Tudo que eu lembrava era que estava na catedral, e ela estava olhando pra mim com uma cara de desprezo escancarado.
 v_vir0757
-"Why the hell are you...?"
+"WPor que tu tá..."
 v_bat0207
-"Why am I here? Please don’t ask me that. I did not come here because I wanted to."
+"Por que estou aqui? Não é da sua conta. Eu também não estou aqui porque quero."
 v_bat0208
-"In all honesty, I would be quite happy if you died."
-Well, she was basically the same as usual ― no charm at all. But at the very least, thanks to her, my head began working well enough for me to understand the situation.
+"Se quer mesmo saber, eu ficaria muito mais feliz se você morresse."
+Ela seguiu falando as mesmas coisas de sempre, sem qualquer traço de feminilidade. Mas devo admitir que, graças a ela, eu consegui colocar a cabeça pra funcionar e entender a situação.
 v_vir0758
-"...Really, now? Well, guess I owe ya one."
-From what I could tell, she gave me some blood. It was enough to save my ass moments before I withered away.
-Same went for Helga. She was weaker, but not gone yet, meaning that I could still do my thing.
+"...É mesmo? Bom, acho que fico devendo essa."
+Imagino que ela tenha cedido um pouco do sangue dela; o suficiente para me salvar no último segundo antes que eu ressecasse.
+O mesmo para a Helga. Estava enfraquecida, mas não tinha desaparecido. Em outras palavras: eu ainda tinha lenha pra queimar.
 v_bat0209
-"Don’t. Please. As I said, I did not do this because I wanted to."
+"Pare com isso, por favor. Eu já disse: não estou fazendo isso porque quero."
 v_bat0210
-"It was an order. Nothing more, and nothing less."
+"Estou cumprindo ordens. Nada mais, nada menos."
 v_vir0759
-"You’re lying."
-I said that because I more or less understood the situation. Though she was an idiot, she wasn’t just some pawn ready to act out someone else’s will.
+"Mentirosa."
+Eu disse isso porque mais ou menos entendia o que estava acontecendo ali. Embora ela fosse uma idiota, não era uma figura decorativa que só obedecia ordens de cima.
 v_vir0760
-"You’re the type who’d tear up any order you didn’t like, even if it came from Lorde Heydrich himself. Quit the stupid act."
-She’d probably just tell Him that she came here, but she was too late to save me.
-Beatrice wasn’t lying when she said she wanted me dead, but something got her to save me regardless.
-However, I had no idea what.
+"Você é do tipo que cortaria qualquer um pela frente que desse uma ordem que discorda, até mesmo se fosse o Lorde Heydrich. Não vem com esse teatrinho pra cima de mim."
+“Assim como ordenou, eu fui ao resgate do Bey, mas já era tarde demais quando cheguei.” ― Pode apostar que ela falaria isso na maior cara de pau.
+Tenho certeza de que ela não mentiu quando disse que preferia me ver morto, então devia ter uma razão para ela ter me salvado.
+Mas que motivo seria esse?
 v_vir0761
-"Why the fuck did you do it?"
-In response, Beatrice looked away and didn’t give me a direct answer.
+"O que tá fazendo?"
+Questionada, ela desviou o olhar e não respondeu diretamente.
 v_bat0211
-"Ludwig was the one who did that to you, correct? Well, he went on to pick a fight with Lorde Heydrich. We were ordered to chase him."
+"Foi o Ludwig quem fez isso com você, não foi? Ele foi comprar briga com o Lorde Heydrich, sabia? Fomos ordenados a caçá-lo."
 v_bat0212
-"Tell me, what do you think of that?"
+"Seja sincero: o que acha disso?"
 v_vir0762
 "............"
-Hearing that somewhat surprised me, but a part of me could more or less understand it.
-He seemed like the guy who’d do that. Even so, there was only one thing I could say in response.
+Eu estaria mentido se dissesse que isso não me pegou de surpresa, mas meio que conseguia aceitar.
+Ele definitivamente seria capaz disso. Mas, apesar de tudo, eu só tinha uma resposta.
 v_vir0763
-"He’s a fucking idiot."
+"É um idiota desgraçado."
 v_bat0213
-"Indeed. A real fool. I understand that he isn’t normal and has enough power to make short work of you. It’s possible that he is on an entirely different level from us, even."
+"Sim, é mesmo um idiota. Já entendi que ele não é normal e poderoso o suficiente para manipular você. É possível até que ele esteja um nível acima de nós."
 v_bat0214
-"But still, he’s far too naïve. He doesn’t understand the situation at all. As all of us at the Obsidian Table know, Lorde Heydrich is in a whole different realm of power."
+"Mas foi ingênuo. Ele não faz ideia de onde se meteu. Todos na Távola Redonda Obsidiana reconhecem que o Lorde Heydrich está em uma dimensão diferente."
 v_bat0215
-"Not only that, but even His Excellency the Vice Commander is enthusiastic about this. Think about it. He made an enemy out of 
-those two.
- It’s impossibly foolish..."
-Her voice gradually began to shake until it became much like a shocked chuckle.
+"E não ficou nisso: agora a Vossa Excelência o Vice-comandante também resolveu entrar no meio. Pense no que está acontecendo. Ele escolheu desafiar os
+dois 
+. É muita irresponsabilidade; é inconcebível..."
+A voz dela começou a estremecer gradualmente até se assemelhar mais a um escárnio.
 v_bat0216
-"His life is forfeit. Nothing can save him now. No matter what he is, this is suicide."
-As I silently ― but thoroughly ― agreed with her, Beatrice grabbed me by my chest.
-This time, she roared with intensity.
+"Acabou. Não tem como ele sair vivo. Pouco importa quem ele seja, só me resta dizer que é suicídio."
+Embora eu concordasse plenamente, eu permaneci em silêncio enquanto a Beatrice me agarrava pela lapela.
+E então berrou intensamente.
 v_bat0217
-"But even so...!"
+"Mas, mesmo assim...!"
 v_bat0218
-"Even so, he wanted Claudia so much that he didn’t hesitate to do something so foolish."
+"Por mais imprudente que seja fazer isso, ele quer tanto a Claudia que não se importa em fazer uma loucura dessas!"
 v_bat0219
-"He underestimated Lorde Heydrich and put too much faith in his own power. For all I know, he might even think that he’s already won... However!"
+"Está subestimando o Lorde Heydrich e confinando demais nas próprias forças. É capaz até de pensar que já venceu... Eu não entendo como ele pode pensar assim――Mas!"
 v_bat0220
-"He will never let go of Claudia. He will soon become painfully aware of how great Lorde Heydrich is and come to know his folly."
+"Ele não vai abrir mão da Claudia. Em breve, ele vai descobrir o quão poderoso é o Lorde Heydrich e será obrigado a reconhecer a própria imprudência."
 v_bat0221
-"But even then, he will not despair!"
+"Mas nem assim ele vai cair em desespero!"
 v_bat0222
-"He will continue fighting for her sake. That much I’m certain of!"
-She then looked at me with anger burning in her damp eyes.
+"Vai continuar lutando por ela! Isso é certo!"
+Ela me encarou com um olhar incandescente de raiva.
 v_bat0223
-"What about 
-you,
- Wilhelm Ehrenburg?!"
+"E quanto a 
+você
+, Wilhelm Ehrenburg?!"
 v_bat0224
-"Claudia determined that 
-you
- were the person who would give her the last light of her life!"
-The words she’d hit me with left me slightly surprised.
+"A Claudia decidiu que 
+você
+ concederia a ela a luz em seu último suspiro!"
+As palavras dela me pegaram de surpresa.
 v_vir0764
-"You found out?"
+"Tu sabia?"
 v_bat0225
-"Yes... the Major told me just a moment ago."
-Claudia didn’t have much time left.
-Beatrice had only come to me because she became aware of that fact.
-Even if she didn’t like the order or want to save me, she chose this path because it was best for Claudia.
-She then let go of my clothes and continued.
+"Sim... Ouvi da Major há pouco."
+A Claudia não tinha muito tempo sobrando.
+E a Beatrice só foi atrás de mim porque ficou sabendo disso.
+Mesmo que discordasse das ordens ou preferisse me deixar morrer, ela optou pelo que seria melhor para a Claudia.
+Ela soltou minhas roupas e seguiu falando como se estivesse lamentando a si própria.
 v_bat0226
-"I still don’t accept your relationship and don’t wish for her to die."
+"Eu ainda não admito a relação de você... e não quero que aquela garota morra."
 v_bat0227
-"But I also don’t want her to live on by discarding her humanity. There are more than enough such fools with just us alone."
-So she wanted her to die normally? That question of mine appeared on my face, and she responded by forming a faint smile and nodding.
+"O que não significa que prefiro vê-la descartando a própria humanidade em prol da longevidade. Já tem idiotas demais fazendo isso."
+“Por isso quer que ela morra com uma pessoa normal?” ― Eu a questionei só com o olhar, e ela assentiu esboçando, um sorriso tênue.
 v_bat0228
-"If Claudia’s illness was caused by her walking the path she chose, I don’t believe we should take it away from her. It would be like denying her entire life."
+"Se a doença da Claudia é resultado do caminho que ela escolheu trilhar, não acho certo tirarmos isso dela. Seria o mesmo que negar toda a vida dela."
 v_bat0229
-"At the very least, I am certain she never considered or wished to survive by becoming a vampire."
+"Ao menos, não acho que aquela garota alguma vez desejou se tornar um vampiro para continuar vivendo."
 v_bat0230
-"You have to take responsibility and save her."
-If her life couldn’t be saved, she could at least have a happy death ― the peace that would take her to the sanctuary she so sought and prayed for.
-That was basically what Beatrice wanted to say.
+"Você precisa assumir a responsabilidade e salvar a Claudia."
+Se não tem como salvá-la, ao menos que tenha uma morte feliz. Que possa encontrar a paz no santuário pelo qual tanto orou e desejou.
+Foi basicamente isso que ela estava dizendo.
 v_bat0231
-"To be honest, I’m not so sure of it all. These convictions are all my own, and I’m certain there are many other ways to look at it."
+"Sendo bem sincera, não sei dizer ao certo. É tudo convicção minha, e tenho certeza de que há outras maneiras de encarar isso."
 v_bat0232
-"For example, it’s hard to deny that doing anything you can to save someone’s life ― regardless of all the hatred, rejection, and cries that they would direct at you ― is a very valid expression of love."
+"Mesmo que leve a ser odiado, desperte rancor e passe a ser rejeitado... não se pode negar que fazer tudo o que está ao seu alcance para salvá-la não constitui uma expressão de amor."
 v_bat0233
-"Therefore, this is but an unreliable, personal opinion I have as a woman."
+"Portanto, tudo que estou dizendo é uma opinião pessoal minha, como mulher, ainda que pouco confiável..."
 v_bat0234
-"If there were two men who wanted me, and I didn’t know who to pick... the ultimate deciding factor would be..."
-Slightly curious, I waited for her to continue, but she seemingly couldn’t put the words together and...
+"Se sou desejada por dois homens e fico indecisa na hora de escolher... acho que o fator decisivo na hora de tomar uma decisão..."
+Aquilo me deixou curioso e fiquei esperando que ela continuasse, mas ela parecia com dificuldade de tecer as palavras...
 v_ero0035
-"Are you done? Sorry for the intrusion, but sadly, time is short."
+"Terminou? Desculpem-me intrometer assim, mas, infelizmente, o tempo é curto."
 v_ero0036
-"Stop wasting it on such trifling talk."
+"Não o desperdice com conversas fúteis."
 v_bat0235
 "M-Major!"
-Samiel was leaning against the open door and knocked on it while not hiding a bit of her irritation.
+A Samiel estava encostada contra a porta aberta e bateu nela sem fazer questão de esconder sua irritação.
 v_vir0765
-"Man..."
-This really 
-had
- become an all-out war. What was originally just my and Claudia’s problem had somehow blown up into something huge.
+"Fala sério..."
+Foi  
+ali
+ que eu percebi que aquilo tinha se tornado uma guerra muito maior. Aquilo que era um problema entre mim e a Claudia acabou se tornando algo muito maior.
 v_vir0766
-"Yeah, this talk was a real waste of time. Sorry for keeping ya. Let’s go."
+"Pois, não adianta perder tempo com isso. Foi mal enrolar tanto. Podemos ir?"
 v_bat0236
-"Hey! You... I swear I’ll kill you! I was only talking ’cause it looked like you needed a little pep talk!"
+"Ei! Você...! Eu ainda vou acabar te mantando! Eu só falei tudo isso porque percebi que perdeu seu vigor faz um tempo e isso me preocupou――"
 v_bat0237
-"Tell me. 
-Are you determined?
- "
+"Tá 
+mesmo 
+motivado, né?"
 v_vir0767
-"Damn right I am, you dumbass."
-Just like Samiel had warned, no matter who we fought, we had to achieve an absolute victory.
-Not to mention that I already knew what I had to do, and I wouldn’t waver on that no matter what.
+"Claro tô! Sua imbecil!"
+Exatamente como a Samiel havia alertado antes, não importa contra quem a gente luta, sempre temos que buscar a vitória absoluta.
+Sem contar que eu sabia exatamente o que precisava fazer, e não hesitaria um milímetro.
 v_vir0768
-"Claudia is mine. I salvaged her, and now I’m gonna go take her back."
-Her fate was to become a great rose that would shine brilliantly as she perished within the light I’d grant her.
-Following a dream that felt both long and fleeting, I regained my consciousness.
+"A Claudia é minha. Eu a salvei, e agora vou pegar de volta."
+E assim se tornaria uma grande rosa que reluziria no momento de sua morte com a luz que eu a concedi
+Eu recuperei a consciência depois de um sonho muito longo, mas que parece ter passado em um piscar de olhos.
 v_rut0232
 "Acordaste, Claudia?"
 v_kru0402
@@ -9599,9 +9599,9 @@ v_kru0526
 Please live on... forever. Keep living, even if the world ends, my Matusalém, my beloved..."
 She formed her final, most sincere smile.
 v_kru0527
-"My dear Wilhelm."
+"Meu querido Wilhelm."
 v_vir0949
-"Claudiaaaaaaaaa!"
+"―――Claudiaaaaaaaaa!"
 His scream didn’t reach her. His words received no response. Embracing the fragments of the rose within her heart, Claudia vanished into the light.
 That was the last time he ever saw her.
 Obviously, Claudia was never heard from again.
