@@ -5,10 +5,11 @@ Compatível somente com a versão Steam.
 
 Este patch:
 - Restaura **créditos originais** (Abertura e encerramento com nomes japoneses e música traduzida)
+- Restaura **fonte original** (Anticezanic)
 - Restaura **nomes oficiais** (Em conformidade ao artbook "Ω Ewigkeit")
+- Preserva **narração em 1º pessoa** (Em linhas específicas e cenas de teor emocional)
 - Conserta **linhas quebradas** (`[s]"[z]`)
 - Erradica **"fucks&Hells&shits&bitchs" analfabetos** 
-- Restaura **fonte original** (Anticezanic)
 
 Para informações detalhadas sobre como traduzir jogos que utilizem a engine MalieSystem, clique **[aqui](https://github.com/Monaco-a-Knox/amantesamentes/blob/main/outros/README.md)**.
 
