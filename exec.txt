@@ -1067,9 +1067,7 @@ v_kru0065
 v_syp0010
 "É... “precisamos aceitar”. É como o capitalismo funciona. Justamente por isso eles fazem o que podem para conseguir o quanto puderem."
 v_syp0011
-"Quando os preços sobem, os preços justos 
-sobem junto. 
-A injustiça é querer pedir além do que vale. Querer levar vantagem em cima disso... é puro egoísmo e mesquinharia."
+"Quando os preços sobem, os preços justos sobem junto. A injustiça é querer pedir além do que vale. Querer levar vantagem em cima disso... é puro egoísmo e mesquinharia."
 v_kru0066
 "Realmente... mas isso..."
 v_syp0012
@@ -1379,11 +1377,9 @@ v_rin0002
 "De novo, sim. Que falta de virtude."
 v_vir0261
 "Impossível...?!"
-Eu até acreditaria que ele 
-tivesse dado no pé
-, mas o fato de que ele 
-escapou 
-do Lorde Heydrich me deixou sem palavras. Foi como se o mundo tivesse virado de cabeça pra baixo.
+Eu até acreditaria que ele tivesse dado no pé, mas o fato de que ele 
+escapou
+ do Lorde Heydrich me deixou sem palavras. Foi como se o mundo tivesse virado de cabeça pra baixo.
 E mais do que isso, o próprio Ouro, em seu trono, esboçou um sorriso autodepreciativo, com se reconhecesse que haviam passado a perna nele. Uma onda de apreensão se espalhou entre nós, tentando entender que tipo de pesadelo era aquele.
 v_rin0003
 "O que vós pensam de mim? Estou longe de ser onipotente ou onipresente."
@@ -6938,9 +6934,7 @@ v_vir0743
 “Não vem bancar a inocente pra cima de mim! Porra de virgem irritante.”
 “A questão é que não tem sentido ficar envergonhada quando um pedaço de merda faz merda. Fica sempre dizendo que não tem com o que se envergonhar, mas isso não passa de uma maneira de tentar enganar a si mesma e manter as aparências.”
 v_vir0744
-"É justamente 
-por isso
- que fica desesperada com qualquer coisinha! Aprenda qual é o seu lugar!"
+"É justamente por isso que fica desesperada com qualquer coisinha! Aprenda qual é o seu lugar!"
 Eu não ficaria decepcionado se ela me mostrasse o seu lado mais imundo e pecador.
 Pelo contrário, se ela realmente queria me ensinar sobre o amor...
 v_vir0745
@@ -6975,9 +6969,7 @@ At that moment, my limited self-restraint was shattered into dust.
 v_vir0750
 "Desgraçaaaa!"
 A bestial roar. Imbued with magical power, it was strong enough to shatter the cathedral’s interior and form a brief storm of broken flooring and pews.
-I had never snapped 
-this
- badly. I jumped at supersonic speeds and closed in on the shithead while making my way through the shattered stained glass flying all around. Then, I raised my fist and threw it toward his mug.
+I had never snapped this badly. I jumped at supersonic speeds and closed in on the shithead while making my way through the shattered stained glass flying all around. Then, I raised my fist and threw it toward his mug.
 But instead of getting the expected feel of his face, it felt like I’d just punched mist. It was the same as it was back in Katyn. Unlike three days ago, my attack didn’t work.
 Not only that...
 v_vir0751
@@ -7328,7 +7320,7 @@ v_bat0235
 A Samiel estava encostada contra a porta aberta e bateu nela sem fazer questão de esconder sua irritação.
 v_vir0765
 "Fala sério..."
-Foi  
+Foi 
 ali
  que eu percebi que aquilo tinha se tornado uma guerra muito maior. Aquilo que era um problema entre mim e a Claudia acabou se tornando algo muito maior.
 v_vir0766
@@ -7336,9 +7328,7 @@ v_vir0766
 v_bat0236
 "Ei! Você...! Eu ainda vou acabar te mantando! Eu só falei tudo isso porque percebi que perdeu seu vigor faz um tempo e isso me preocupou――"
 v_bat0237
-"Tá 
-mesmo 
-motivado, né?"
+"Tá mesmo motivado, né?"
 v_vir0767
 "Claro tô! Sua imbecil!"
 Exatamente como a Samiel havia alertado antes, não importa contra quem a gente luta, sempre temos que buscar a vitória absoluta.
@@ -9324,155 +9314,159 @@ I’d embrace her and make her wither until her life faded.
 All that mattered was that my soul survived long enough for me to get there.
 v_vir0925
 "Estou... indo..."
-With that whisper, I began walking, dragging the dense night with me.
+Com esse sussurro, eu comecei a andar, trazendo comigo a noite.
 Não morra ainda, Claudia.
-Eu irei sumir com você porque a amo.
+Eu irei usurpa-la porque porque a amo.
 v_kru0492
 "Wilhelm..."
-Even with my scorched consciousness, I could easily understand what he was doing and its purpose.
+“Eu compreendi suas ações intenções enquanto minha consciência era consumida pelas chamas.”
 v_kru0493
 "Oh, por quê...?"
-I just didn’t know why this happened. Was our relationship and the final choice we’d arrived upon such a profound sin?
-Did God determine that it simply couldn’t come to pass?
+“Não sei como isso foi acontecer. Fico me perguntando se nossa relação e a escolha que fizemos foi mesmo tão pecaminosa assim.”
+“Será que Deus simplesmente determinou que não poderia realizar-se.?”
 v_kru0494
-«Sim, Wilhelm. Atravesse a luz. Venha sumir comigo.
+«Isso mesmo, Wilhelm. Atravesse a luz. Venha sumir comigo.
 v_kru0495
-Não quero que morra. Não quero morrer. Esses sentimentos são compatíveis...
+Não quero que morra e não quero morrer. Sentimentos compatíveis, por isso eu peço...
 v_kru0496
-Então, lute. Ó meu amado anjo.»
+Lute, por favor! Ó meu amado anjo.»
 v_vir0926
 "Guoaaahhh!"
-As if to affirm its sinfulness, my craving ignored me and rained down a deluge of light.
-It was as though it were creating a trial for him to overcome. It venerated his progress while obstructing his advance. It was contradictory, but that was exactly what made it two-sided.
-After all, Wilhelm was sacrificing his life to live on, and the craving believed that doing something similar was a proof of love.
+“Como se afirmando isso, minha ânsia ignorou minha consciência e deu continuidade ao dilúvio de luz.”
+“Quase como se estivesse impondo uma provação: exaltando o caminho trilhado por ele ao mesmo tempo que o obstrui ― uma faca de dois gumes criada a partir da própria contradição.”
+“Wilhelm está sacrificando a própria vida para continuar vivendo, e acredito que fazer o mesmo era é prova de amor.”
 v_kru0497
 «Eu quero me torna um anjo para poder lutar e salvá-lo.»
-The purity of the logic was so great that it seemed almost like madness. I felt as though the heavenly light itself was telling me, "This is your truth, be aware of how sinful you are."
-Accept your punishment. Fall to the earth. Take what you deserve for your broken, misguided love.
-Thin and fading, I was completely unable to resist this, even though I knew full well that both of us would die if things continued down the current path.
-No one would ever arrive at their sanctuary.
+“Essa pureza; um desenvolvimento puramente lógico que chega a beira a insanidade. É como se a luz divina estivesse dizendo: "Esta és a tua verdade, e precisas estar ciente do quão pecaminoso és".”
+“Aceite seu castigo; sucumba à terra. É como se essa cena jogasse na sua cara: "Sofra as consequências do seu amor desvirtuado――”
+“Minha existência está ficando mais tênue e desaparecendo; já não consigo mais impor qualquer resistência, mesmo sabendo que, ambos vamos desaparecer morrer se continuarmos seguindo por esse caminho.”
+“Nenhum de nós alcançará seu respectivos santuários.”
 v_hrg0074
 "Mais! Mais! Me dê mais, Wilhelm! Não é o bastante... sugue mais! Ficará comigo até ressecar, não vai?!"
 v_vir0927
 "Claro, chupe o quanto quiser. Nem pense em desperdiçar uma gota, sua merda!"
 v_hrg0075
 "Ufufufufufu... Hihihihihihihahahaaaa!"
-He continued his advance, while my angelic light didn’t weaken whatsoever.
-In fact, it was growing stronger without limit, as though it was the salvation I’d been seeking.
+“Ele continua avançando enquanto minha luz angelical persiste.”
+“Pelo contrário, o brilho continua a se expandir infinitamente, como se essa fosse a salvação que buscamos.”
 v_hrg0076
-"Of course I won’t. I’ll suck you right down to the bone! I love you sooo much!"
+"Não é óbvio? Vou chupar até os ossos! Eu te amoooo!"
 v_kru0498
 «Eu te amo. Eu te amo. Eu sei, melhor do que ninguém, o quão preciosa é a luz que concedeu-me. Olhe para mim. Abrace-me. Usurpe-me.
 v_kru0499
 Oh, Wilhelm, neste momento, eu estou tão...»
 v_hrg0077
-"Such happiness! I might melt!
+"Tamanha felicidade! Sinto que vou derreter!
 v_hrg0078
-I’m fine dying like this! So die with meee!"
-We were both heading straight toward our demise. There were two very clear reasons why Wilhelm couldn’t come to me.
-First was compatibility, while the second was the effective range. Unfortunately, he was disadvantaged on both fronts.
-As Wilhelm was now, he was a true vampire, so he was weak to sunlight. It was his bane, in fact.
-The second problem he had was that his current night was exceptionally small. Though my light reached him, his darkness didn’t reach me at all ― it was basically a one-sided battle.
-Under normal circumstances, his night was probably wider, and it had an area of effect as great ― if not greater ― than my day. But alas, he was unable to use it now.
-Though it was true that the night’s darkness had become more dense, that didn’t amount to much. After all, 
-he couldn’t know what was going on outside while in absolute darkness.
-We were both the same in that regard. I couldn’t see anything outside this day I’d created.
-To move forward ― to not lose sight of me ― he absolutely had to be able to see.
-Therefore, he couldn’t shut away all light and actually took the fatal poison, even though his soul was already being drained.
-With conditions so bad, he simply couldn’t fulfill his goal. It was objectively impossible.
-The only futures that awaited him were death by the burning light, or death by the girl draining him completely.
-Despite that, he...
+"Não me importo de morrer assim, sabia? Vamos morrer juntoooos!"
+“Tudo o que nos aguarda a partir daqui é a ruína. As razões pela qual Wilhelm não conseguirá chegar até mim estão claras.”
+“Primeiro: compatibilidade. Segundo: o alcance do efeito. Ambos os fatores evidencia sua desvantagem.”
+“Da forma como está agora, ele é um vampiro no mais puro sentido, logo encontrasse seriamente vulnerável à luz do sol ― seu inimigo natural.”
+“E o segundo problema é que o alcance da “noite” que ele está propagando é extremamente limitado. Embora minhas luz o alcance, as trevas dele não chegam até mim. Por outras palavras, é um embate unilateral.”
+“Em condições normais, ele deveria ser capaz de expandi-la muito além, alcançando um efeito equivalente ou até superior ao meu “dia”... mas não é o que está acontecendo agora.”
+“Embora não haja qualquer dúvida de que a densidade da noite aumentou, tudo indica que temporário, afinal...  
+não tem como saber o que acontece no exterior enquanto estiver envolto por completa escuridão.”
+“Da mesma forma, sou incapaz de reconhecer o que está além do dia que concebi.”
+“Para seguir em frente, para não me perder de vista, seu campo de visão precisa estar desobstruído.”
+“É por isso que ele não consegue bloquear a luz e continua sendo exposto a esse veneno mortal, além de estar tendo sua própria alma usurpada.”
+“Com tantas condições adversas, é objetivamente impossível cumprir com seu objetivo.”
+“No fim, apenas dois futuros o aguardam: morrer queimado pela luz ou morrer drenado pela garota.”
+“Apesar de tudo, ele...”
 v_vir0928
-"Just wait. Don’t fucking move... I’ll get to you soon!"
-He didn’t doubt the path he’d walked whatsoever.
-To him, it wasn’t about whether he could ― he just did it. He talked big, confident in his chances, and literally burned his life to attain his goal.
-It pained my heart to even look at him, but at the same time...
+"Espera por mim e não saia daí... Estou indo agora mesmo, ouviu?!"
+“Ele não duvidou nem por um segundo do caminho que estava trilhando.”
+“Não é sobre ser capaz ou não ― ele simplesmente faz. Convencido de que é capaz, ele grita com fervor e queima a própria vida como combustível.”
+“Vê-lo nesse estado é doloroso e também comovente...”
 v_kru0500
-"Você é tão reluzente..."
-Ele 
-era 
-amado.
+"Tão reluzente..."
+“Você 
+é
+ amado, Wilhelm.”
 v_kru0501
 "Por favor, não morra."
-And I didn’t want to die myself.
-If possible, I wanted to live with him forever.
-I absolutely loved his foul mouth, and I would’ve loved to hear even more of it.
-He was short-tempered, violent, and generally a very bad person who wouldn’t do much good.
-Perhaps there were many people who would be saved if he were to die.
-Those who’d died by his hands, too, probably wished for his death.
-But... Oh dear, I still wanted to save him.
-He was a child of Noah born in the dark, so he knew more of light than anyone else.
+“Eu também não quero morrer.”
+“Se possível fosse, eu gostaria de viver com você para todo sempre.”
+“Eu amo esse seu palavreado grosseiro, e gostaria de poder ouvi-lo ainda mais.”
+“Você tem pavio-curto, é violento... e tende a ser uma pessoa ruim, e tenho certeza que não vai fazer nada digno daqui pra frente.”
+“Talvez muitas pessoas possam ser salvas se você morresse aqui e agora.”
+“Aqueles que você matou certamente devem desejar pela sua morte.”
+“E, mesmo assim, eu gostaria de salvá-lo. Eu sei que não é certo...”
+“Você é um filho de Noé nascido nas trevas e, justamente por isso, sabe mais sobre a luz do que qualquer um.”
 v_kru0502
-"After all, his roses are shining ever so brightly..."
-He’d probably have rejected those words if he heard them.
-I could just imagine him putting on a scowl and yelling at me, calling the idea disgusting or saying that I was misunderstanding something.
-In fact, perhaps he wouldn’t be wrong about that.
-For now, anyway.
- In this world, at least.
+"Afinal, veja como suas rosas estão brilhando."
+“Não importa o que eu digo, sei que vai negar tudo, não vai?”
+“Falar que é repugnante, que não passa de um mal-entendido, vai fazer uma cara de desgosto e gritar comigo.”
+“A verdade é que é exatamente isso que deve acontecer.”
+“Ao menos aqui e agora――
+neste mundo em que nos encontramos.”
 v_kru0503
-"Louie said that the world would end soon.
+"O Louie disse que o mundo acabaria em breve.
 v_kru0504
-And you said you would keep on living even if the world ended."
-Then, perhaps in the next world, or the one after that, the light of the rose will gain a new meaning.
-No, as one who knew of his life and prayer through our blood pact, I’d grown certain of that.
-And that was exactly why...
-...I couldn’t let his precious light receive such a wasteful end.
-Regardless of his reasons, he came to know love, embraced affection, and fought hard even as he was wasting away.
-If he determined this situation to be a failure and an act of stupidity, I felt like all that would come after would collapse.
-I had no doubts that I lived my life seeking the light for the sake of this very moment.
-I’d met him, came to love him, and was loved back. I was born 
+“E você disse que continuaria vivendo mesmo que o mundo acabasse."
+“Então, talvez no próximo mundo que está para nascer... o brilho das suas rosas ganhem um novo significado.”
+“Tendo aprendido sobre sua 
+vida
+prece
+ através do nosso pacto de sangue, minha convicção quanto a isso torna-se ainda maior.”
+“E, por essa mesma razão, aqui e agora――”
+“Eu não posso permitir que essa preciosa luz se apague em vão.”
+“Independentemente das razões, você conheceu o amor, aprendeu a amar e lutou até a exaustão.”
+“Se a sua alma pensar que foi um fracasso, um ato tolo e sem sentido, eu sinto que tudo que vir depois vai simplesmente colapsar.”
+“Não tenho a menor dúvida de que vivi a minha vida em busca da luz puramente em prol deste momento.”
+“Eu o conheci, o amei e fui amada... Nasci como 
 Metatron
 Anjo da Promessa
- ― the angel meant to be a foundation to further elevate plenitude the knight of the rose into the future.
-I had finally become aware that the truth of the light I was seeking was the vast, miraculous land he would eventually wedge open.
-I had to guide the possibility birthed by the bloodstained flower toward the promised bliss.
-Número IV da Távola Redonda Obsidiana, Wilhelm Ehrenburg. Tenho certeza de que ainda tem muito pela frente.
-I had to protect him. I couldn’t let him fall. I didn’t want to etch onto his soul that our relationship ― our history ― was fraught with nothing but defeat.
+ ― destinada a ser o alicerce que para que o Cavaleiro da Rosa alcance a plenitude no futuro.”
+“Eu finalmente compreendi que a verdadeira natureza da luz de Claudia Jerusalem é um horizonte de milagres que se estende, tendo você como fundamento.”
+“Em prol de guiar a possibilidade nascida da flor tingida de sangue em direção a bênção prometida.”
+“Número IV da Távola Redonda Obsidiana, Wilhelm Ehrenburg. Tenho certeza de que ainda tem muito pela frente.”
+“É preciso protegê-lo. Não posso deixar que ele fracasse. Não quero que nossa relação fique marcada em você como uma mera história de derrota.”
 v_kru0505
-"And I, too, don’t want to think of it that way."
-Even if God himself called me sinful, deemed us unworthy of rewards, and decided we needed to be punished...
-I would still be against it. I didn’t want to hear it. I had faith that the sanctuary I sought wasn’t just a circle of disappointment.
-There was no need to adhere to the plot of a dying God ― a world about to fade.
-Wilhelm once heroically roared that only the weak vanished and that there was no past that surpassed the present, and because of that, it was absolutely necessary to lead his evolved soul onto the next world.
-We couldn’t allow ourselves to disappear as fleeting lives that simply allowed themselves to be toyed with by the olden law.
+"Eu também não quero pensar dessa forma."
+“Mesmo que Deus os considere pecadores; condenados a nunca serem recompensados, e merecedores de punição...
+“Eu o rejeitarei; não quero dar ouvidos. Eu acredito que o “santuário” pelo qual tanto lutei não é um círculo de decepções.”
+“Não é necessário aderir ao roteiro de um 
+Deus
+Mundo
+ a beira da morte.”
+“Wilhelm declarou bravamente que apenas os fracos desaparecem, e que não há passado superior ao presente. Assim sendo, sua alma evoluída precisa ser conectada ao “próximo” mundo.”
+“Não há como aceitar que se torne frágil e efêmera, condenada a desaparecer à mercê das leis do velho mundo.”
 v_kru0506
 "Por favor, coma a minha comida algum dia."
-I’d like to treat the potatoes he bought with care, so the preparation would probably take some time.
+“Eu gostaria de cozinhar com mais cuidados as batatas que me trouxe, então pode ser que leve um pouco mais de tempo.”
 v_kru0507
-"Please wait for me. The dining table won’t have any potatoes for a while, but I promise I will complete it in the end.
+"Peço que espere por mim. As refeições não terão batatas por um tempo, mas prometo que irei completa-la algum dia.
 v_kru0508
-I’ll make you say you were satisfied."
-I hoped he wouldn’t see this conclusion as a defeat.
-His battle would continue, and I hoped he wouldn’t stop moving forward and would always strive to be the best he could be.
-He would surpass the end of the world and beyond...
-I wanted to save this undying warrior who constantly struggled against fate.
-That manner of being was part of why I loved him, after all.
+Farei você dizer que está satisfeito."
+“Peço que não encare este desfecho como uma derrota.
+“Sua luta continua, então não pare. Continue sendo a versão mais avançada de si.”
+“Supere o fim do mundo e vá ainda mais além――”
+“Meu desejo é salvar o guerreiro imortal que persiste em desafiar o destino.”
+“Porque é justamente esse seu jeito de ser que eu tanto gosto.”
 v_kru0509
 «Vamos nos tornar um, Wilhelm.»
-I couldn’t resist my craving, so I couldn’t stop the light.
-Therefore, there was only one course of action.
+“Não há como resistir à minha ânsia, portanto não há como impedir a luz.”
+“Sendo assim, só há uma coisa a ser feita.”
 v_kru0510
-"So you can keep advancing forward, I’ll..."
-I resolved to act it out.
-I tightly embraced the rosary on my chest and prepared to become a miracle for your sake, my Matusalém.
+"Para que você possa seguir em frente..."
+“Determinada em colocá-la em prática.”
+“Segurando com todas as forças o rosário em meu peito a fim de me tornar o milagre do meu Matusalém.”
 v_vir0929
 "Dh, rrh... Aaaghhh!"
-One step, then another... Slowly but surely, Wilhelm approached the angel.
-It was already odd enough that he was still standing, but he wasn’t in a situation when he had time to care. If he did, he’d just break and it’d all be over.
-As common logic dictated, brightness was stronger the closer you were to the source. The sun ravaging his body could quickly bring him to ruin, so he couldn’t hesitate for even a moment.
-He was short on time on several fronts.
+“Um passo após o outro... ainda que lentamente, Wilhelm se aproxima do anjo.”
+“Considerando as condições de seu corpo, é difícil entender como ainda está de pé, mas também não há tempo para se preocupar com isso. No momento em que se der conta disso, será o seu fim.”
+“A lógica diz que quanto mais próximo de uma fonte de luz, mais intensa ela se torna. O Sol que atormenta seu corpo pode rapidamente levá-lo à ruína, portanto não pode haver qualquer hesitação.”
+“Não há mais tempo, em todos os sentidos.”
 v_vir0930
-"Go on, take more. Suck some more... That all you got? Is that all your love’s worth, you dumb bitch?!"
+"Vamos, beba mais... é só isso?! Seu amor é tão insignificante assim?!"
 v_vir0931
-"You’re fucking useless like this. Didn’t you wanna drain me dry?!"
+"Não vai adiantar de nada se ficar só nisso! Não disse que iria me sugar até a morte, hein?!"
 v_hrg0079
-"Oh, you said it! You went and said it now! Oh, how are you so good at getting me going?!
+"Disse, sim! Claro que disse! Como sempre consegue ser tão atencioso comigo?!
 v_hrg0080
-Oh, my beloved Wil. My cute little Wil. Is the wait that hard for you? Okay then, Mutter will be 
-really 
- rough now.
+Ah, meu amado Wil. Meu adorável Wil. Não consegue esperar um pouquinho sequer? Tudo bem, sua Mutter vai levá-lo ao extremo.
 v_hrg0081
-It’ll feel amazing, so give me all you have! I’ll suck you completely dry!"
+Farei com que se sinta bem, então deixe jorrar tudo! Irei expremê-lo até que não sobre nada!"
 v_vir0932
 "Gh, ghuhhh...!"
 As Helga’s joyous screams resounded, the surrounding darkness grew even denser, while the flowers began to wither.
@@ -9493,9 +9487,9 @@ v_vir0935
 If I keep going for all eternity... I’ll probably pick up something on my way, too."
 He never desired to regain what he’d lost, nor did he expect to even have such opportunities. Still, if those things somehow ended up on the path he walked...
 v_vir0936
-"Even if it’s something as worthless as a damn potato..."
+"Mesmo que seja só a porra de uma batata..."
 v_vir0937
-"I’ll just go on and eat it again. That’s Hegemony for ya. It keeps going forward while consuming everything in its way."
+"Quando esse hora chegar, eu vou comê-la de novo. Hegemonia é seguir em frente, consumindo tudo qu estiver no meu caminho."
 Because of that, he wanted to carve deep the parts of him he was losing.
 It wasn’t so he could keep them all in his heart or something like that. After all, he’d never been sensitive enough to cry out of regret upon losing something.
 The thing he was carving on wasn’t himself, but the world. No, in fact, he was doing it on the origin of the immense law that weighed down the world.
@@ -9518,23 +9512,32 @@ The voice he heard coming from the angel as he approached was one he’d never f
 It wasn’t the out-of-control craving talking. It had a shine dense with a crystal clear blessing.
 And it was also the first and only time he ever found sunlight beautiful.
 v_hrg0082
-"Sorry for the wait, Wilhelm. Now, give me all you are!"
+"Desculpe deixá-lo esperando, Wilhelm――agora, quero que dê tudo de si!"
 v_vir0942
 "Ghah...!"
 Helga’s fangs, having grown larger than ever before, bit into the core of his soul.
 She gnawed the crux of Wilhelm’s being and sucked it with explosive haste. It would wither, split, burn to ashes, be hollowed out and ravaged as it became a proof of love.
-It was exactly the same thing Wilhelm had done to the real Helga.
-The Dark Gift cackled as it was about to shatter all that Wilhelm Ehrenburg was, but right before that happened...
+It was exactly the same thing Wilhelm had done to the com sua sua verdadeira 
+mãe
+Helga
+.
+A 
+Dádiva das Trevas
+Helga
+ cackled as it was about to shatter all that Wilhelm Ehrenburg was, but right before that happened...
 v_kru0512
-"I won’t let you die. Please live on, my angel ― my Matusalém.
+"Não permitirei que morra. Viva, por favor! Meu 
+anjo
+Matusalém
+......
 v_kru0513
- Your light shouldn’t vanish here and now."
+ Sua luz não deve se apagar aqui."
 The thing that shattered first was the Ahnenerbe that acted as the core of the angel. Claudia’s beautiful, bright prayer broke through the item’s tolerable limit.
 That meant only one thing.
 v_hrg0083
-"Why? Why? Why, why, why, hooow?! I was so close to making him mine!
+"Como? Como?! Como, como, com, por quê?! Faltava tão pouco para torná-lo meu?!
 v_hrg0084
-I’ll kill you...! You bitch! You vile bitch!"
+Vou te matar...! Sua... Sua...!"
 The angel shattered. Claudia flew out of its core, covered in the glittering fragments of the rosary, and wrapped her hands around Wilhelm’s neck.
 Their lips touched, and following that, the overflowing torrent of light became a wave that pushed the Dark Gift’s materialized form into the horizon.
 v_hrg0085
@@ -9543,22 +9546,22 @@ Helga lost most of the power she’d absorbed and ran away ― vanishing into th
 Wilhelm was so overwhelmed by this turn of events that he couldn’t even speak.
 After seeing off the Dark Gift, Claudia formed a troubled, wry smile.
 v_kru0514
-"You’re not even the real “her”. I would prefer it if you didn’t defile the deceased.
+"Você nem mesmo é a “verdadeira”. Eu preferia que não difamasse os mortos, de verdade.
 v_kru0515
-Same can be said to you, Wilhelm."
+E o mesmo pode ser dito a você, Wilhelm."
 Her tone and mannerisms were the same as always. She chided Wilhelm, acting as though her own state didn’t matter at all.
 Claudia was generally off-point and stupid, which often made Wilhelm feel irritated, exasperated, and annoyed beyond belief.
 And despite their grave situation, absolutely none of that had changed.
 Even after expiring and becoming nothing but a soul, she was still herself.
 v_kru0516
-"I don’t know what your impression of your mother’s like, but you should make an effort to mend it a little bit, even if it’s not something you can change easily.
+"Não sei que imagem tinha da sua mãe, mas seria bom se pudesse repensar um pouco. Ainda que não seja uma mudança imediata.
 v_kru0517
-After all, you might see her again, no?"
+Afinal, pode acabar reencontrando ela algum dia, esqueceu?"
 v_vir0943
-"...Shut up."
+"...Cala a boca."
 The voice the man wrang out was dry and withered.
 v_vir0944
-"Shut the fuck up. That doesn’t fucking matter."
+"Cala a boca! Isso não tem importância!"
 Wilhelm had realized what had happened.
 Claudia had most likely drained her own soul to save him, making the rosary shatter due to the overload.
 And this was the result. An Ahnenerbe that shattered always took its wielder with it, which meant that she couldn’t possibly survive much longer.
@@ -9748,7 +9751,7 @@ v_ero0041
 v_bat0253
 "Eu não hesitaria se soubesse do que realmente se tratava..."
 Bom, pensando bem, a Beatrice devia saber exatamente o que ia acontecer.
-Quando estávamos em Katyn, eu vi as trevas no coração dela, e ela soube do fim que a Claudia levou. Considerando tudo, não seria estranho se ela it wouldn’t have been weird if she dropped the meaningless tendency to jump at and cling to the most hopeful futures.
+Eu vi as trevas no coração dela quando estávamos em Katyn. E ao saber do fim que a Claudia levou, não seria estranho se ela tivesse caído na real e percebido que não tem sentido se apegar a um final esperançoso.
 v_vir0977
 "Bom, o que for, será, 
 Valquíria.
