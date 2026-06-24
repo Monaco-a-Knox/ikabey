@@ -15,7 +15,7 @@ v_vir0004
 A 
 Dádiva das Trevas
 Kiss in the Dark
- ...é perfeita para a história que contarei esta noite."
+... é perfeita para a história que contarei esta noite."
 v_vir0005
 "Teu nome é Malloy, né? Já vai ficar pronto. Sente-se por aí e fique à vontade."
 v_din0003
@@ -51,7 +51,7 @@ v_vir0014
 Mas não posso negar que ultimamente tenho me sentido mais pra cima."
 Dizendo isso, o homem deixou o balcão, caminhou até ela e entregou o copo. Dinah aceitou timidamente, parecendo estar levemente confusa.
 v_din0008
-"Sinceramente, estou surpresa por tê-lo conseguido encontrar tão facilmente. Eu tinha certeza de que você era de fugir e se esconder, mas parece que, bom..."
+"Devo admitir que estou meio surpresa por tê-lo conseguido encontrar tão facilmente. Eu tinha certeza de que você era de fugir e se esconder, mas parece que, bom..."
 v_vir0015
 "Ah, tá falando dos pirralhos?"
 v_din0009
@@ -6079,57 +6079,57 @@ v_syr0003
 "Afinal, você não bate bem da cabeça, s sabe? Uhahahahah!"
 v_vir0667
 "Cala a boca. Será que dá pra ficar quieto?"
-That was why I was with this lunatic. Though he had no business calling me "dumb," he was definitely the man closest to the philosophy I just mentioned.
-I walked through the castle’s hallway while Schreiber frolicked around like a dog. He was all smiles and joy, making it clear he barely even knew what "stress" meant.
-He was always smiling and acted friendly with everyone, making him seem much like a friendly puppy. However, no one I knew ever approached him of their own volition.
-The reason for that was clear ― though he was akin to a dog, he definitely wasn’t the puppy he appeared to be. If anything, he was more like a poisonous, maddened wolf.
-The ferocious raging storm, the mad beast, the murderer ― Schreiber was infamous for killing more people than anyone else at the Obsidian Table. In fact, he might’ve killed more than anyone else in history.
-Directly, I mean. I’m not including leaders like Lorde Heydrich, or those who killed just by dropping bombs or flipping the switch on gas chambers.
-I’m only talking about situations where you’re on the scene, facing the target, hearing his dying screams, and feeling his blood on you. Under those conditions, Schreiber was unmatched, and because of that, the number of souls he had was on a different level.
-His urge for violence and the amount he could stuff himself with were both extraordinary. He was basically a gluttonous eater who was starving all the time, so the amount of prey he gathered was insane.
-I didn’t like that one fucking bit, but I couldn’t deny the reality of it. Though, if there was one flaw I could name about that, it’d be the fact he wasn’t a gourmet. He didn’t care about taste and ate without consideration. No matter how much or what he took in, all of it was junk food for him.
-He was the embodiment of the "quantity over quality" approach. Sure, he had the numbers, but all of it was trash.
-In that sense, we were incompatible. Still, as I said, he was an easy-going guy who was always having a good time, so I chose him to help me get rid of my stress.
+Eu convivi com aquele maluco. Embora ele não tivesse qualquer moral para questionar a inteligência de alguém, eu o considerava o mais próximo da filosofia que mencione.
+O Schreiber ficava correndo de um lado pro outro, todo animado, enquanto me acompanhava pelos corredores do castelo. A expressão toda sorridente estampada na cara dele evidenciava que ele não fazia a menor ideia do que era ficar “estressado”.
+A expressão “abanar o rabo” caia como uma luva nele; ele era só sorrisos, sempre amigável com todo mundo, não tinha uma única pessoa que ousasse se aproximar dele.
+O motivo era claro como o dia. Embora o Schreiber fosse da raça dos cachorros, ele não chegava nem perto do filhotinho que aparentava ser. Pelo contrário, estava mais para um lobo raivoso e venenoso.
+Conhecido como aquele que mais matou pessoas dentre os membros da távola; o desgraçado recebeu diversas alcunhas infames como insanidade hostil, tornado da destruição, fera selvagem... Na real, acho que é o cara que mais matou em toda história da humanidade.
+Diretamente, é claro. Líderes como o Lorde Heydrich não entram nessa conta, nem aqueles que só apertaram um botão para jogar uma bomba ou ativar uma câmara de gás.
+Estou falando de contextos onde você está presente, frente a frente, ouvindo os berros agoniantes e se banhando com o sangue de suas vítimas. Sob tais condições, o Schreiber lidera com folga e, por causa disso, o número de almas que ele acumulou está em outro patamar.
+Sua ânsia pela violência, seu impulso assassino... e também o limite que é capaz de acumular ― é tudo fora do normal. Ele está sempre esfomeado, por isso o número de presas é tão alto.
+Essa era uma realidade que me desagradava, mas não podia simplesmente negá-la. Se me perguntar algum defeito nele, seria o fato de não ser “gourmet”. Ele como qualquer coisa sem qualquer critério, então tudo que bota pra dentro é basicamente “porcaria”.
+É a personificada da frase “quantidade sobre qualidade”. Os números são altos, mas não prestam.
+Nesse sentido, nós éramos incompatíveis... ainda que, bem como mencionei, ele é um cara alto-astral, por isso o escolhi para aliviar meu estresse.
 v_vir0668
 "Mas tenho que dizer... merece elogias pelo quão fácil e te achar."
 v_syr0004
 "Mesmo? Então vai fazer algo para me agradecer?"
-He never stayed in one place, but he always left a trail of corpses in his wake. It reminded me of Hansel and Gretel.
-Anyway, he was easy to catch as long as you just followed the dead. You needed to have some nerve to do that, though.
+Ele era do tipo que nunca permanecia em um só lugar, e sempre deixava uma trilha de cadáveres por onde passava. Tipo João e Maria.
+Bastava seguir os rastros para encontrá-lo; se tivesse estômago pra isso, é claro.
 v_vir0669
 "Hmph... Who the fuck leaves 
 that
  much of a mess when eating? Fucking idiot."
-Schreiber had already killed over a thousand people in the last few days alone.
-Women and men, young and old ― it didn’t matter to him. Guy was worse than a fucking bombing. A total nutcase if I ever saw one.
+Ele já tinha matado milhares de pessoas nas proximidades do castelo em poucos dias ali.
+O Schreiber não faz distinção entre jovens, idosos, homens, mulheres... Ele é mais assistemático do que um bombardeio aleatório. Não tem qualquer juízo.
 v_vir0670
 "As for thanks... Well, you ain’t getting any of that from me, but I won’t stop you from frolicking around like you are."
 v_vir0671
-"Have all the fun you want, ya damn mutt."
+"Aproveita aí, cachorrinho."
 v_syr0005
-"Sounds great. I’ll do just that, then."
-He relied on intuition, rather than logic. Even if he didn’t understand shit, his instincts helped him sniff out the scent of blood, and I saw a certain kind of clarity in that.
-Without asking a single question, Schreiber accompanied me to a certain place.
-There was a vast arena beyond the door we arrived at. The place wasn’t good for much, so not many people visited, but that wasn’t the only reason why it was so deserted.
+"Gostei! É isso mesmo que vou fazer.."
+Ele não se guia pela lógica, mas pelo instinto. Mesmo que não entenda o que tá acontecendo, ele consegue farejar o cheiro do sangue.
+Demonstrando plena consciência do que eu estava insinuando, ele me acompanhou sem questionar nada até chegarmos “lá”.
+Ao abrir a porta, nós grande arena aguardava por nós atrás uma grande arena There was a vast arena beyond the door we arrived at. The place wasn’t good for much, so not many people visited, but that wasn’t the only reason why it was so deserted.
 v_vir0672
-"Yo, Machina. We’ll be borrowing this place for a moment."
-It was the main haunt of Götz von Berlichingen. For reasons different than Schreiber, he was also very hard to approach.
+"E aí, Machina. Foi mal, mas pode ceder esse espaço pra nós rapinho?"
+Göetz von Berlichingen ― o cara simplesmente residia ali. Assim como acontecia com o Schreiber, mas por razões completamente diferentes, ninguém queria se aproximar dele.
 v_vir0673
-"You don’t mind, do ya? Or what, are we supposed to rent it out or something?"
+"Não se importa, né? Ou vai querer cobrar aluguel?"
 v_vir0674
-"Sadly, I’m dead broke right now, but it’s not like I don’t have anything to give ya."
+"Infelizmente, eu tô duro agora, mas também não pagaria se tivesse."
 v_syr0006
-"Join us, Machina. It’ll be more fun."
+"Vem com a gente, Machina. Assim fica mais divertido!"
 v_mkn0001
 "............"
-Machina silently fixed his eyes on Schreiber. They were like those of a dead fish, failing to reflect even the faintest bit of light.
-Malleus had said that Ludwig was like the dark, but I’d say that Machina was far more deserving of that description. He was 
-extremely 
- gloomy and always thought only of dying.
-And that was exactly why most didn’t want to get involved with him. It definitely wasn’t just rejection from his side.
-We found him unpleasant and, to be more direct, scary. While we wished to become immortal, he embodied the concept opposite of that, which gave us a somewhat unreasonable urge to avoid him.
-He was the type of guy who made us think we’d die if he touched us, and the idea wasn’t exactly wrong.
-Machina wasn’t a guy I wanted to cross, so... Well, you get the point.
+Ele nos encarou em em completo silêncio. Seus olhos são como os de um peixe morto; não refletem uma fração de luz.
+A Malleus tinha dito que o Ludwig era sombrio, mas eu diria que essa expressão combina muito mais com o Machina. O cara é 
+extremamente
+ depressivo e tá o tempo todo pensando em morrer.
+Justamente por isso que ninguém queria se meter com ele, e não simplesmente porque ele rejeitava todo mundo.
+É simplesmente abominável e, sendo bem direto, assustador. Para nós, que buscamos a imortalidade, aquele cara, a antítese desse conceito, desperta em todos uma aversão que desafia a lógica.
+A impressão é que você pode morrer só de tocar nele, e essa ideia não tá completamente errada.
+Não é o tipo de inimigo que eu gostaria de enfrentar... bom, entendeu, né?
 v_vir0675
 "You’re a senior Valhallan, so play with a junior... will ya?"
 With a wide grin on my face, I threw a backhand blow at Schreiber, who was to my side, but I ended up just fanning the empty air.
@@ -6137,7 +6137,7 @@ Suddenly, I felt a slithering, snake-like impact on my medulla.
 v_syr0007
 "Yeah, yeah! Let’s advise Bey together."
 v_syr0008
-"We’re all comrades and pals here, aren’t we?"
+"Somos colegas e bons amigos, não somos?"
 As he evaded my attack, Schreiber kicked me toward Machina, and the silent shithead slapped me away like I was nothing. After this brief, pinball-like experience, I crashed into the wall.
 v_vir0676
 "Fucking shitheads... You’ve gone and done it now. Can’t believe you’re making me look like a fucking idiot."
@@ -6149,7 +6149,7 @@ As I stood up and shook away the rubble, Schreiber joyfully looked over me with 
 It pissed me off that they both gained a point over me, but I quickly stopped caring about that. After all, I was standing before two guys who responded in kind to my moves, and I could do whatever I wanted to them.
 Getting to play around with toys that didn’t break no matter how roughly I treated them was uplifting, to say the least. I was so damn tired of misfires and imperfect releases that I wanted to run and jump around like my instincts urged me.
 v_vir0677
-"No holding back."
+"Sem contenção."
 Our ideals and lives were entirely different, but strangely enough, we took the first step at the exact same time.
 v_vir0678
 "Let’s go!"
@@ -6336,24 +6336,24 @@ v_vir0705
 "Like she said, that’s like cooking without any potatoes!"
 I wanted to be able to clear my head no matter the situation. That was the philosophy I was seeking in life, but...
 v_mkn0014
-"I see. That’s reasonable."
+"Compreendo... Realmente, faz sentido."
 v_syr0022
 "No fim, o mais irritante aqui é 
 você
 ."
-That was the reason why it didn’t work out, and because it didn’t work out, I continued to seek it.
-I wasn’t as tasteless as Schreiber, so I couldn’t just coast like him, and I wasn’t as abstinent as Machina, so I couldn’t deal with it earnestly.
-It seemed fair to call me half-baked for that, but I wouldn’t let anyone call me a loser.
-And because I wanted to strongly feel that pride surge within me...
+Essa é a razão pela qual não funcionou, e, por não ter funcionado, eu segui em busca.
+Eu não era que nem o Schreiber, que não tinha paladar, então não tinha com levar na boa; também não vivia em abstinência igual ao Machina, então não dava para simplesmente aceitar.
+Não ligo se me chamarem de incompleto por causa disso, mas nunca deixaria dizerem que sou um perdedor.
+E, para poder sentir mais intensamente esse orgulho──
 v_vir0706
-"Now, bring it on, you shits! Let’s fuck around some more!"
+"Então tratem de me acompanhar mais um pouco!"
 ...I wanted to have it all blown away, to let the fire rage, and I wasn’t gonna sweat the small stuff.
-I needed to feel the precise heat that made me feel like "me."
-In Valhalla ― the palace of strife ― we fought without ever growing bored.
-I wanted to gain a soul that wouldn’t waver no matter how many decades, centuries, or millennia passed.
-And I felt like this was a necessary baptism.
-Yeah, I wanted to keep going like that for all eternity.
-You think that’s insane? What of it? That doesn’t mean shit at this point.
+Para afirmar que eu era eu mesmo, eu precisava sentir esse calor inabalável.
+Nós continuamos lutando insaciavelmente naquele que era o palácio da guerra, o Valhalla.
+Eu queria obter uma alma que não vacilasse, independentemente de quantas décadas, séculos ou milênios se passassem.
+Senti como se eu precisasse desse “batismo ”
+Isso mesmo! Eu queria continuar assim por toda eternidade.
+Acha isso uma insanidade? E daí? A hora de falar disso já passou a muito tempo.
 v_vir0822
 "───Oooaaaaaaggghhhhhh!"
 ..................
